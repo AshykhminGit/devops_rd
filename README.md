@@ -5,5 +5,5 @@ Here we go:
 Project for DevOps lessons:
 
 Tech:
-Python, Ubuntu, GitHub, Mac, Brain
+Python, Ubuntu, GitHub, Mac, Brain (lack of it)
 
