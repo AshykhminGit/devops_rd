@@ -1,0 +1,2249 @@
+ This is executable file   /var
+ This is executable file   /bin
+ This is executable file   /boot
+ This is executable file   /cdrom
+ This is executable file   /dev
+ This is executable file   /etc
+ This is executable file   /home
+ This is executable file   /lib
+ This is executable file   /lib32
+ This is executable file   /lib64
+ This is executable file   /libx32
+ This is executable file   /media
+ This is executable file   /mnt
+ This is executable file   /opt
+ This is executable file   /proc
+ This is executable file   /run
+ This is executable file   /sbin
+ This is executable file   /snap
+ This is executable file   /srv
+ This is executable file   /sys
+ This is executable file   /tmp
+ This is executable file   /usr
+ This is executable file   /var
+ This is executable file   /bin
+ This is executable file   /boot
+ This is executable file   /cdrom
+ This is executable file   /dev
+ This is executable file   /etc
+ This is executable file   /home
+ This is executable file   /lib
+ This is executable file   /lib32
+ This is executable file   /lib64
+ This is executable file   /libx32
+ This is executable file   /media
+ This is executable file   /mnt
+ This is executable file   /opt
+ This is executable file   /proc
+ This is executable file   /run
+ This is executable file   /sbin
+ This is executable file   /snap
+ This is executable file   /srv
+ This is executable file   /sys
+ This is executable file   /tmp
+ This is executable file   /usr
+ This is executable file   /var
+ This is executable file   /bin
+ This is executable file   /boot
+ This is executable file   /cdrom
+ This is executable file   /dev
+ This is executable file   /etc
+ This is executable file   /home
+ This is executable file   /lib
+ This is executable file   /lib32
+ This is executable file   /lib64
+ This is executable file   /libx32
+ This is executable file   /media
+ This is executable file   /mnt
+ This is executable file   /opt
+ This is executable file   /proc
+ This is executable file   /run
+ This is executable file   /sbin
+ This is executable file   /snap
+ This is executable file   /srv
+ This is executable file   /sys
+ This is executable file   /tmp
+ This is executable file   /usr
+ This is executable file   /var
+ This is executable file   /bin
+ This is executable file   /boot
+ This is executable file   /cdrom
+ This is executable file   /dev
+ This is executable file   /etc
+ This is executable file   /home
+ This is executable file   /lib
+ This is executable file   /lib32
+ This is executable file   /lib64
+ This is executable file   /libx32
+ This is executable file   /media
+ This is executable file   /mnt
+ This is executable file   /opt
+ This is executable file   /proc
+ This is executable file   /run
+ This is executable file   /sbin
+ This is executable file   /snap
+ This is executable file   /srv
+ This is executable file   /sys
+ This is executable file   /tmp
+ This is executable file   /usr
+ This is executable file   /var
+ This is executable file   /bin
+ This is executable file   /boot
+ This is executable file   /cdrom
+ This is executable file   /dev
+ This is executable file   /etc
+ This is executable file   /home
+ This is executable file   /lib
+ This is executable file   /lib32
+ This is executable file   /lib64
+ This is executable file   /libx32
+ This is executable file   /media
+ This is executable file   /mnt
+ This is executable file   /opt
+ This is executable file   /proc
+ This is executable file   /run
+ This is executable file   /sbin
+ This is executable file   /snap
+ This is executable file   /srv
+ This is executable file   /sys
+ This is executable file   /tmp
+ This is executable file   /usr
+ This is executable file   /var
+ This is executable file   /bin
+ This is executable file   /boot
+ This is executable file   /cdrom
+ This is executable file   /dev
+ This is executable file   /etc
+ This is executable file   /home
+ This is executable file   /lib
+ This is executable file   /lib32
+ This is executable file   /lib64
+ This is executable file   /libx32
+ This is executable file   /media
+ This is executable file   /mnt
+ This is executable file   /opt
+ This is executable file   /proc
+ This is executable file   /run
+ This is executable file   /sbin
+ This is executable file   /snap
+ This is executable file   /srv
+ This is executable file   /sys
+ This is executable file   /tmp
+ This is executable file   /usr
+ This is executable file   /var
+ This is executable file   /bin
+ This is executable file   /boot
+ This is executable file   /cdrom
+ This is executable file   /dev
+ This is executable file   /etc
+ This is executable file   /home
+ This is executable file   /lib
+ This is executable file   /lib32
+ This is executable file   /lib64
+ This is executable file   /libx32
+ This is executable file   /media
+ This is executable file   /mnt
+ This is executable file   /opt
+ This is executable file   /proc
+ This is executable file   /run
+ This is executable file   /sbin
+ This is executable file   /snap
+ This is executable file   /srv
+ This is executable file   /sys
+ This is executable file   /tmp
+ This is executable file   /usr
+ This is executable file   /var
+ This is executable file   /bin
+ This is executable file   /boot
+ This is executable file   /cdrom
+ This is executable file   /dev
+ This is executable file   /etc
+ This is executable file   /home
+ This is executable file   /lib
+ This is executable file   /lib32
+ This is executable file   /lib64
+ This is executable file   /libx32
+ This is executable file   /media
+ This is executable file   /mnt
+ This is executable file   /opt
+ This is executable file   /proc
+ This is executable file   /run
+ This is executable file   /sbin
+ This is executable file   /snap
+ This is executable file   /srv
+ This is executable file   /sys
+ This is executable file   /tmp
+ This is executable file   /usr
+ This is executable file   /var
+ This is executable file   /bin
+ This is executable file   /boot
+ This is executable file   /cdrom
+ This is executable file   /dev
+ This is executable file   /etc
+ This is executable file   /home
+ This is executable file   /lib
+ This is executable file   /lib32
+ This is executable file   /lib64
+ This is executable file   /libx32
+ This is executable file   /media
+ This is executable file   /mnt
+ This is executable file   /opt
+ This is executable file   /proc
+ This is executable file   /run
+ This is executable file   /sbin
+ This is executable file   /snap
+ This is executable file   /srv
+ This is executable file   /sys
+ This is executable file   /tmp
+ This is executable file   /usr
+ This is executable file   /var
+ This is executable file   /bin
+ This is executable file   /boot
+ This is executable file   /cdrom
+ This is executable file   /dev
+ This is executable file   /etc
+ This is executable file   /home
+ This is executable file   /lib
+ This is executable file   /lib32
+ This is executable file   /lib64
+ This is executable file   /libx32
+ This is executable file   /media
+ This is executable file   /mnt
+ This is executable file   /opt
+ This is executable file   /proc
+ This is executable file   /run
+ This is executable file   /sbin
+ This is executable file   /snap
+ This is executable file   /srv
+ This is executable file   /sys
+ This is executable file   /tmp
+ This is executable file   /usr
+ This is executable file   /var
+ This is executable file   /bin
+ This is executable file   /boot
+ This is executable file   /cdrom
+ This is executable file   /dev
+ This is executable file   /etc
+ This is executable file   /home
+ This is executable file   /lib
+ This is executable file   /lib32
+ This is executable file   /lib64
+ This is executable file   /libx32
+ This is executable file   /media
+ This is executable file   /mnt
+ This is executable file   /opt
+ This is executable file   /proc
+ This is executable file   /run
+ This is executable file   /sbin
+ This is executable file   /snap
+ This is executable file   /srv
+ This is executable file   /sys
+ This is executable file   /tmp
+ This is executable file   /usr
+ This is executable file   /var
+ This is executable file   /bin
+ This is executable file   /boot
+ This is executable file   /cdrom
+ This is executable file   /dev
+ This is executable file   /etc
+ This is executable file   /home
+ This is executable file   /lib
+ This is executable file   /lib32
+ This is executable file   /lib64
+ This is executable file   /libx32
+ This is executable file   /media
+ This is executable file   /mnt
+ This is executable file   /opt
+ This is executable file   /proc
+ This is executable file   /run
+ This is executable file   /sbin
+ This is executable file   /snap
+ This is executable file   /srv
+ This is executable file   /sys
+ This is executable file   /tmp
+ This is executable file   /usr
+ This is executable file   /var
+ This is executable file   /bin
+ This is executable file   /boot
+ This is executable file   /cdrom
+ This is executable file   /dev
+ This is executable file   /etc
+ This is executable file   /home
+ This is executable file   /lib
+ This is executable file   /lib32
+ This is executable file   /lib64
+ This is executable file   /libx32
+ This is executable file   /media
+ This is executable file   /mnt
+ This is executable file   /opt
+ This is executable file   /proc
+ This is executable file   /run
+ This is executable file   /sbin
+ This is executable file   /snap
+ This is executable file   /srv
+ This is executable file   /sys
+ This is executable file   /tmp
+ This is executable file   /usr
+ This is executable file   /var
+ This is executable file   /bin
+ This is executable file   /boot
+ This is executable file   /cdrom
+ This is executable file   /dev
+ This is executable file   /etc
+ This is executable file   /home
+ This is executable file   /lib
+ This is executable file   /lib32
+ This is executable file   /lib64
+ This is executable file   /libx32
+ This is executable file   /media
+ This is executable file   /mnt
+ This is executable file   /opt
+ This is executable file   /proc
+ This is executable file   /run
+ This is executable file   /sbin
+ This is executable file   /snap
+ This is executable file   /srv
+ This is executable file   /sys
+ This is executable file   /tmp
+ This is executable file   /usr
+ This is executable file   /var
+ This is executable file   /bin
+ This is executable file   /boot
+ This is executable file   /cdrom
+ This is executable file   /dev
+ This is executable file   /etc
+ This is executable file   /home
+ This is executable file   /lib
+ This is executable file   /lib32
+ This is executable file   /lib64
+ This is executable file   /libx32
+ This is executable file   /media
+ This is executable file   /mnt
+ This is executable file   /opt
+ This is executable file   /proc
+ This is executable file   /run
+ This is executable file   /sbin
+ This is executable file   /snap
+ This is executable file   /srv
+ This is executable file   /sys
+ This is executable file   /tmp
+ This is executable file   /usr
+ This is executable file   /var
+ This is executable file   /bin
+ This is executable file   /boot
+ This is executable file   /cdrom
+ This is executable file   /dev
+ This is executable file   /etc
+ This is executable file   /home
+ This is executable file   /lib
+ This is executable file   /lib32
+ This is executable file   /lib64
+ This is executable file   /libx32
+ This is executable file   /media
+ This is executable file   /mnt
+ This is executable file   /opt
+ This is executable file   /proc
+ This is executable file   /run
+ This is executable file   /sbin
+ This is executable file   /snap
+ This is executable file   /srv
+ This is executable file   /sys
+ This is executable file   /tmp
+ This is executable file   /usr
+ This is executable file   /var
+ This is executable file   /bin
+ This is executable file   /boot
+ This is executable file   /cdrom
+ This is executable file   /dev
+ This is executable file   /etc
+ This is executable file   /home
+ This is executable file   /lib
+ This is executable file   /lib32
+ This is executable file   /lib64
+ This is executable file   /libx32
+ This is executable file   /media
+ This is executable file   /mnt
+ This is executable file   /opt
+ This is executable file   /proc
+ This is executable file   /run
+ This is executable file   /sbin
+ This is executable file   /snap
+ This is executable file   /srv
+ This is executable file   /sys
+ This is executable file   /tmp
+ This is executable file   /usr
+ This is executable file   /var
+ This is executable file   /bin
+ This is executable file   /boot
+ This is executable file   /cdrom
+ This is executable file   /dev
+ This is executable file   /etc
+ This is executable file   /home
+ This is executable file   /lib
+ This is executable file   /lib32
+ This is executable file   /lib64
+ This is executable file   /libx32
+ This is executable file   /media
+ This is executable file   /mnt
+ This is executable file   /opt
+ This is executable file   /proc
+ This is executable file   /run
+ This is executable file   /sbin
+ This is executable file   /snap
+ This is executable file   /srv
+ This is executable file   /sys
+ This is executable file   /tmp
+ This is executable file   /usr
+ This is executable file   /var
+  5248628  14672 -rwxrw-r--   1 ashykhmin ashykhmin 15021248 May 13 19:27 /usr/local/bin/nvim
+  4463626      4 -rwxr-xr-x   1 root      root           211 May 19 16:12 /usr/local/bin/yapf
+  4463619      4 -rwxr-xr-x   1 root      root          2210 May 19 15:02 /usr/local/bin/virtualenvwrapper_lazy.sh
+  4463620     44 -rwxr-xr-x   1 root      root         41703 May 19 15:02 /usr/local/bin/virtualenvwrapper.sh
+  4457618      4 -rwxr-xr-x   1 root      root           205 May 19 16:12 /usr/local/bin/pep8
+  4463624      4 -rwxr-xr-x   1 root      root           209 May 19 16:12 /usr/local/bin/isort
+  4463628      4 -rwxr-xr-x   1 root      root           235 May 19 16:12 /usr/local/bin/yapf-diff
+  4463617      4 -rwxr-xr-x   1 root      root           211 May 19 15:02 /usr/local/bin/pbr
+  4463623      4 -rwxr-xr-x   1 root      root           214 May 19 16:12 /usr/local/bin/flake8
+  4463625      4 -rwxr-xr-x   1 root      root           243 May 19 16:12 /usr/local/bin/isort-identify-imports
+  4463621      4 -rwxr-xr-x   1 root      root           211 May 19 16:12 /usr/local/bin/pyflakes
+  4463618      4 -rwxr-xr-x   1 root      root           214 May 19 15:02 /usr/local/bin/virtualenv-clone
+  4463622      4 -rwxr-xr-x   1 root      root           212 May 19 16:12 /usr/local/bin/pycodestyle
+  4463616      4 -rwxr-xr-x   1 root      root           238 May 19 15:02 /usr/local/bin/virtualenv
+  4456818      8 -rwxr-xr-x   1 root     root         5285 Sep 29  2016 /usr/sbin/iscsi_discovery
+  4463153      4 -rwxr-xr-x   1 root     root         1415 Mar  3  2020 /usr/sbin/xfs_admin
+  4471033     24 -rwxr-xr-x   1 root     root        22904 Feb 10  2020 /usr/sbin/pccardctl
+  4462984      4 -rwxr-xr-x   1 root     root         3663 Aug  3  2019 /usr/sbin/dpkg-preconfigure
+  4463169    564 -rwxr-xr-x   1 root     root       576664 Mar  3  2020 /usr/sbin/xfs_repair
+  4468439      4 -rwxr-xr-x   1 root     root         2931 Nov 15  2018 /usr/sbin/remove-default-wordlist
+  4457642     24 -rwxr-xr-x   1 root     root        22704 Sep 17  2021 /usr/sbin/mkhomedir_helper
+  4462034      4 -rwxr-xr-x   1 root     root         3401 Feb  4  2020 /usr/sbin/luksformat
+  4463125     44 -rwxr-xr-x   1 root     root        43168 Feb  7 13:33 /usr/sbin/mkfs.cramfs
+  4462163    900 -rwxr-xr-x   1 root     root       918560 Jan 11 15:09 /usr/sbin/grub-macbless
+  4462364   1020 -rwxr-xr-x   1 root     root      1044232 Apr  7 11:15 /usr/sbin/tcpdump
+  4463135      4 -rwxr-xr-x   1 root     root         1700 Oct 10  2019 /usr/sbin/update-info-dir
+  4457623     60 -rwxr-xr-x   1 root     root        59600 Jul 14  2021 /usr/sbin/chpasswd
+  4462558     48 -rwxr-xr-x   1 root     root        48456 May 25 11:14 /usr/sbin/start-stop-daemon
+  4468361     28 -rwxr-xr-x   1 root     root        26489 Apr 14  2021 /usr/sbin/alsa-info
+  4468769      4 -rwxr-xr-x   1 root     root         3875 Apr 28  2017 /usr/sbin/make-ssl-cert
+  4458058     32 -rwxr-xr-x   1 root     root        31104 Jun  2 00:59 /usr/sbin/e4crypt
+  4468363    116 -rwxr-xr-x   1 root     root       118176 Apr 14  2021 /usr/sbin/alsactl
+  4470331     28 -rwxr-xr-x   1 root     root        26616 Dec  1  2017 /usr/sbin/kerneloops
+  4458216    256 -rwxr-xr-x   1 root     root       260432 Mar 10 13:48 /usr/sbin/nmbd
+  4465860     24 -rwxr-xr-x   1 root     root        22680 Jul 23  2020 /usr/sbin/pppoe-discovery
+  4458045     68 -rwxr-xr-x   1 root     root        67968 Jun  2 00:59 /usr/sbin/resize2fs
+  4463053    592 -rwxr-xr-x   1 root     root       603800 Sep 28  2020 /usr/sbin/mdadm
+  4473100      8 -rwxr-xr-x   1 root     root         4399 Apr  6 20:58 /usr/sbin/locale-gen
+  4458061     20 -rwxr-xr-x   1 root     root        18768 Jun  2 00:59 /usr/sbin/filefrag
+  4456499    512 -rwxr-xr-x   1 root     root       521200 May 25  2021 /usr/sbin/dhclient
+  4468429      4 -rwxr-xr-x   1 root     root         1394 Dec  2  2020 /usr/sbin/aptd
+  4471303     16 -rwxr-xr-x   1 root     root        14656 Mar 15  2020 /usr/sbin/xfpm-power-backlight-helper
+  4471108     16 -rwxr-xr-x   1 root     root        14552 Mar 23  2019 /usr/sbin/rtkitctl
+  4465858    388 -rwsr-xr--   1 root     dip        395144 Jul 23  2020 /usr/sbin/pppd
+  4462995    376 -rwxr-xr-x   1 root     root       384048 Jan 30  2020 /usr/sbin/ethtool
+  4462200    152 -rwxr-xr-x   1 root     root       153880 Feb  7 13:33 /usr/sbin/fdisk
+  4457629     64 -rwxr-xr-x   1 root     root        63672 Jul 14  2021 /usr/sbin/grpck
+  4471589     88 -rwxr-xr-x   1 root     root        88336 Jun  6 18:09 /usr/sbin/mkntfs
+  4463126    532 -rwxr-xr-x   1 root     root       542160 Feb 13  2020 /usr/sbin/tc
+  4465857     36 -rwxr-xr-x   1 root     root        34984 Jul 23  2020 /usr/sbin/chat
+  4462678     40 -rwxr-xr-x   1 root     root        39144 Feb  7 13:33 /usr/sbin/ctrlaltdel
+  4456513   1032 -rwxr-xr-x   1 root     root      1053768 Apr  7 01:24 /usr/sbin/ldconfig.real
+  4463139     36 -rwxr-xr-x   1 root     root        35392 Dec 16  2019 /usr/sbin/update-passwd
+  4457941     44 -rwxr-xr-x   1 root     root        43160 Sep 17  2021 /usr/sbin/unix_update
+  4463172      8 -rwxr-xr-x   1 root     root         6005 Mar  3  2020 /usr/sbin/xfs_scrub_all
+  4463097      8 -rwxr-xr-x   1 root     root         5353 Feb 13  2020 /usr/sbin/popularity-contest
+  4462164     12 -rwxr-xr-x   1 root     root         8750 Jan 11 15:09 /usr/sbin/grub-mkconfig
+  4462963    208 -rwxr-xr-x   1 root     root       211432 Feb 20  2020 /usr/sbin/cgdisk
+  4468441      4 -rwxr-xr-x   1 root     root         3284 Nov 15  2018 /usr/sbin/select-default-wordlist
+  4473101      4 -rwxr-xr-x   1 root     root         3063 Mar  7 22:58 /usr/sbin/update-locale
+  4463045     84 -rwxr-xr-x   1 root     root        84056 Jan 21  2019 /usr/sbin/logrotate
+  4462575     36 -rwxr-xr-x   1 root     root        35048 Feb  7 13:33 /usr/sbin/blkdiscard
+  4467696     16 -rwxr-xr-x   1 root     root        14568 Feb  7 13:33 /usr/sbin/raw
+  4467692    108 -rwxr-xr-x   1 root     root       108784 Feb  7 13:33 /usr/sbin/mkswap
+  4467475     60 -rwxr-xr-x   1 root     root        60432 Nov 28  2019 /usr/sbin/acpid
+  4457183     60 -rwxr-xr-x   1 root     root        59952 Mar 15 12:59 /usr/sbin/rmt-tar
+  4467698     68 -rwxr-xr-x   1 root     root        67816 Feb  7 13:33 /usr/sbin/runuser
+  4463040     48 -rwxr-xr-x   1 root     root        47272 Apr  6  2020 /usr/sbin/kpartx
+  4463010     16 -rwxr-xr-x   1 root     root        14648 Feb 13  2020 /usr/sbin/fstab-decode
+  4473102      4 -rwxr-xr-x   1 root     root         1773 Mar  7 22:58 /usr/sbin/validlocale
+  4470931    144 -rwxr-xr-x   1 root     root       145624 Sep 18  2018 /usr/sbin/lightdm-gtk-greeter
+  4457691     60 -rwxr-xr-x   1 root     root        59568 Jul 14  2021 /usr/sbin/pwck
+  4468336      8 -rwxr-xr-x   1 root     root         5576 Jul 31  2015 /usr/sbin/alsa
+  4456500     16 -rwxr-xr-x   1 root     root        16304 May 25  2021 /usr/sbin/dhclient-script
+  4467706     48 -rwxr-xr-x   1 root     root        47336 Feb  7 13:33 /usr/sbin/wipefs
+  4457700    100 -rwxr-xr-x   1 root     root       101264 Jul 14  2021 /usr/sbin/userdel
+  4458046    108 -rwxr-xr-x   1 root     root       109112 Jun  2 00:59 /usr/sbin/tune2fs
+  4465841      4 -rwxr-xr-x   1 root     root         1735 Aug 13  2019 /usr/sbin/wpa_action
+  4471217     16 -rwxr-xr-x   1 root     root        14328 Feb  1  2019 /usr/sbin/iwspy
+  4463015     16 -rwxr-xr-x   1 root     root        14648 Feb 17  2020 /usr/sbin/getpcaps
+  4471580     20 -rwxr-xr-x   1 root     root        18744 May 27 14:51 /usr/sbin/lpinfo
+  4463165      4 -rwxr-xr-x   1 root     root          782 Mar  3  2020 /usr/sbin/xfs_metadump
+  4471114     68 -rwxr-xr-x   1 root     root        68080 Sep 17  2020 /usr/sbin/saned
+  4457944     20 -rwxr-xr-x   1 root     root        20335 Sep 17  2021 /usr/sbin/pam-auth-update
+  4467759     24 -rwxr-xr-x   1 root     root        22792 Feb  7 13:33 /usr/sbin/readprofile
+  4462978    152 -rwxr-xr-x   1 root     root       154080 Feb 13  2020 /usr/sbin/devlink
+  4468568     44 -rwxr-xr-x   1 root     root        43248 Jul  6  2021 /usr/sbin/avahi-autoipd
+  4463198     12 -rwxr-xr-x   1 root     root        10232 Feb  5  2018 /usr/sbin/regdbdump
+  4463096      4 -rwxr-xr-x   1 root     root          543 Feb 13  2020 /usr/sbin/popcon-largest-unused
+  4471591     44 -rwxr-xr-x   1 root     root        43272 Jun  6 18:09 /usr/sbin/ntfscp
+  4471593     80 -rwxr-xr-x   1 root     root        80152 Jun  6 18:09 /usr/sbin/ntfsresize
+  4462970     56 -rwxr-xr-x   1 root     root        55944 Feb 13  2020 /usr/sbin/cron
+  4467756     64 -rwxr-xr-x   1 root     root        63720 Feb  7 13:33 /usr/sbin/chmem
+  4463162    188 -rwxr-xr-x   1 root     root       191832 Mar  3  2020 /usr/sbin/xfs_io
+  4458043    136 -rwxr-xr-x   1 root     root       137848 Jun  2 00:59 /usr/sbin/mke2fs
+  4468571    140 -rwxr-xr-x   1 root     root       141832 Jul  6  2021 /usr/sbin/avahi-daemon
+  4463174    100 -rwxr-xr-x   1 root     root        99296 Feb 28  2020 /usr/sbin/xtables-legacy-multi
+  4468437     16 -rwxr-xr-x   1 root     root        15757 Nov 15  2018 /usr/sbin/ispell-autobuildhash
+  4457896      4 -rwxr-xr-x   1 root     root         1524 Jan 11 15:09 /usr/sbin/upgrade-from-grub-legacy
+  4463157     16 -rwxr-xr-x   1 root     root        14344 Mar  3  2020 /usr/sbin/xfs_estimate
+  4468306      4 -rwxr-xr-x   1 root     root          517 Jan  4 12:18 /usr/sbin/u-d-c-print-pci-ids
+  4471213     24 -rwxr-xr-x   1 root     root        22600 Feb  1  2019 /usr/sbin/iwevent
+  4468063    268 -rwxr-xr-x   1 root     root       272616 Nov  5  2021 /usr/sbin/lightdm
+  4462948   1468 -rwxr-xr-x   1 root     root      1501568 May 19  2020 /usr/sbin/apparmor_parser
+  4463167      4 -rwxr-xr-x   1 root     root          685 Mar  3  2020 /usr/sbin/xfs_ncheck
+  4462222      8 -rwxr-xr-x   1 root     root         7419 Mar 18  2021 /usr/sbin/update-initramfs
+  4467758     36 -rwxr-xr-x   1 root     root        35048 Feb  7 13:33 /usr/sbin/ldattach
+  4462951     32 -rwxr-xr-x   1 root     root        30728 Nov 12  2018 /usr/sbin/atd
+  4463114     16 -rwxr-xr-x   1 root     root        14472 May  9  2019 /usr/sbin/setvtrgb
+  4456608      4 -rwxr-xr-x   1 root     root          885 Jul 14  2021 /usr/sbin/shadowconfig
+  4463054    328 -rwxr-xr-x   1 root     root       333304 Sep 28  2020 /usr/sbin/mdmon
+  4467757     36 -rwxr-xr-x   1 root     root        35048 Feb  7 13:33 /usr/sbin/fdformat
+  4462679     16 -rwxr-xr-x   1 root     root        14568 Feb  7 13:33 /usr/sbin/findfs
+  4465863      8 -rwxr-xr-x   1 root     root         6616 Sep  5  2019 /usr/sbin/pptpsetup
+  4463058    452 -rwxr-xr-x   1 root     root       462368 Feb 15  2020 /usr/sbin/mkfs.btrfs
+  4463013     84 -rwxr-xr-x   1 root     root        84264 Feb 13  2020 /usr/sbin/genl
+  4462940      4 -rwxr-xr-x   1 root     root         3068 May 19  2020 /usr/sbin/aa-remove-unknown
+  4462942      4 -rwxr-xr-x   1 root     root          139 Jun 17  2019 /usr/sbin/aa-teardown
+  4468445      4 -rwxr-xr-x   1 root     root          782 Nov 15  2018 /usr/sbin/update-dictcommon-hunspell
+  4468440      4 -rwxr-xr-x   1 root     root         3303 Nov 15  2018 /usr/sbin/select-default-ispell
+  4457721     64 -rwxr-xr-x   1 root     root        61672 Jan 18 17:36 /usr/sbin/integritysetup
+  4467700     52 -rwxr-xr-x   1 root     root        51432 Feb  7 13:33 /usr/sbin/sulogin
+  4463081      4 -rwxr-xr-x   1 root     root         2228 Jul 20  2019 /usr/sbin/on_ac_power
+  4470601     28 -rwxr-xr-x   1 root     root        26592 Apr 27  2016 /usr/sbin/system-tools-backends
+  4465766     28 -rwxr-xr-x   1 root     root        26616 Feb  1  2019 /usr/sbin/iptunnel
+  4458210      4 -rwxr-xr-x   1 root     root          228 Mar 10 13:48 /usr/sbin/mksmbpasswd
+  4458274     12 -rwxr-xr-x   1 root     root        12226 Mar 10 13:48 /usr/sbin/samba_kcc
+  4465772     48 -rwxr-xr-x   1 root     root        45520 Feb  1  2019 /usr/sbin/slattach
+  4463070     32 -rwxr-xr-x   1 root     root        31800 Apr  6  2020 /usr/sbin/mpathpersist
+  4456930    108 -rwxr-xr-x   1 root     root       107848 Jan 18 17:36 /usr/sbin/cryptsetup-reencrypt
+  4463158      4 -rwxr-xr-x   1 root     root          800 Mar  3  2020 /usr/sbin/xfs_freeze
+  4463103      4 -rwxr-xr-x   1 root     root          904 Dec  7  2019 /usr/sbin/remove-shell
+  4465842    156 -rwxr-xr-x   1 root     root       155872 Mar  1  2021 /usr/sbin/wpa_cli
+  4463175    216 -rwxr-xr-x   1 root     root       220488 Feb 28  2020 /usr/sbin/xtables-nft-multi
+  4468362      8 -rwxr-xr-x   1 root     root         4136 Apr 14  2021 /usr/sbin/alsabat-test
+  4470615      8 -rwxr-xr-x   1 root     root         4170 Jun 25  2019 /usr/sbin/paperconfig
+  4456985     16 -rwxr-xr-x   1 root     root        14496 Jun  2 00:59 /usr/sbin/logsave
+  4463091     88 -rwxr-xr-x   1 root     root        88320 Dec  1  2020 /usr/sbin/parted
+  4457550      4 -rwxr-xr-x   1 root     root         3075 Jan  6  2021 /usr/sbin/addgnupghome
+  4465773     72 -rwxr-xr-x   1 root     root        70960 Feb  1  2019 /usr/sbin/arp
+  4465769     16 -rwxr-xr-x   1 root     root        14336 Feb  1  2019 /usr/sbin/plipconfig
+  4465815      8 -rwxr-xr-x   1 root     root         5852 Aug 21  2016 /usr/sbin/update-fonts-alias
+  4468822     48 -rwxr-xr-x   1 root     root        47712 May 27 14:51 /usr/sbin/cupsfilter
+  4471214     16 -rwxr-xr-x   1 root     root        14408 Feb  1  2019 /usr/sbin/iwgetid
+  4463156    624 -rwxr-xr-x   1 root     root       634976 Mar  3  2020 /usr/sbin/xfs_db
+  4462653    120 -rwxr-xr-x   1 root     root       121096 Feb  7 13:33 /usr/sbin/blkid
+  4458040      8 -rwxr-xr-x   1 root     root         7296 Jun  2 00:59 /usr/sbin/e2scrub
+  4465770     44 -rwxr-xr-x   1 root     root        41424 Feb  1  2019 /usr/sbin/rarp
+  4462033      4 -rwxr-xr-x   1 root     root          844 Feb  4  2020 /usr/sbin/cryptdisks_stop
+  4457979    228 -rwxr-xr-x   1 root     root       231224 Jun  2 00:59 /usr/sbin/debugfs
+  4457625     92 -rwxr-xr-x   1 root     root        93136 Jul 14  2021 /usr/sbin/groupadd
+  4465862     72 -rwxr-xr-x   1 root     root        72832 Sep  5  2019 /usr/sbin/pptp
+  4462941     12 -rwxr-xr-x   1 root     root         8839 May 19  2020 /usr/sbin/aa-status
+  4457937     44 -rwxr-xr-x   1 root     root        43168 Sep 17  2021 /usr/sbin/pam_extrausers_update
+  4468438      4 -rwxr-xr-x   1 root     root         2932 Nov 15  2018 /usr/sbin/remove-default-ispell
+  4463173     44 -rwxr-xr-x   1 root     root        43160 Mar  3  2020 /usr/sbin/xfs_spaceman
+  4462950     80 -rwxr-xr-x   1 root     root        80144 Feb 13  2020 /usr/sbin/arpd
+  4462674     68 -rwxr-xr-x   1 root     root        67816 Feb  7 13:33 /usr/sbin/blockdev
+  4462961     32 -rwxr-xr-x   1 root     root        31032 Feb 17  2020 /usr/sbin/capsh
+  4462481     52 -rwxr-xr-x   1 root     root        51432 Feb  7 13:33 /usr/sbin/swapon
+  4468209      4 -rwxr-xr-x   1 root     root          596 Feb 15 17:50 /usr/sbin/update-icon-caches
+  4462377      8 -rwxr-xr-x   1 root     root         4936 Oct 25  2021 /usr/sbin/ufw
+  4463113     16 -rwxr-xr-x   1 root     root        14408 May  9  2019 /usr/sbin/setvesablank
+  4463107     52 -rwxr-xr-x   1 root     root        49448 Feb 13  2020 /usr/sbin/rtacct
+  4463095    148 -rwxr-xr-x   1 root     root       149920 Nov  2  2020 /usr/sbin/plymouthd
+  4462122    104 -rwxr-xr-x   1 root     root       105048 Feb  7 13:33 /usr/sbin/cfdisk
+  4463116    192 -rwxr-xr-x   1 root     root       195048 Feb 20  2020 /usr/sbin/sgdisk
+  4457706      4 -rwxr-xr-x   1 root     root         2217 Jan  6  2021 /usr/sbin/applygnupgdefaults
+  4463092     16 -rwxr-xr-x   1 root     root        14568 Dec  1  2020 /usr/sbin/partprobe
+  4471212     36 -rwxr-xr-x   1 root     root        34888 Feb  1  2019 /usr/sbin/iwconfig
+  4462694     56 -rwxr-xr-x   1 root     root        55576 Feb  7 13:33 /usr/sbin/fsck
+  4458060     36 -rwxr-xr-x   1 root     root        35128 Jun  2 00:59 /usr/sbin/e4defrag
+  4458057     20 -rwxr-xr-x   1 root     root        18816 Jun  2 00:59 /usr/sbin/e2freefrag
+  4462032      4 -rwxr-xr-x   1 root     root         1544 Feb  4  2020 /usr/sbin/cryptdisks_start
+  4468443      8 -rwxr-xr-x   1 root     root         7680 Nov 15  2018 /usr/sbin/update-default-wordlist
+  4463155     92 -rwxr-xr-x   1 root     root        92448 Mar  3  2020 /usr/sbin/xfs_copy
+  4463049   2780 -rwxr-xr-x   1 root     root      2862872 Feb 13  2020 /usr/sbin/lvm
+  4462985      8 -rwxr-xr-x   1 root     root         4448 Aug  3  2019 /usr/sbin/dpkg-reconfigure
+  4471581     16 -rwxr-xr-x   1 root     root        14648 May 27 14:51 /usr/sbin/lpmove
+  4468058      8 -rwxr-xr-x   1 root     root         6660 Nov  5  2021 /usr/sbin/guest-account
+  4471358      4 -rwxr-xr-x   1 root     root         1416 Feb  5  2020 /usr/sbin/brltty-setup
+  4463168     88 -rwxr-xr-x   1 root     root        88072 Mar  3  2020 /usr/sbin/xfs_quota
+  4462987      8 -rwxr-xr-x   1 root     root         5394 Jun  2 14:19 /usr/sbin/update-ca-certificates
+  4457632    100 -rwxr-xr-x   1 root     root       101168 Jul 14  2021 /usr/sbin/newusers
+  4462977     20 -rwxr-xr-x   1 root     root        16495 Apr 16  2020 /usr/sbin/deluser
+  4457943     16 -rwxr-xr-x   1 root     root        14488 Sep 17  2021 /usr/sbin/pam_timestamp_check
+  4463197     12 -rwxr-xr-x   1 root     root        10232 Feb  5  2018 /usr/sbin/crda
+  4465768     20 -rwxr-xr-x   1 root     root        18576 Feb  1  2019 /usr/sbin/nameif
+  4462954     28 -rwxr-xr-x   1 root     root        27856 Dec 23  2019 /usr/sbin/biosdecode
+  4457900      8 -rwxr-xr-x   1 root     root         4843 Jan 11 15:09 /usr/sbin/grub-reboot
+  4458225     48 -rwxr-xr-x   1 root     root        48544 Mar 10 13:48 /usr/sbin/samba
+  4468818      4 -rwxr-xr-x   1 root     root          470 Jan 11 14:22 /usr/sbin/update-gsfontmap
+  4471594     56 -rwxr-xr-x   1 root     root        55560 Jun  6 18:09 /usr/sbin/ntfsundelete
+  4457945      4 -rwxr-xr-x   1 root     root         2890 Aug 12  2020 /usr/sbin/pam_getenv
+  4470101     16 -rwxr-xr-x   1 root     root        14640 Sep  6  2021 /usr/sbin/umount.udisks2
+  4462960    104 -rwxr-xr-x   1 root     root       104760 Feb 13  2020 /usr/sbin/bridge
+  4463062    368 -rwxr-xr-x   1 root     root       375032 Mar  3  2020 /usr/sbin/mkfs.xfs
+  4463164     32 -rwxr-xr-x   1 root     root        30736 Mar  3  2020 /usr/sbin/xfs_mdrestore
+  4463039     28 -rwxr-xr-x   1 root     root        27016 Feb 13  2020 /usr/sbin/killall5
+  4465866     60 -rwxr-xr-x   1 root     root        61096 Feb 10  2020 /usr/sbin/usb_modeswitch
+  4463030     64 -rwxr-xr-x   1 root     root        64432 Feb 13  2020 /usr/sbin/irqbalance
+  4456817     20 -rwxr-xr-x   1 root     root        18584 Mar 18  2021 /usr/sbin/iscsi-iname
+  4471384     16 -rwxr-xr-x   1 root     root        14648 Mar 31 20:52 /usr/sbin/isaset
+  4457265      4 -rwxr-xr-x   1 root     root          936 Mar 15 12:59 /usr/sbin/tarcat
+  4473124     32 -rwxr-xr-x   1 root     root        31128 Apr  7 01:24 /usr/sbin/iconvconfig
+  4471106     52 -rwxr-xr-x   1 root     root        51432 Feb  7 13:33 /usr/sbin/rfkill
+  4471579     36 -rwxr-xr-x   1 root     root        35200 May 27 14:51 /usr/sbin/lpadmin
+  4457813     36 -rwxr-xr-x   1 root     root        35144 Jun  2 00:59 /usr/sbin/badblocks
+  4457631     60 -rwxr-xr-x   1 root     root        59448 Jul 14  2021 /usr/sbin/grpunconv
+  4462946     40 -rwxr-xr-x   1 root     root        37785 Apr 16  2020 /usr/sbin/adduser
+  4457627     64 -rwxr-xr-x   1 root     root        63736 Jul 14  2021 /usr/sbin/groupmems
+  4462661     72 -rwxr-xr-x   1 root     root        71912 Feb  7 13:33 /usr/sbin/blkzone
+  4463068     16 -rwxr-xr-x   1 root     root        14488 Mar  7  2020 /usr/sbin/mount.fuse
+  4469134     20 -rwxr-xr-x   1 root     root        17284 Feb 27  2019 /usr/sbin/update-xmlcatalog
+  4463541      4 -rwxr-xr-x   1 root     root          301 Mar 27  2015 /usr/sbin/update-grub-gfxpayload
+  4463151     20 -rwxr-xr-x   1 root     root        19024 Dec 23  2019 /usr/sbin/vpddecode
+  4463026      4 -rwxr-xr-x   1 root     root         2638 Dec  7  2019 /usr/sbin/installkernel
+  4463012    212 -rwxr-xr-x   1 root     root       215528 Feb 20  2020 /usr/sbin/gdisk
+  4467690    108 -rwxr-xr-x   1 root     root       108784 Feb  7 13:33 /usr/sbin/mkfs.minix
+  4463112     16 -rwxr-xr-x   1 root     root        14648 Feb 17  2020 /usr/sbin/setcap
+  4467694     16 -rwxr-xr-x   1 root     root        14568 Feb  7 13:33 /usr/sbin/pivot_root
+  4468436     16 -rwxr-xr-x   1 root     root        13542 Nov 15  2018 /usr/sbin/aspell-autobuildhash
+  4462953     16 -rwxr-xr-x   1 root     root        14488 Jul 23  2020 /usr/sbin/bcache-super-show
+  4465859     20 -rwxr-xr-x   1 root     root        18696 Jul 23  2020 /usr/sbin/pppdump
+  4463150    220 -rwxr-xr-x   1 root     root       223432 Jan 19  2021 /usr/sbin/visudo
+  4471215     40 -rwxr-xr-x   1 root     root        39136 Feb  1  2019 /usr/sbin/iwlist
+  4463154      4 -rwxr-xr-x   1 root     root          695 Mar  3  2020 /usr/sbin/xfs_bmap
+  4462983    172 -rwxr-xr-x   1 root     root       175128 Feb 13  2020 /usr/sbin/dmsetup
+  4467708    116 -rwxr-xr-x   1 root     root       117088 Feb  7 13:33 /usr/sbin/zramctl
+  4463171    104 -rwxr-xr-x   1 root     root       104560 Mar  3  2020 /usr/sbin/xfs_scrub
+  4471109      8 -rwxr-xr-x   1 root     root         5969 Sep 29  2018 /usr/sbin/update-inetd
+  4463141     20 -rwxr-xr-x   1 root     root        17161 Jun 21  2019 /usr/sbin/update-rc.d
+  4465771     68 -rwxr-xr-x   1 root     root        65848 Feb  1  2019 /usr/sbin/route
+  4468186     12 -rwxr-xr-x   1 root     root         9366 Oct 15  2019 /usr/sbin/update-catalog
+  4471374     40 -rwxr-xr-x   1 root     root        39608 Jan 21  2018 /usr/sbin/hddtemp
+  4463006     60 -rwxr-xr-x   1 root     root        59472 May 12  2018 /usr/sbin/fsck.fat
+  4457902      4 -rwxr-xr-x   1 root     root           64 Jan 11 15:09 /usr/sbin/update-grub
+  4457626     88 -rwxr-xr-x   1 root     root        88848 Jul 14  2021 /usr/sbin/groupdel
+  4463052     24 -rwxr-xr-x   1 root     root        22760 Jul 23  2020 /usr/sbin/make-bcache
+  4458004     72 -rwxr-xr-x   1 root     root        70200 Jul 14  2021 /usr/sbin/vipw
+  4463031     36 -rwxr-xr-x   1 root     root        35200 Feb 13  2020 /usr/sbin/irqbalance-ui
+  4464345    712 -rwxr-xr-x   1 root     root       727248 May  3 08:48 /usr/sbin/rsyslogd
+  4465767     28 -rwxr-xr-x   1 root     root        27096 Feb  1  2019 /usr/sbin/mii-tool
+  4458867     48 -rwxr-xr-x   1 root     root        47592 Oct 12  2021 /usr/sbin/mount.vmhgfs
+  4465816      4 -rwxr-xr-x   1 root     root         4076 Aug 21  2016 /usr/sbin/update-fonts-dir
+  4468444      4 -rwxr-xr-x   1 root     root         1028 Nov 15  2018 /usr/sbin/update-dictcommon-aspell
+  4459853     52 -rwxr-xr-x   1 root     root        53064 Jan 18 17:36 /usr/sbin/veritysetup
+  4462955     16 -rwxr-xr-x   1 root     root        14837 Feb 13  2020 /usr/sbin/blkdeactivate
+  4463071     36 -rwxr-xr-x   1 root     root        34968 Apr  6  2020 /usr/sbin/multipath
+  4463074     20 -rwxr-xr-x   1 root     root        18736 Feb 28  2020 /usr/sbin/nfnl_osf
+  4458241      4 -rwxr-xr-x   1 root     root         3600 Mar 10 13:48 /usr/sbin/samba-gpupdate
+  4458246     24 -rwxr-xr-x   1 root     root        23665 Mar 10 13:48 /usr/sbin/samba_upgradedns
+  4463050     12 -rwxr-xr-x   1 root     root        10312 Feb 13  2020 /usr/sbin/lvmdump
+  4469988      4 -rwxr-xr-x   1 root     root         2288 Mar 11  2020 /usr/sbin/gnome-menus-blacklist
+  4461403   3028 -rwxr-xr-x   1 root     root      3097016 Nov 27  2021 /usr/sbin/NetworkManager
+  4471383     16 -rwxr-xr-x   1 root     root        14648 Mar 31 20:52 /usr/sbin/isadump
+  4463109     80 -rwxr-xr-x   1 root     root        80120 Feb 13  2020 /usr/sbin/rtmon
+  4467760     48 -rwxr-xr-x   1 root     root        47336 Feb  7 13:33 /usr/sbin/rtcwake
+  4462982    120 -rwxr-xr-x   1 root     root       121856 Dec 23  2019 /usr/sbin/dmidecode
+  4467702     20 -rwxr-xr-x   1 root     root        18664 Feb  7 13:33 /usr/sbin/swaplabel
+  4457248    672 -rwxr-xr-x   1 root     root       686696 Aug 31  2021 /usr/sbin/thermald
+  4458247    104 -rwxr-xr-x   1 root     root       104888 Mar 10 13:48 /usr/sbin/smbd
+  4462727     40 -rwxr-xr-x   1 root     root        39176 Feb  7 13:33 /usr/sbin/fsck.cramfs
+  4463004      4 -rwxr-xr-x   1 root     root         1185 Feb 15  2020 /usr/sbin/fsck.btrfs
+  4463147     16 -rwxr-xr-x   1 root     root        14328 May  9  2019 /usr/sbin/vcstime
+  4462286    112 -rwxr-xr-x   1 root     root       112992 Feb  7 13:33 /usr/sbin/losetup
+  4463023    144 -rwxr-xr-x   1 root     root       143704 Aug 21  2019 /usr/sbin/hdparm
+  4457699    144 -rwxr-xr-x   1 root     root       147160 Jul 14  2021 /usr/sbin/useradd
+  4462998    104 -rwxr-xr-x   1 root     root       104808 Feb  7 13:33 /usr/sbin/hwclock
+  4459628    856 -rwxr-xr-x   1 root     root       876328 Dec  2  2021 /usr/sbin/sshd
+  4457901      4 -rwxr-xr-x   1 root     root         3558 Jan 11 15:09 /usr/sbin/grub-set-default
+  4462252     12 -rwxr-xr-x   1 root     root        11828 Jan 26 17:11 /usr/sbin/mkinitramfs
+  4457942     16 -rwxr-xr-x   1 root     root        14488 Sep 17  2021 /usr/sbin/faillock
+  4465817      8 -rwxr-xr-x   1 root     root         6244 Aug 21  2016 /usr/sbin/update-fonts-scale
+  4471052     16 -rwxr-xr-x   1 root     root        13904 Jan 30  2020 /usr/sbin/getweb
+  4463599   1664 -rwxr-xr-x   1 root     root      1702576 Oct 21  2021 /usr/sbin/ModemManager
+  4463083     16 -rwxr-xr-x   1 root     root        14792 Dec 23  2019 /usr/sbin/ownership
+  4457029    408 -rwxr-xr-x   1 root     root       413808 Apr 18 15:25 /usr/sbin/dnsmasq
+  4463093   1324 -rwxr-xr-x   1 root     root      1352288 Feb  8  2020 /usr/sbin/pdata_tools
+  4458063     16 -rwxr-xr-x   1 root     root        14648 Jun  2 00:59 /usr/sbin/mklost+found
+  4463542     56 -rwxr-xr-x   1 root     root        55480 Feb  6  2018 /usr/sbin/iucode_tool
+  4463115     36 -rwxr-xr-x   1 root     root        35048 Feb  7 13:33 /usr/sbin/mkfs.bfs
+  4457624     64 -rwxr-xr-x   1 root     root        61784 Jul 14  2021 /usr/sbin/cppw
+  4457940     44 -rwxr-sr-x   1 root     shadow      43160 Sep 17  2021 /usr/sbin/unix_chkpwd
+  4468821    456 -rwxr-xr-x   1 root     root       465792 May 27 14:51 /usr/sbin/cupsd
+  4458181     32 -rwxr-xr-x   1 root     root        30960 Sep  9  2021 /usr/sbin/sysctl
+  4468442     12 -rwxr-xr-x   1 root     root         9910 Nov 15  2018 /usr/sbin/update-default-ispell
+  4457938     16 -rwxr-xr-x   1 root     root        14504 Sep 17  2021 /usr/sbin/pam_tally
+  4469132     16 -rwxr-xr-x   1 root     root        12718 Aug  6  2019 /usr/sbin/install-docs
+  4471385    216 -rwxr-xr-x   1 root     root       218088 Mar 31 20:52 /usr/sbin/sensors-detect
+  4462166    908 -rwxr-xr-x   1 root     root       927008 Jan 11 15:09 /usr/sbin/grub-probe
+  4456833    396 -rwxr-xr-x   1 root     root       403560 Mar 18  2021 /usr/sbin/iscsiadm
+  4468365     40 -rwxr-xr-x   1 root     root        39088 Jul 16  2019 /usr/sbin/anacron
+  4462996     56 -rwxr-xr-x   1 root     root        55376 May 12  2018 /usr/sbin/fatlabel
+  4456620    136 -rwxr-xr-x   1 root     root       138792 Jan 18 17:36 /usr/sbin/cryptsetup
+  4463105     16 -rwxr-xr-x   1 root     root        14568 Feb  7 13:33 /usr/sbin/mkfs
+  4462962     72 -rwxr-xr-x   1 root     root        71912 Feb  7 13:33 /usr/sbin/fstrim
+  4462968     44 -rwxr-xr-x   1 root     root        43352 Sep  5  2019 /usr/sbin/chroot
+  4457934     44 -rwxr-sr-x   1 root     shadow      43168 Sep 17  2021 /usr/sbin/pam_extrausers_chkpwd
+  4468065      4 -rwxr-xr-x   1 root     root         2982 Aug 14  2019 /usr/sbin/lightdm-session
+  4463111     12 -rwxr-xr-x   1 root     root         9262 Jun 21  2019 /usr/sbin/service
+  4471216     20 -rwxr-xr-x   1 root     root        18504 Feb  1  2019 /usr/sbin/iwpriv
+  4471578     16 -rwxr-xr-x   1 root     root        14720 May 27 14:51 /usr/sbin/cupsctl
+  4463008      4 -rwxr-xr-x   1 root     root         1968 Mar  3  2020 /usr/sbin/fsck.xfs
+  4463128    128 -rwxr-xr-x   1 root     root       129264 Feb 13  2020 /usr/sbin/tipc
+  4463170     20 -rwxr-xr-x   1 root     root        18424 Mar  3  2020 /usr/sbin/xfs_rtcp
+  4463001     76 -rwxr-xr-x   1 root     root        76264 Feb 20  2020 /usr/sbin/fixparts
+  4463159     44 -rwxr-xr-x   1 root     root        43032 Mar  3  2020 /usr/sbin/xfs_fsr
+  4463160     36 -rwxr-xr-x   1 root     root        34960 Mar  3  2020 /usr/sbin/xfs_growfs
+  4462784     16 -rwxr-xr-x   1 root     root        14568 Feb  7 13:33 /usr/sbin/fsfreeze
+  4463075     32 -rwxr-xr-x   1 root     root        30952 Feb  7 13:33 /usr/sbin/isosize
+  4463138     12 -rwxr-xr-x   1 root     root         9402 Oct 18  2019 /usr/sbin/update-mime
+  4465861     20 -rwxr-xr-x   1 root     root        18584 Jul 23  2020 /usr/sbin/pppstats
+  4463038     16 -rwxr-xr-x   1 root     root        14328 May  9  2019 /usr/sbin/kbdrate
+  4465764     88 -rwxr-xr-x   1 root     root        87152 Feb  1  2019 /usr/sbin/ifconfig
+  4457661     16 -rwxr-xr-x   1 root     root        14640 Jul 14  2021 /usr/sbin/nologin
+  4456758      4 -rwxr-xr-x   1 root     root          106 Mar 16  2020 /usr/sbin/tzconfig
+  4457628     96 -rwxr-xr-x   1 root     root        97136 Jul 14  2021 /usr/sbin/groupmod
+  4471575     16 -rwxr-xr-x   1 root     root        14696 May 27 14:51 /usr/sbin/lpc
+  4463051    236 -rwxr-xr-x   1 root     root       237624 Feb 13  2020 /usr/sbin/lvmpolld
+  4465867     56 -rwxr-xr-x   1 root     root        55624 Feb 10  2020 /usr/sbin/usb_modeswitch_dispatcher
+  4463014     16 -rwxr-xr-x   1 root     root        14648 Feb 17  2020 /usr/sbin/getcap
+  4463166      4 -rwxr-xr-x   1 root     root         1040 Mar  3  2020 /usr/sbin/xfs_mkfile
+  4457693     56 -rwxr-xr-x   1 root     root        55344 Jul 14  2021 /usr/sbin/pwconv
+  4458036     44 -rwxr-xr-x   1 root     root        43400 Jun  2 00:59 /usr/sbin/e2image
+  4458245      8 -rwxr-xr-x   1 root     root         8065 Mar 10 13:48 /usr/sbin/samba_spnupdate
+  4457695     56 -rwxr-xr-x   1 root     root        55352 Jul 14  2021 /usr/sbin/pwunconv
+  4458027     32 -rwxr-xr-x   1 root     root        31112 Jun  2 00:59 /usr/sbin/dumpe2fs
+  4457636    472 -rwxr-xr-x   1 root     root       481664 Mar 10 13:48 /usr/sbin/eventlogadm
+  4467704     16 -rwxr-xr-x   1 root     root        14568 Feb  7 13:33 /usr/sbin/switch_root
+  4463028     20 -rwxr-xr-x   1 root     root        17042 Jun 21  2019 /usr/sbin/invoke-rc.d
+  4463072    128 -rwxr-xr-x   1 root     root       129224 Apr  6  2020 /usr/sbin/multipathd
+  4462944      4 -rwxr-xr-x   1 root     root          860 Dec  7  2019 /usr/sbin/add-shell
+  4458030    328 -rwxr-xr-x   1 root     root       335064 Jun  2 00:59 /usr/sbin/e2fsck
+  4462981     52 -rwxr-xr-x   1 root     root        51440 Feb 13  2020 /usr/sbin/dmeventd
+  4456506      4 -rwxr-xr-x   1 root     root          387 Apr  7 01:24 /usr/sbin/ldconfig
+  4463176     12 -rwxr-xr-x   1 root     root        10232 Mar 15  2018 /usr/sbin/zerofree
+  4458865      4 -rwxr-xr-x   1 root     root         1752 Mar 31  2021 /usr/sbin/update-pciids
+  4458041      8 -rwxr-xr-x   1 root     root         5395 Jun  2 00:59 /usr/sbin/e2scrub_all
+  4471592     36 -rwxr-xr-x   1 root     root        35080 Jun  6 18:09 /usr/sbin/ntfslabel
+  4456836    368 -rwxr-xr-x   1 root     root       375080 Mar 18  2021 /usr/sbin/iscsistart
+  4463029      8 -rwxr-xr-x   1 root     root         7057 Feb 28  2020 /usr/sbin/iptables-apply
+  4470919     16 -rwxr-xr-x   1 root     root        14488 Aug 14  2019 /usr/sbin/xfce4-kiosk-query
+  4471209     88 -rwxr-xr-x   1 root     root        88648 Nov 30  2019 /usr/sbin/usbmuxd
+  4471577     16 -rwxr-xr-x   1 root     root        14648 May 27 14:51 /usr/sbin/cupsaccept
+  4471376     72 -rwxr-xr-x   1 root     root        72360 Feb 21  2020 /usr/sbin/ippusbxd
+  4458244      8 -rwxr-xr-x   1 root     root         4202 Mar 10 13:48 /usr/sbin/samba_downgrade_db
+  4463190    264 -rwxr-xr-x   1 root     root       269128 Dec  8  2019 /usr/sbin/iw
+  4458042     24 -rwxr-xr-x   1 root     root        22912 Jun  2 00:59 /usr/sbin/e2undo
+  4462251    140 -rwxr-xr-x   1 root     root       141544 Feb  7 13:33 /usr/sbin/sfdisk
+  4462165    216 -rwxr-xr-x   1 root     root       220880 Jan 11 15:09 /usr/sbin/grub-mkdevicemap
+  4463163     76 -rwxr-xr-x   1 root     root        75928 Mar  3  2020 /usr/sbin/xfs_logprint
+  4468185      8 -rwxr-xr-x   1 root     root         4551 Oct 15  2019 /usr/sbin/install-sgmlcatalog
+  4471590     60 -rwxr-xr-x   1 root     root        59672 Jun  6 18:09 /usr/sbin/ntfsclone
+  4458242     36 -rwxr-xr-x   1 root     root        33328 Mar 10 13:48 /usr/sbin/samba_dnsupdate
+  4457630     60 -rwxr-xr-x   1 root     root        59448 Jul 14  2021 /usr/sbin/grpconv
+  4462471     24 -rwxr-xr-x   1 root     root        22760 Feb  7 13:33 /usr/sbin/swapoff
+  4458003    140 -rwxr-xr-x   1 root     root       142840 Jul 14  2021 /usr/sbin/usermod
+  4456834    412 -rwxr-xr-x   1 root     root       420152 Mar 18  2021 /usr/sbin/iscsid
+  4463060     36 -rwxr-xr-x   1 root     root        35328 May 12  2018 /usr/sbin/mkfs.fat
+  4463161      4 -rwxr-xr-x   1 root     root         1294 Mar  3  2020 /usr/sbin/xfs_info
+  4462943     16 -rwxr-xr-x   1 root     root        14728 Feb 25  2020 /usr/sbin/accessdb
+  4473125     64 -rwxr-xr-x   1 root     root        63784 Apr  7 01:24 /usr/sbin/zic
+  4457939     20 -rwxr-xr-x   1 root     root        18600 Sep 17  2021 /usr/sbin/pam_tally2
+  4471302     16 -rwxr-xr-x   1 root     root        14656 Mar 15  2020 /usr/sbin/xfce4-pm-helper
+  4457621     68 -rwxr-xr-x   1 root     root        67792 Jul 14  2021 /usr/sbin/chgpasswd
+  4463002     24 -rwxr-xr-x   1 root     root        24108 Feb 13  2020 /usr/sbin/fsadm
+  4462740    124 -rwxr-xr-x   1 root     root       125184 Feb  7 13:33 /usr/sbin/fsck.minix
+  4465843   2828 -rwxr-xr-x   1 root     root      2893136 Mar  1  2021 /usr/sbin/wpa_supplicant
+  4468300     60 -rwxr-xr-x   1 root     root        60232 Nov  2  2020 /usr/sbin/spice-vdagentd
+  4462677     48 -rwxr-xr-x   1 root     root        47336 Feb  7 13:33 /usr/sbin/chcpu
+  4462520     68 -rwxr-xr-x   1 root     root        69000 Feb  7 13:33 /usr/sbin/agetty
+  4457280     44 -rwxr-xr-x   1 root     root        43320 Feb  7 13:33 /usr/sbin/uuidd
+  4457898   1136 -rwxr-xr-x   1 root     root      1162992 Jan 11 15:09 /usr/sbin/grub-install
+  4457002      4 -rwxr-xr-x   1 root     root         2510 Nov  2  2021 /usr/sbin/overlayroot-chroot
+  4465765     20 -rwxr-xr-x   1 root     root        18424 Feb  1  2019 /usr/sbin/ipmaddr
+  4471574    132 -rwxr-xr-x   1 root     root       133512 May 27 14:51 /usr/sbin/ippeveprinter
+  4469126    240 -rwxr-xr-x   1 root     root       244408 Apr 10  2020 /usr/sbin/cups-browsed
+  4473183     20 -rwxr-xr-x   1 root     root        18664 Apr 21 12:54 /usr/bin/systemd-cat
+  4456946      4 -rwxr-xr-x   1 root     root         1295 Feb 17  2020 /usr/bin/byobu-disable
+  4458852     92 -rwxr-xr-x   1 root     root        92568 Jul 12  2021 /usr/bin/gio
+  4468434      8 -rwxr-xr-x   1 root     root         7222 Nov 15  2018 /usr/bin/ispell-wrapper
+  4457660     44 -rwsr-xr-x   1 root     root        44784 Jul 14  2021 /usr/bin/newgrp
+  4456966      8 -rwxr-xr-x   1 root     root         6015 Feb 17  2020 /usr/bin/byobu-status
+  4465750      4 -rwxr-xr-x   1 root     root          409 Feb 28  2020 /usr/bin/ssh-import-id
+  4457552     44 -rwxr-xr-x   1 root     root        43352 Sep  5  2019 /usr/bin/tac
+  4465804    216 -rwxr-xr-x   1 root     root       217184 Feb 28  2020 /usr/bin/xkbcomp
+  4459423      4 -rwxr-xr-x   1 root     root          394 Mar 24 15:35 /usr/bin/cloud-init
+  4457875     28 -rwxr-xr-x   1 root     root        27448 Nov  1  2021 /usr/bin/tdbtool
+  4470450     20 -rwxr-xr-x   1 root     root        18832 Feb 18  2021 /usr/bin/gdk-pixbuf-thumbnailer
+  4458716    464 -rwxr-xr-x   1 root     root       474280 Feb 23  2021 /usr/bin/screen
+  4457037      4 -rwxr-xr-x   1 root     root         2859 Aug  3  2019 /usr/bin/debconf
+  4471570   4044 -rwxr-xr-x   1 root     root      4137832 Nov 28  2019 /usr/bin/mplayer
+  4457232     28 -rwxr-xr-x   1 root     root        27544 Feb 25  2020 /usr/bin/man-recode
+  4469683   8244 -rwxr-xr-x   1 root     root      8440200 Dec  7  2021 /usr/bin/gdb
+  4457345      4 -rwxr-xr-x   1 root     root         3549 Oct 19  2020 /usr/bin/ptar
+  4473179      8 -rwxr-xr-x   1 root     root         5191 Apr  1  2020 /usr/bin/kernel-install
+  4468226     16 -rwxr-xr-x   1 root     root        14568 Apr  6  2020 /usr/bin/fc-validate
+  4457295     92 -rwxr-xr-x   1 root     root        94160 Mar 31  2021 /usr/bin/lspci
+  4471219    108 -rwxr-xr-x   1 root     root       108944 Feb 28  2020 /usr/bin/bitmap
+  4462400    136 -rwxr-xr-x   1 root     root       138032 Mar 15 14:11 /usr/bin/dig
+  4461162    252 -rwxr-xr-x   1 root     root       253968 Jan 11 15:09 /usr/bin/grub-editenv
+  4468182    100 -rwxr-xr-x   1 root     root       100832 Nov 20  2021 /usr/bin/pulseaudio
+  4457496     60 -rwxr-xr-x   1 root     root        59736 Sep  5  2019 /usr/bin/shuf
+  4468219     20 -rwxr-xr-x   1 root     root        18664 Apr  6  2020 /usr/bin/fc-cat
+  4465802     32 -rwxr-xr-x   1 root     root        31440 Feb 28  2020 /usr/bin/setxkbmap
+  4457525     64 -rwxr-xr-x   1 root     root        64512 Jan 19  2021 /usr/bin/sudoreplay
+  4465742      4 -rwxr-xr-x   1 root     root         1577 Jan 21  2017 /usr/bin/linux-boot-prober
+  4462404     52 -rwxr-xr-x   1 root     root        51608 Mar 15 14:11 /usr/bin/mdig
+  4471035   1084 -rwxr-xr-x   1 root     root      1106128 Feb 10  2020 /usr/bin/pidgin
+  4467737     52 -rwxr-xr-x   1 root     root        51440 Feb  7 13:33 /usr/bin/lsns
+  4457416     24 -rwxr-xr-x   1 root     root        22752 Apr 21 12:54 /usr/bin/systemd-escape
+  4468794      4 -rwxr-xr-x   1 root     root         1007 Jan 11 14:22 /usr/bin/dvipdf
+  4468355     32 -rwxr-xr-x   1 root     root        31120 Apr 14  2021 /usr/bin/arecordmidi
+  4469562    380 -rwxr-xr-x   1 root     root       388016 Feb 21 03:06 /usr/bin/fwupdtool
+  4457574     28 -rwxr-xr-x   1 root     root        26776 Jan 30  2020 /usr/bin/traceroute6.iputils
+  4469688    180 -rwxr-xr-x   1 root     root       183576 Feb 18  2020 /usr/bin/devdump
+  4458875     16 -rwxr-xr-x   1 root     root        14720 Oct 12  2021 /usr/bin/vmware-checkvm
+  4459587    152 -rwxr-xr-x   1 root     root       154440 Feb 25 22:20 /usr/bin/boltctl
+  4471041     20 -rwxr-xr-x   1 root     root        18343 Jan 30  2020 /usr/bin/foo2hbpl2-wrapper
+  4468399      4 -rwxr-xr-x   1 root     root          296 Mar 14  2021 /usr/bin/exo-preferred-applications
+  4456839   1044 -rwxr-xr-x   1 root     root      1066992 Jan  6  2021 /usr/bin/gpg
+  4457411     16 -rwxr-xr-x   1 root     root        14408 May  9  2019 /usr/bin/setlogcons
+  4457008     16 -rwxr-xr-x   1 root     root        14488 Mar 30  2020 /usr/bin/colcrt
+  4457314     72 -rwxr-xr-x   1 root     root        72776 Jan 30  2020 /usr/bin/ping
+  4471043     20 -rwxr-xr-x   1 root     root        19204 Jan 30  2020 /usr/bin/foo2hp2600-wrapper
+  4469982     80 -rwxr-xr-x   1 root     root        80528 Mar 22  2020 /usr/bin/pinentry-gnome3
+  4457708      4 -rwxr-xr-x   1 root     root         2068 May 10 13:23 /usr/bin/apport-unpack
+  4468351     32 -rwxr-xr-x   1 root     root        31112 Apr 14  2021 /usr/bin/amidi
+  4457596     32 -rwxr-xr-x   1 root     root        32416 Jul 14  2021 /usr/bin/lastlog
+  4468224     16 -rwxr-xr-x   1 root     root        14568 Apr  6  2020 /usr/bin/fc-query
+  4465854      4 -rwxr-xr-x   1 root     root          146 Feb  8  2019 /usr/bin/plog
+  4457579     32 -rwxr-xr-x   1 root     root        31040 Feb 26  2020 /usr/bin/tset
+  4457105     32 -rwxr-xr-x   1 root     root        30610 May 25 11:14 /usr/bin/dpkg-buildpackage
+  4457041      4 -rwxr-xr-x   1 root     root          647 Aug  3  2019 /usr/bin/debconf-escape
+  4471069     24 -rwxr-xr-x   1 root     root        22848 Jan 30  2020 /usr/bin/lavadecode
+  4468352     64 -rwxr-xr-x   1 root     root        63952 Apr 14  2021 /usr/bin/amixer
+  4469559    108 -rwxr-xr-x   1 root     root       108848 Feb 21 03:06 /usr/bin/dfu-tool
+  4465805     44 -rwxr-xr-x   1 root     root        43408 Feb 28  2020 /usr/bin/xkbevd
+  4457635      4 -rwxr-xr-x   1 root     root         1678 Apr  8 11:05 /usr/bin/zcmp
+  4459338      4 -rwxr-xr-x   1 root     root          390 Mar 24 15:35 /usr/bin/cloud-id
+  4462229     56 -rwsr-xr-x   1 root     root        55528 Feb  7 13:33 /usr/bin/mount
+  4468795      4 -rwxr-xr-x   1 root     root          639 Jan 11 14:22 /usr/bin/eps2eps
+  4457056     40 -rwxr-xr-x   1 root     root        39256 Sep  5  2019 /usr/bin/dirname
+  4467729     36 -rwxr-xr-x   1 root     root        35048 Feb  7 13:33 /usr/bin/ipcrm
+  4465828     20 -rwxr-xr-x   1 root     root        18752 Dec 14  2021 /usr/bin/gtf
+  4457471     20 -rwxr-xr-x   1 root     root        19128 Feb 24  2020 /usr/bin/sg_timestamp
+  4471266     20 -rwxr-xr-x   1 root     root        18744 Feb 29  2020 /usr/bin/xvinfo
+  4457022     48 -rwxr-xr-x   1 root     root        47480 Sep  5  2019 /usr/bin/cut
+  4457425     36 -rwxr-xr-x   1 root     root        35976 Feb 24  2020 /usr/bin/sg_format
+  4462216      4 -rwxr-xr-x   1 root     root           29 Apr  8 11:05 /usr/bin/zfgrep
+  4457292     68 -rwxr-xr-x   1 root     root        67992 Sep  5  2019 /usr/bin/numfmt
+  4456600     20 -rwxr-xr-x   1 root     root        18744 Feb 21 12:58 /usr/bin/pkaction
+  4459125   1024 -rwxr-xr-x   1 root     root      1044952 Jan 29  2020 /usr/bin/mc
+  4457262    108 -rwxr-xr-x   1 root     root       109256 Feb 24  2019 /usr/bin/netkit-ftp
+  4471306     28 -rwxr-xr-x   1 root     root        27549 Mar 29  2020 /usr/bin/xfce4-screensaver-configure
+  4456951      8 -rwxr-xr-x   1 root     root         6440 Feb 17  2020 /usr/bin/byobu-janitor
+  4471075     20 -rwxr-xr-x   1 root     root        18752 Jan 30  2020 /usr/bin/xqxdecode
+  4467691    100 -rwxr-xr-x   1 root     root       102280 Oct 20  2021 /usr/bin/x86_64-linux-gnu-gprof
+  4457645     60 -rwxr-xr-x   1 root     root        59768 Sep  5  2019 /usr/bin/who
+  4457277    500 -rwxr-xr-x   1 root     root       508568 Mar 30 18:02 /usr/bin/rsync
+  4473189     52 -rwxr-xr-x   1 root     root        51664 Apr 21 12:54 /usr/bin/systemd-mount
+  4458874     72 -rwxr-xr-x   1 root     root        72224 Oct 12  2021 /usr/bin/vmware-alias-import
+  4469135     24 -rwxr-xr-x   1 root     root        22912 Nov  5  2020 /usr/bin/enchant-2
+  4468779     24 -rwxr-xr-x   1 root     root        22880 Mar 27  2020 /usr/bin/pdffonts
+  4470671      4 -rwxr-xr-x   1 root     root           53 Mar 14 15:28 /usr/bin/loffice
+  4470553      4 -rwxr-xr-x   1 root     root         2711 Nov 29  2019 /usr/bin/lwp-dump
+  4470540     36 -rwxr-xr-x   1 root     root        35056 Sep  9  2019 /usr/bin/tificc
+  4471160    404 -rwxr-xr-x   1 root     root       412016 Jun 17  2020 /usr/bin/simple-scan
+  4457263     28 -rwxr-xr-x   1 root     root        27931 Jun 15  2021 /usr/bin/apt-key
+  4462136    480 -rwxr-xr-x   1 root     root       489328 Jan 11 15:09 /usr/bin/grub-mkstandalone
+  4462676     64 -rwxr-xr-x   1 root     root        63760 May 25 11:14 /usr/bin/dpkg-statoverride
+  4457293     72 -rwxr-xr-x   1 root     root        72056 Sep  5  2019 /usr/bin/od
+  4458270     40 -rwxr-xr-x   1 root     root        39224 Mar 10 13:48 /usr/bin/smbpasswd
+  4462248      4 -rwxr-xr-x   1 root     root         3676 Jun 18  2021 /usr/bin/unmkinitramfs
+  4471088     16 -rwxr-xr-x   1 root     root        14578 Jan 31  2020 /usr/bin/m2300w-wrapper
+  4458053     16 -rwxr-xr-x   1 root     root        14656 Jun  2 00:59 /usr/bin/chattr
+  4465803     16 -rwxr-xr-x   1 root     root        14664 Feb 28  2020 /usr/bin/xkbbell
+  4457507     20 -rwxr-xr-x   1 root     root        19150 Oct 19  2020 /usr/bin/splain
+  4457479     28 -rwxr-xr-x   1 root     root        27400 Feb 24  2020 /usr/bin/sg_write_same
+  4470932      4 -rwxr-xr-x   1 root     root         1198 Dec 24  2019 /usr/bin/lightdm-gtk-greeter-settings
+  4471071     20 -rwxr-xr-x   1 root     root        18752 Jan 30  2020 /usr/bin/opldecode
+  4457373      4 -rwxr-xr-x   1 root     root          208 Feb 13  2020 /usr/bin/routef
+  4458180    136 -rwxr-xr-x   1 root     root       137688 Sep  9  2021 /usr/bin/ps
+  4469558     28 -rwxr-xr-x   1 root     root        26928 Feb 21 03:06 /usr/bin/dbxtool
+  4457107      8 -rwxr-xr-x   1 root     root         7624 May 25 11:14 /usr/bin/dpkg-checkbuilddeps
+  4457011     44 -rwxr-xr-x   1 root     root        43384 Sep  5  2019 /usr/bin/comm
+  4468838     40 -rwxr-xr-x   1 root     root        39176 Jun  6 18:09 /usr/bin/ntfsmove
+  4456965      4 -rwxr-xr-x   1 root     root         1306 Feb 17  2020 /usr/bin/byobu-silent
+  4457305     16 -rwxr-xr-x   1 root     root        14648 Oct 19  2020 /usr/bin/perl5.30-x86_64-linux-gnu
+  4457088      4 -rwxr-xr-x   1 root     root           28 Jan 29  2020 /usr/bin/fgrep
+  4468456     16 -rwxr-xr-x   1 root     root        14640 Jul 22  2021 /usr/bin/prezip-bin
+  4457482     44 -rwxr-xr-x   1 root     root        43176 Feb 24  2020 /usr/bin/sg_xcopy
+  4457168      4 -rwxr-xr-x   1 root     root         3662 Sep  5  2019 /usr/bin/jsonpatch
+  4457371     72 -rwxr-xr-x   1 root     root        72056 Sep  5  2019 /usr/bin/rm
+  4471332    196 -rwxr-xr-x   1 root     root       199568 Jan 18  2020 /usr/bin/xfdesktop-settings
+  4456912     36 -rwxr-xr-x   1 root     root        35200 Jan  6  2021 /usr/bin/gpgparsemail
+  4469875     44 -rwxr-xr-x   1 root     root        42122 Jan 11  2021 /usr/bin/xdg-mime
+  4471264     28 -rwxr-xr-x   1 root     root        27840 Feb 29  2020 /usr/bin/xmessage
+  4469874     32 -rwxr-xr-x   1 root     root        30028 Jan 11  2021 /usr/bin/xdg-icon-resource
+  4471070     20 -rwxr-xr-x   1 root     root        18768 Jan 30  2020 /usr/bin/oakdecode
+  4457113      8 -rwxr-xr-x   1 root     root         4629 Mar 22  2020 /usr/bin/gettext.sh
+  4457620      4 -rwxr-xr-x   1 root     root         2514 Jan 30  2020 /usr/bin/helpztags
+  4457036      8 -rwxr-xr-x   1 root     root         4430 Jun 21  2019 /usr/bin/deb-systemd-invoke
+  4457457     24 -rwxr-xr-x   1 root     root        23112 Feb 24  2020 /usr/bin/sg_sat_identify
+  4464364    148 -rwxr-xr-x   1 root     root       149096 Jun  8 11:09 /usr/bin/rctest
+  4470971      4 -rwxr-xr-x   1 root     root         1993 Aug 31  2019 /usr/bin/menulibre-menu-validate
+  4463104    248 -rwxr-xr-x   1 root     root       252632 Jun  8 11:09 /usr/bin/bluetoothctl
+  4464356    148 -rwxr-xr-x   1 root     root       149240 Jun  8 11:09 /usr/bin/ciptool
+  4457580     44 -rwxr-xr-x   1 root     root        43352 Sep  5  2019 /usr/bin/tsort
+  4467750     48 -rwxr-xr-x   1 root     root        47336 Feb  7 13:33 /usr/bin/setterm
+  4457144     16 -rwxr-xr-x   1 root     root        14568 Apr  8 12:56 /usr/bin/lzmainfo
+  4469694    184 -rwxr-xr-x   1 root     root       187672 Feb 18  2020 /usr/bin/isovfy
+  4457443     16 -rwxr-xr-x   1 root     root        14728 Feb 24  2020 /usr/bin/sg_read_block_limits
+  4456741     52 -rwxr-xr-x   1 root     root        51504 Mar 10 13:48 /usr/bin/profiles
+  4468803      4 -rwxr-xr-x   1 root     root          698 Jan 11 14:22 /usr/bin/pdf2dsc
+  4458271     40 -rwxr-xr-x   1 root     root        39224 Mar 10 13:48 /usr/bin/testparm
+  4471029    416 -rwxr-xr-x   1 root     root       423008 Dec 31  2019 /usr/bin/parole
+  4470425     12 -rwxr-xr-x   1 root     root        12060 Aug  6  2018 /usr/bin/mimetype
+  4456920     56 -rwsr-sr-x   1 daemon   daemon      55560 Nov 12  2018 /usr/bin/at
+  4468628      4 -rwxr-xr-x   1 root     root         1262 Sep 14  2021 /usr/bin/blueman-applet
+  4468417     60 -rwxr-xr-x   1 root     root        57920 Feb  8  2020 /usr/bin/perli11ndoc
+  4457619      4 -rwxr-xr-x   1 root     root         2121 Feb  1 09:16 /usr/bin/vimtutor
+  4469983     24 -rwxr-xr-x   1 root     root        22904 Mar 11  2020 /usr/bin/gnome-keyring-3
+  4462586    184 -rwxr-xr-x   2 root     root       186664 Aug 16  2019 /usr/bin/unzip
+  4470661      4 -rwxr-xr-x   1 root     root          635 Feb 10  2020 /usr/bin/purple-send-async
+  4457862     24 -rwxr-xr-x   1 root     root        23756 Jan 14 18:28 /usr/bin/ubuntu-security-status
+  4457211    140 -rwxr-xr-x   1 root     root       142144 Sep  5  2019 /usr/bin/ls
+  4462220      4 -rwxr-xr-x   1 root     root         1842 Apr  8 11:05 /usr/bin/zmore
+  4462055     16 -rwxr-xr-x   1 root     root        14496 Feb 17 00:44 /usr/bin/locale-check
+  4468379      4 -rwxr-xr-x   1 root     root         3674 Feb 22  2021 /usr/bin/uxterm
+  4456955      4 -rwxr-xr-x   1 root     root         2459 Feb 17  2020 /usr/bin/byobu-launcher-install
+  4468825    116 -rwxr-xr-x   1 root     root       117280 May 27 14:51 /usr/bin/ppdi
+  4468844      4 -rwxr-xr-x   1 root     root         1481 Jan 15  2020 /usr/bin/catfish
+  4468433     52 -rwxr-xr-x   1 root     root        51352 Sep 19  2019 /usr/bin/xdg-dbus-proxy
+  4471255     44 -rwxr-xr-x   1 root     root        44104 Feb 29  2020 /usr/bin/xdpyinfo
+  4457448     16 -rwxr-xr-x   1 root     root        14856 Feb 24  2020 /usr/bin/sg_referrals
+  4457427     20 -rwxr-xr-x   1 root     root        19176 Feb 24  2020 /usr/bin/sg_get_lba_status
+  4456922     60 -rwxr-xr-x   1 root     root        59768 Sep  5  2019 /usr/bin/b2sum
+  4473178     28 -rwxr-xr-x   1 root     root        26848 Apr 21 12:54 /usr/bin/hostnamectl
+  4458871     12 -rwxr-xr-x   1 root     root        10623 Oct 12  2021 /usr/bin/vm-support
+  4457306   3400 -rwxr-xr-x   2 root     root      3478464 Oct 19  2020 /usr/bin/perl5.30.0
+  4457000     56 -rwxr-xr-x   1 root     root        55528 Feb  7 13:33 /usr/bin/script
+  4469101     24 -rwxr-xr-x   1 root     root        22832 Mar 20  2020 /usr/bin/cd-it8
+  4464347     32 -rwxr-xr-x   1 root     root        30864 Apr 29 12:03 /usr/bin/dbus-monitor
+  4457873     16 -rwxr-xr-x   1 root     root        14648 Nov  1  2021 /usr/bin/tdbdump
+  4457309     48 -rwxr-xr-x   2 root     root        46366 Oct 19  2020 /usr/bin/perlbug
+  4470863      4 -rwxr-xr-x   1 root     root           61 Mar 14 15:28 /usr/bin/lowriter
+  4456924     44 -rwxr-xr-x   1 root     root        43352 Sep  5  2019 /usr/bin/base64
+  4457001     64 -rwsr-xr-x   1 root     root        64432 Aug 16  2021 /usr/bin/inetutils-traceroute
+  4457480     24 -rwxr-xr-x   1 root     root        23176 Feb 24  2020 /usr/bin/sg_write_verify
+  4457403      4 -rwxr-xr-x   1 root     root         1230 Nov 17  2019 /usr/bin/sensible-browser
+  4462592      4 -rwxr-xr-x   1 root     root         2953 Aug 16  2019 /usr/bin/zipgrep
+  4462410     72 -rwxr-xr-x   1 root     root        72216 Mar 15 14:11 /usr/bin/nsupdate
+  4462408    108 -rwxr-xr-x   1 root     root       109360 Mar 15 14:11 /usr/bin/nslookup
+  4462234      4 -rwxr-xr-x   1 root     root          706 Mar 18  2021 /usr/bin/lsinitramfs
+  4456987      4 -rwxr-xr-x   1 root     root         2771 Sep 27  2020 /usr/bin/check-language-support
+  4462142    272 -rwxr-xr-x   1 root     root       278224 Jan 11 15:09 /usr/bin/grub-script-check
+  4457260     40 -rwxr-xr-x   1 root     root        37832 Mar 30  2020 /usr/bin/ncal
+  4462217      4 -rwxr-xr-x   1 root     root         2081 Apr  8 11:05 /usr/bin/zforce
+  4471253     56 -rwxr-xr-x   1 root     root        53680 Feb 29  2020 /usr/bin/luit
+  4471585     44 -rwxr-xr-x   1 root     root        43200 Jun  6 18:09 /usr/bin/ntfstruncate
+  4457175     32 -rwxr-xr-x   1 root     root        31192 Jun 15  2021 /usr/bin/apt-cdrom
+  4471245      4 -rwxr-xr-x   1 root     root         2610 Feb 29  2020 /usr/bin/rstart
+  4471359    244 -rwxr-xr-x   1 root     root       248544 Mar  3  2020 /usr/bin/brltty-ctb
+  4468801      4 -rwxr-xr-x   1 root     root          350 Jan 11 14:22 /usr/bin/gslp
+  4471331    464 -rwxr-xr-x   1 root     root       473520 Jan 18  2020 /usr/bin/xfdesktop
+  4457421     24 -rwxr-xr-x   1 root     root        23704 Feb 24  2020 /usr/bin/sg_copy_results
+  4457216    844 -rwxr-xr-x   1 root     root       861384 Dec 17  2020 /usr/bin/lshw
+  4456929    100 -rwxr-xr-x   1 root     root       101064 Jan 14  2019 /usr/bin/bc
+  4464210     16 -rwxr-xr-x   1 root     root        14600 Apr 21  2021 /usr/bin/libwacom-list-local-devices
+  4463546    240 -rwxr-xr-x   1 root     root       242360 Oct 21  2021 /usr/bin/mmcli
+  4457503    116 -rwxr-xr-x   1 root     root       117376 Sep  5  2019 /usr/bin/sort
+  4468831     36 -rwxr-xr-x   1 root     root        35080 Jun  6 18:09 /usr/bin/ntfscat
+  4468633      4 -rwxr-xr-x   1 root     root         1254 Sep 14  2021 /usr/bin/blueman-services
+  4457509     16 -rwxr-xr-x   1 root     root        14328 May  9  2019 /usr/bin/splitfont
+  4468435      4 -rwxr-xr-x   1 root     root          474 Nov 15  2018 /usr/bin/select-default-iwrap
+  4458182     28 -rwxr-xr-x   1 root     root        26864 Sep  9  2021 /usr/bin/free
+  4457417     40 -rwxr-xr-x   1 root     root        39233 Mar 27  2020 /usr/bin/setupcon
+  4457098     40 -rwxr-xr-x   1 root     root        40184 Nov 12  2019 /usr/bin/fuser
+  4458196     24 -rwxr-xr-x   1 root     root        22776 Sep  9  2021 /usr/bin/tload
+  4471200      8 -rwxr-xr-x   1 root     root         4589 Jan 14 18:28 /usr/bin/update-manager
+  4468830     16 -rwxr-xr-x   1 root     root        14568 Jun  6 18:09 /usr/bin/ntfs-3g.probe
+  4456967      4 -rwxr-xr-x   1 root     root         1207 Feb 17  2020 /usr/bin/byobu-status-detail
+  4468451    168 -rwxr-xr-x   1 root     root       170496 Jul 22  2021 /usr/bin/aspell
+  4473106      8 -rwxr-xr-x   1 root     root         5427 Apr  7 01:24 /usr/bin/ldd
+  4467774     68 -rwxr-xr-x   1 root     root        68208 Mar 10 19:41 /usr/bin/sbvarsign
+  4457558    116 -rwxr-xr-x   1 root     root       115376 Mar 23  2020 /usr/bin/telnet.netkit
+  4456572    440 -rwxr-xr-x   1 root     root       448112 Mar 15 12:59 /usr/bin/tar
+  4457133      4 -rwxr-xr-x   1 root     root         2776 Mar 21  2020 /usr/bin/grog
+  4457186    176 -rwxr-xr-x   1 root     root       180064 Jul  1  2020 /usr/bin/less
+  4471320     52 -rwxr-xr-x   1 root     root        51672 Apr 12  2020 /usr/bin/xfce4-settings-manager
+  4465830     20 -rwxr-xr-x   1 root     root        18608 Mar 11  2020 /usr/bin/isdv4-serial-debugger
+  4468784    164 -rwxr-xr-x   1 root     root       166152 Mar 27  2020 /usr/bin/pdftocairo
+  4471290    368 -rwxr-xr-x   1 root     root       375768 Jan 18  2020 /usr/bin/xfce4-panel
+  4468800      4 -rwxr-xr-x   1 root     root          353 Jan 11 14:22 /usr/bin/gslj
+  4472847     36 -rwxr-xr-x   1 root     root        35464 Mar  9 17:57 /usr/bin/x86_64-linux-gnu-gcc-ranlib-9
+  4457068    176 -rwxr-xr-x   1 root     root       178712 May  9  2019 /usr/bin/dumpkeys
+  4456990     64 -rwxr-xr-x   1 root     root        63864 Sep  5  2019 /usr/bin/chmod
+  4457209      4 -rwxr-xr-x   1 root     root         2885 Mar 30  2020 /usr/bin/lorder
+  4457170      4 -rwxr-xr-x   1 root     root         1838 Jan 24  2020 /usr/bin/jsonpointer
+  4457524    164 -rwsr-xr-x   1 root     root       166056 Jan 19  2021 /usr/bin/sudo
+  4457397      4 -rwxr-xr-x   1 root     root         1285 Feb 24  2020 /usr/bin/scsi_start
+  4469128    100 -rwxr-xr-x   1 root     root        98488 Apr 21  2020 /usr/bin/desktop-file-install
+  4468397     84 -rwxr-xr-x   1 root     root        84848 Mar 14  2021 /usr/bin/exo-desktop-item-edit
+  4457400     52 -rwxr-xr-x   1 root     root        51296 Apr  8  2019 /usr/bin/sdiff
+  4457572     52 -rwxr-xr-x   1 root     root        51544 Sep  5  2019 /usr/bin/tr
+  4462719      4 -rwxr-xr-x   1 root     root         3820 Aug 12  2017 /usr/bin/laptop-detect
+  4457339     16 -rwxr-xr-x   1 root     root        13655 Oct 19  2020 /usr/bin/prove
+  4471298     16 -rwxr-xr-x   1 root     root        14488 Aug 22  2019 /usr/bin/xfce4-popup-notes
+  4463106     16 -rwxr-xr-x   1 root     root        14480 Apr 29 12:03 /usr/bin/dbus-cleanup-sockets
+  4458266    104 -rwxr-xr-x   1 root     root       105720 Mar 10 13:48 /usr/bin/samba-regedit
+  4457267     44 -rwxr-xr-x   1 root     root        43352 Sep  5  2019 /usr/bin/nice
+  4471166      4 -rwxr-xr-x   1 root     root           90 Nov  3  2020 /usr/bin/scp-dbus-service
+  4468573     28 -rwxr-xr-x   1 root     root        26864 Jul  6  2021 /usr/bin/avahi-publish
+  4457223    172 -rwxr-xr-x   1 root     root       175744 Dec 25  2020 /usr/bin/lsof
+  4464350     16 -rwxr-xr-x   1 root     root        14480 Apr 29 12:03 /usr/bin/dbus-update-activation-environment
+  4472904      4 -rwxr-xr-x   1 root     root         3846 Sep  6  2019 /usr/bin/fakeroot-tcp
+  4471068     20 -rwxr-xr-x   1 root     root        18752 Jan 30  2020 /usr/bin/hipercdecode
+  4457270     44 -rwxr-xr-x   1 root     root        43352 Sep  5  2019 /usr/bin/nproc
+  4457633     16 -rwxr-xr-x   1 root     root        14488 Jul  8  2019 /usr/bin/volname
+  4471225    200 -rwxr-xr-x   1 root     root       202200 Feb 28  2020 /usr/bin/x11perf
+  4471038     16 -rwxr-xr-x   1 root     root        14656 Jan 23  2020 /usr/bin/msexpand
+  4473127     32 -rwxr-xr-x   1 root     root        30944 Apr 21 12:54 /usr/bin/systemd-tty-ask-password-agent
+  4457324     52 -rwxr-xr-x   1 root     root        51352 Nov  2  2020 /usr/bin/plymouth
+  4471067     28 -rwxr-xr-x   1 root     root        26944 Jan 30  2020 /usr/bin/hbpldecode
+  4462259     40 -rwsr-xr-x   1 root     root        39144 Feb  7 13:33 /usr/bin/umount
+  4457121    412 -rwxr-xr-x   1 root     root       418856 Jan  6  2021 /usr/bin/gpg-agent
+  4469684      4 -rwxr-xr-x   1 root     root         4045 Dec  7  2021 /usr/bin/gdb-add-index
+  4457469     16 -rwxr-xr-x   1 root     root        14856 Feb 24  2020 /usr/bin/sg_sync
+  4457315     44 -rwxr-xr-x   1 root     root        43384 Sep  5  2019 /usr/bin/pinky
+  4470072     40 -rwxr-xr-x   1 root     root        39064 Dec  9  2019 /usr/bin/gst-launch-1.0
+  4457146    116 -rwxr-xr-x   1 root     root       117040 Dec  2  2021 /usr/bin/scp
+  4457033     80 -rwxr-xr-x   1 root     root        80256 Sep  5  2019 /usr/bin/dd
+  4457207     40 -rwxr-xr-x   1 root     root        39256 Sep  5  2019 /usr/bin/logname
+  4470917    120 -rwxr-xr-x   1 root     root       121464 Aug 27  2019 /usr/bin/xfce4-about
+  4457616    140 -rwxr-xr-x   1 root     root       142144 Sep  5  2019 /usr/bin/vdir
+  4468409      4 -rwxr-xr-x   1 root     root          273 May 19  2016 /usr/bin/apturl
+  4464362    116 -rwxr-xr-x   1 root     root       114952 Jun  8 11:09 /usr/bin/l2test
+  4457140     24 -rwxr-xr-x   1 root     root        23136 Jul 14  2021 /usr/bin/faillog
+  4457419     16 -rwxr-xr-x   1 root     root        14696 Feb 24  2020 /usr/bin/sg_bg_ctl
+  4471366     64 -rwxr-xr-x   1 root     root        63872 May 27 14:51 /usr/bin/cupstestppd
+  4470326      4 -rwxr-xr-x   1 root     root         1920 Mar 30  2019 /usr/bin/im-launch
+  4457020      4 -rwxr-xr-x   1 root     root          960 Feb 17  2020 /usr/bin/ctail
+  4469100     16 -rwxr-xr-x   1 root     root        14640 Mar 20  2020 /usr/bin/cd-iccdump
+  4468813      4 -rwxr-xr-x   1 root     root          215 Jan 11 14:22 /usr/bin/ps2pdf13
+  4462305     52 -rwxr-xr-x   1 root     root        49552 Mar 15 14:11 /usr/bin/delv
+  4471587     40 -rwxr-xr-x   1 root     root        39096 Jun  6 18:09 /usr/bin/ntfsusermap
+  4462263    132 -rwxr-xr-x   1 root     root       133352 Feb  7 13:33 /usr/bin/lsblk
+  4472661      8 -rwxr-xr-x   1 root     root         4309 Apr  7 01:24 /usr/bin/sotruss
+  4457456     28 -rwxr-xr-x   1 root     root        27496 Feb 24  2020 /usr/bin/sg_sanitize
+  4457118    176 -rwxr-xr-x   1 root     root       178848 Jan  6  2021 /usr/bin/gpgconf
+  4470541     40 -rwxr-xr-x   1 root     root        39080 Sep  9  2019 /usr/bin/transicc
+  4457594     40 -rwxr-xr-x   1 root     root        39288 Sep  5  2019 /usr/bin/uname
+  4457243     36 -rwxr-xr-x   1 root     root        35098 Feb  3  2020 /usr/bin/miniterm
+  4471352     92 -rwxr-xr-x   1 root     root        93584 Apr 21  2017 /usr/bin/zipsplit
+  4457313     68 -rwxr-xr-x   1 root     root        68240 Mar 22  2020 /usr/bin/pinentry-curses
+  4471045     20 -rwxr-xr-x   1 root     root        17871 Jan 30  2020 /usr/bin/foo2oak-wrapper
+  4467675    684 -rwxr-xr-x   1 root     root       696624 Oct 20  2021 /usr/bin/x86_64-linux-gnu-as
+  4457327     16 -rwxr-xr-x   1 root     root        15034 Oct 19  2020 /usr/bin/pod2man
+  4471218     16 -rwxr-xr-x   1 root     root        14640 Feb 28  2020 /usr/bin/atobm
+  4457346      4 -rwxr-xr-x   1 root     root         2628 Oct 19  2020 /usr/bin/ptardiff
+  4468835     48 -rwxr-xr-x   1 root     root        47376 Jun  6 18:09 /usr/bin/ntfsfix
+  4456686     32 -rwxr-sr-x   1 root     shadow      31312 Jul 14  2021 /usr/bin/expiry
+  4456739     48 -rwxr-xr-x   1 root     root        49152 Mar 10 13:48 /usr/bin/pdbedit
+  4457079    204 -rwxr-xr-x   1 root     root       206336 Mar 21  2020 /usr/bin/eqn
+  4457644     36 -rwxr-xr-x   1 root     root        34984 Feb 18  2020 /usr/bin/whiptail
+  4457637     16 -rwxr-xr-x   1 root     root        13367 May 10 13:23 /usr/bin/apport-cli
+  4457402      4 -rwxr-xr-x   1 root     root         2442 Nov 17  2019 /usr/bin/select-editor
+  4468836     60 -rwxr-xr-x   1 root     root        59672 Jun  6 18:09 /usr/bin/ntfsinfo
+  4457571     28 -rwxr-xr-x   1 root     root        26968 Feb 26  2020 /usr/bin/tput
+  4457274     80 -rwxr-xr-x   1 root     root        80112 Feb 13  2020 /usr/bin/nstat
+  4457489     60 -rwxr-xr-x   1 root     root        59768 Sep  5  2019 /usr/bin/sha256sum
+  4471317     60 -rwxr-xr-x   1 root     root        59864 Apr 12  2020 /usr/bin/xfce4-mime-settings
+  4468782     24 -rwxr-xr-x   1 root     root        22760 Mar 27  2020 /usr/bin/pdfseparate
+  4457500     20 -rwxr-xr-x   1 root     root        18917 Nov 26  2018 /usr/bin/tasksel
+  4457592     20 -rwxr-xr-x   1 root     root        18584 Mar  7  2020 /usr/bin/ulockmgr_server
+  4464355    800 -rwxr-xr-x   1 root     root       815256 Jun  8 11:09 /usr/bin/btmon
+  4458863     32 -rwxr-xr-x   1 root     root        30960 Mar 31  2021 /usr/bin/setpci
+  4458193     32 -rwxr-xr-x   1 root     root        30952 Sep  9  2021 /usr/bin/skill
+  4469099     28 -rwxr-xr-x   1 root     root        26928 Mar 20  2020 /usr/bin/cd-fix-profile
+  4456868     88 -rwsr-xr-x   1 root     root        88464 Jul 14  2021 /usr/bin/gpasswd
+  4467633      4 -rwxr-xr-x   1 root     root          977 Nov 14  2018 /usr/bin/lfm
+  4467745     64 -rwxr-xr-x   1 root     root        63720 Feb  7 13:33 /usr/bin/resizepart
+  4456840    164 -rwxr-xr-x   1 root     root       167072 Jan  6  2021 /usr/bin/gpg-connect-agent
+  4471307    128 -rwxr-xr-x   1 root     root       129528 Mar 29  2020 /usr/bin/xfce4-screensaver-preferences
+  4457017      4 -rwxr-xr-x   1 root     root         4090 Jun 25  2020 /usr/bin/linux-check-removal
+  4457302     40 -rwxr-xr-x   1 root     root        39256 Sep  5  2019 /usr/bin/pathchk
+  4457279     40 -rwxr-xr-x   1 root     root        39144 Feb  7 13:33 /usr/bin/uuidparse
+  4471232     24 -rwxr-xr-x   1 root     root        22832 Feb 28  2020 /usr/bin/xcursorgen
+  4471292      4 -rwxr-xr-x   1 root     root         1496 Jan 18  2020 /usr/bin/xfce4-popup-directorymenu
+  4468308      4 -rwxr-xr-x   1 root     root          270 Mar 16 16:36 /usr/bin/nvidia-detector
+  4457141     32 -rwxr-xr-x   1 root     root        29224 Oct 19  2020 /usr/bin/h2ph
+  4471042     20 -rwxr-xr-x   1 root     root        18541 Jan 30  2020 /usr/bin/foo2hiperc-wrapper
+  4469138      8 -rwxr-xr-x   1 root     root         4754 Aug  9  2019 /usr/bin/p7zip
+  4457610     16 -rwxr-xr-x   1 root     root        14640 Oct  1  2019 /usr/bin/usbreset
+  4468056     24 -rwxr-xr-x   1 root     root        22680 Nov  5  2021 /usr/bin/dm-tool
+  4473182   1552 -rwxr-xr-x   1 root     root      1587584 Apr 21 12:54 /usr/bin/systemd-analyze
+  4471247     28 -rwxr-xr-x   1 root     root        26944 Feb 29  2020 /usr/bin/smproxy
+  4468360     32 -rwxr-xr-x   1 root     root        31160 Apr 14  2021 /usr/bin/speaker-test
+  4456610     84 -rwxr-sr-x   1 root     shadow      84512 Jul 14  2021 /usr/bin/chage
+  4468828    120 -rwxr-xr-x   1 root     root       121712 Jun  6 18:09 /usr/bin/lowntfs-3g
+  4471062     44 -rwxr-xr-x   1 root     root        44296 Jan 30  2020 /usr/bin/foo2qpdl
+  4468346     48 -rwxr-xr-x   1 root     root        47552 Apr 14  2021 /usr/bin/alsabat
+  4471091     28 -rwxr-xr-x   1 root     root        27952 Oct 30  2018 /usr/bin/min12xxw
+  4456932     16 -rwxr-xr-x   1 root     root        14488 Mar 30  2020 /usr/bin/bsd-from
+  4471233     24 -rwxr-xr-x   1 root     root        23184 Feb 28  2020 /usr/bin/xcutsel
+  4457239     48 -rwxr-xr-x   1 root     root        47480 Sep  5  2019 /usr/bin/md5sum
+  4471340     64 -rwxr-xr-x   1 root     root        64336 Mar 24  2020 /usr/bin/xinput
+  4467743     40 -rwxr-xr-x   1 root     root        39672 Feb  7 13:33 /usr/bin/prlimit
+  4457261      4 -rwxr-xr-x   1 root     root          913 Mar 21  2020 /usr/bin/neqn
+  4457171      4 -rwxr-xr-x   1 root     root          397 Jan 23  2020 /usr/bin/jsonschema
+  4456870     68 -rwsr-xr-x   1 root     root        68208 Jul 14  2021 /usr/bin/passwd
+  4468792     16 -rwxr-xr-x   1 root     root        14640 May 27 14:51 /usr/bin/lprm
+  4462255     84 -rwxr-xr-x   1 root     root        84440 Feb  7 13:33 /usr/bin/dmesg
+  4462077      4 -rwxr-xr-x   1 root     root          596 Feb 17 12:26 /usr/bin/sos
+  4458198    128 -rwxr-xr-x   1 root     root       129072 Sep  9  2021 /usr/bin/top
+  4457233    140 -rwxr-xr-x   1 root     root       142432 Feb 25  2020 /usr/bin/mandb
+  4457348     80 -rwxr-xr-x   1 root     root        80280 Sep  5  2019 /usr/bin/ptx
+  4467728     36 -rwxr-xr-x   1 root     root        35120 Feb  7 13:33 /usr/bin/ipcmk
+  4457484     72 -rwxr-xr-x   1 root     root        73576 Feb 24  2020 /usr/bin/sginfo
+  4456938    432 -rwxr-xr-x   1 root     root       441888 Feb 15  2020 /usr/bin/btrfs-map-logical
+  4457235     40 -rwxr-xr-x   1 root     root        39632 Feb 25  2020 /usr/bin/manpath
+  4457521      4 -rwxr-xr-x   1 root     root         1821 Mar 18  2019 /usr/bin/strace-log-merge
+  4457650      4 -rwxr-xr-x   1 root     root          234 Jan 24  2019 /usr/bin/xdg-user-dir
+  4470449     16 -rwxr-xr-x   1 root     root        14656 Feb 18  2021 /usr/bin/gdk-pixbuf-pixdata
+  4471368     24 -rwxr-xr-x   1 root     root        22912 May 27 14:51 /usr/bin/lpoptions
+  4463129     76 -rwxr-xr-x   1 root     root        76008 Jun  8 11:09 /usr/bin/btattach
+  4462317      8 -rwxr-xr-x   1 root     root         5902 Apr  8 12:56 /usr/bin/xzgrep
+  4458850     24 -rwxr-xr-x   1 root     root        22920 Jul 12  2021 /usr/bin/gapplication
+  4468841     16 -rwxr-xr-x   1 root     root        14648 Apr 10  2020 /usr/bin/ttfread
+  4458878     32 -rwxr-xr-x   1 root     root        31032 Oct 12  2021 /usr/bin/vmware-rpctool
+  4470857      4 -rwxr-xr-x   1 root     root           59 Mar 14 15:28 /usr/bin/lomath
+  4456982      4 -rwxr-xr-x   1 root     root          624 Feb 14 23:56 /usr/bin/landscape-sysinfo
+  4468349     16 -rwxr-xr-x   1 root     root        14720 Apr 14  2021 /usr/bin/alsatplg
+  4465838     72 -rwxr-xr-x   1 root     root        72000 Apr 14  2020 /usr/bin/intel-virtual-output
+  4457458     20 -rwxr-xr-x   1 root     root        19304 Feb 24  2020 /usr/bin/sg_sat_phy_event
+  4473086      4 -rwxr-xr-x   1 root     root          136 Jan  8  2019 /usr/bin/xclip-pastefile
+  4470537     36 -rwxr-xr-x   1 root     root        34992 Sep  9  2019 /usr/bin/jpgicc
+  4457788      4 -rwxr-xr-x   1 root     root          380 Mar 21 10:13 /usr/bin/cftp3
+  4457158      8 -rwxr-xr-x   1 root     root         4370 Oct 19  2020 /usr/bin/instmodsh
+  4457597     44 -rwxr-xr-x   1 root     root        43384 Sep  5  2019 /usr/bin/unexpand
+  4456971      8 -rwxr-xr-x   1 root     root         4877 Sep  4  2019 /usr/bin/bzexe
+  4470993      4 -rwxr-xr-x   1 root     root          845 Feb 18  2020 /usr/bin/onboard-settings
+  4457793      4 -rwxr-xr-x   1 root     root          386 Mar 21 10:13 /usr/bin/tkconch3
+  4462106      4 -rwxr-xr-x   1 root     root         1065 Feb 17 12:26 /usr/bin/sos-collector
+  4468413     56 -rwxr-xr-x   2 root     root        55552 Feb  7  2020 /usr/bin/x86_64-pc-linux-gnu-pkg-config
+  4457050     68 -rwxr-xr-x   1 root     root        67800 Apr  8  2019 /usr/bin/diff3
+  4469560     84 -rwxr-xr-x   1 root     root        84408 Feb 21 03:06 /usr/bin/fwupdate
+  4471330      4 -rwxr-xr-x   1 root     root         1540 Mar 14  2020 /usr/bin/xfce4-popup-whiskermenu
+  4457394      4 -rwxr-xr-x   1 root     root         1327 Feb 24  2020 /usr/bin/scsi_readcap
+  4468358     92 -rwxr-xr-x   1 root     root        92544 Apr 14  2021 /usr/bin/axfer
+  4469127     56 -rwxr-xr-x   1 root     root        55392 Jan 14  2019 /usr/bin/dc
+  4471036     92 -rwxr-xr-x   1 root     root        92816 Mar 22  2020 /usr/bin/pinentry-gtk-2
+  4456973     40 -rwxr-xr-x   3 root     root        39144 Sep  5  2019 /usr/bin/bzcat
+  4469877     40 -rwxr-xr-x   1 root     root        37961 Jan 11  2021 /usr/bin/xdg-screensaver
+  4457701      8 -rwxr-xr-x   1 root     root         6794 Apr 18 09:14 /usr/bin/bashbug
+  4462117    252 -rwxr-xr-x   1 root     root       254160 Jan 11 15:09 /usr/bin/grub-mkpasswd-pbkdf2
+  4457139     56 -rwxr-xr-x   1 root     root        57104 Jul 14  2021 /usr/bin/login
+  4471265     52 -rwxr-xr-x   1 root     root        49768 Feb 29  2020 /usr/bin/xprop
+  4468780     60 -rwxr-xr-x   1 root     root        59744 Mar 27  2020 /usr/bin/pdfimages
+  4456918      4 -rwxr-xr-x   1 root     root         3060 Jan  6  2021 /usr/bin/migrate-pubring-from-classic-gpg
+  4456928      4 -rwxr-xr-x   1 root     root          152 Nov 12  2018 /usr/bin/batch
+  4470807     52 -rwxr-xr-x   1 root     root        51192 Jun  2  2017 /usr/bin/lp_solve
+  4457058     12 -rwxr-xr-x   1 root     root        10830 Jan 14 18:28 /usr/bin/hwe-support-status
+  4468380    780 -rwxr-xr-x   1 root     root       796320 Feb 22  2021 /usr/bin/xterm
+  4456960      4 -rwxr-xr-x   1 root     root         3298 Feb 17  2020 /usr/bin/byobu-reconnect-sockets
+  4473177     88 -rwxr-xr-x   1 root     root        88416 Apr 21 12:54 /usr/bin/busctl
+  4471234    112 -rwxr-xr-x   1 root     root       110736 Feb 28  2020 /usr/bin/xditview
+  4471314    356 -rwxr-xr-x   1 root     root       363096 Apr 12  2020 /usr/bin/xfce4-display-settings
+  4456975      4 -rwxr-xr-x   1 root     root         1297 Sep  5  2019 /usr/bin/bzmore
+  4470672      4 -rwxr-xr-x   1 root     root           64 Mar 14 15:28 /usr/bin/lofromtemplate
+  4457048      4 -rwxr-xr-x   1 root     root         2446 Jan 26  2020 /usr/bin/dh_bash-completion
+  4471595     52 -rwxr-xr-x   1 root     root        51480 Jun  6 18:09 /usr/bin/ntfsdecrypt
+  4458251     28 -rwxr-xr-x   1 root     root        27160 Mar 10 13:48 /usr/bin/dbwrap_tool
+  4456958      4 -rwxr-xr-x   1 root     root         1156 Feb 17  2020 /usr/bin/byobu-prompt
+  4457134    184 -rwxr-xr-x   1 root     root       186304 Mar 21  2020 /usr/bin/grops
+  4456750     32 -rwxr-xr-x   1 root     root        31248 May 19  2020 /usr/bin/aa-enabled
+  4471063     32 -rwxr-xr-x   1 root     root        31976 Jan 30  2020 /usr/bin/foo2slx
+  4456516    108 -rwxr-xr-x   1 root     root       109072 Apr 21 12:54 /usr/bin/systemd-hwdb
+  4456926      8 -rwxr-xr-x   1 root     root         7565 May 25 11:14 /usr/bin/dpkg-buildflags
+  4458257    968 -rwxr-xr-x   1 root     root       990400 Mar 10 13:48 /usr/bin/net
+  4471291      4 -rwxr-xr-x   1 root     root         1568 Jan 18  2020 /usr/bin/xfce4-popup-applicationsmenu
+  4468218     24 -rwxr-xr-x   1 root     root        22760 Apr  6  2020 /usr/bin/fc-cache
+  4462219      4 -rwxr-xr-x   1 root     root         2206 Apr  8 11:05 /usr/bin/zless
+  4457412     16 -rwxr-xr-x   1 root     root        14440 May  9  2019 /usr/bin/setmetamode
+  4457078     44 -rwxr-xr-x   1 root     root        43240 Mar 22  2020 /usr/bin/envsubst
+  4456697    120 -rwxr-xr-x   1 root     root       121920 Jan  6  2021 /usr/bin/dirmngr-client
+  4471387     28 -rwxr-xr-x   1 root     root        26712 Nov 24  2018 /usr/bin/glxgears
+  4462068    352 -rwxr-xr-x   1 root     root       357328 Jan 11 15:09 /usr/bin/grub-mkimage
+  4473176     64 -rwxr-xr-x   1 root     root        63840 Apr 21 12:54 /usr/bin/bootctl
+  4470448     16 -rwxr-xr-x   1 root     root        14672 Feb 18  2021 /usr/bin/gdk-pixbuf-csource
+  4457043      4 -rwxr-xr-x   1 root     root         1827 Aug  3  2019 /usr/bin/debconf-show
+  4467673     68 -rwxr-xr-x   1 root     root        68024 Oct 20  2021 /usr/bin/x86_64-linux-gnu-ar
+  4459554    168 -rwxr-xr-x   1 root     root       170504 Dec  2  2021 /usr/bin/sftp
+  4469689     20 -rwxr-xr-x   1 root     root        17143 Nov 25  2006 /usr/bin/dirsplit
+  4457077     44 -rwxr-xr-x   1 root     root        43352 Sep  5  2019 /usr/bin/env
+  4471241     84 -rwxr-xr-x   1 root     root        83152 Feb 28  2020 /usr/bin/xman
+  4457789      4 -rwxr-xr-x   1 root     root          386 Mar 21 10:13 /usr/bin/ckeygen3
+  4462054    232 -rwxr-xr-x   1 root     root       233600 Jan 11 15:09 /usr/bin/grub-menulst2cfg
+  4458877     24 -rwxr-xr-x   1 root     root        22840 Oct 12  2021 /usr/bin/vmware-namespace-cmd
+  4470918      4 -rwxr-xr-x   1 root     root         1932 Aug 14  2019 /usr/bin/xfhelp4
+  4461825    244 -rwxr-xr-x   1 root     root       249712 Jan 11 15:09 /usr/bin/grub-glue-efi
+  4457603     20 -rwxr-xr-x   1 root     root        18664 Apr 21 12:54 /usr/bin/systemd-notify
+  4467722     36 -rwxr-xr-x   1 root     root        35128 Feb  7 13:33 /usr/bin/flock
+  4457478     16 -rwxr-xr-x   1 root     root        14952 Feb 24  2020 /usr/bin/sg_write_long
+  4456597    920 -rwxr-xr-x   1 root     root       941264 Apr 21 12:54 /usr/bin/udevadm
+  4457300     20 -rwxr-xr-x   1 root     root        16515 Aug  3  2019 /usr/bin/pastebinit
+  4468175      4 -rwxr-xr-x   1 root     root         2259 Nov 20  2021 /usr/bin/padsp
+  4457428     16 -rwxr-xr-x   1 root     root        14792 Feb 24  2020 /usr/bin/sg_ident
+  4467726     32 -rwxr-xr-x   1 root     root        30952 Feb  7 13:33 /usr/bin/ionice
+  4471267     52 -rwxr-xr-x   1 root     root        51592 Feb 29  2020 /usr/bin/xwininfo
+  4467764     68 -rwxr-xr-x   1 root     root        68304 Mar 10 19:41 /usr/bin/sbkeysync
+  4462304     68 -rwsr-xr-x   1 root     root        67816 Feb  7 13:33 /usr/bin/su
+  4457328     12 -rwxr-xr-x   1 root     root        10803 Oct 19  2020 /usr/bin/pod2text
+  4457311    220 -rwxr-xr-x   1 root     root       221536 Mar 21  2020 /usr/bin/pic
+  4457019     56 -rwxr-xr-x   1 root     root        55672 Sep  5  2019 /usr/bin/csplit
+  4457363     76 -rwxr-xr-x   1 root     root        76008 Apr 21 12:54 /usr/bin/networkctl
+  4457431     24 -rwxr-xr-x   1 root     root        23176 Feb 24  2020 /usr/bin/sg_luns
+  4471256     16 -rwxr-xr-x   1 root     root        14648 Feb 29  2020 /usr/bin/xdriinfo
+  4461401    840 -rwxr-xr-x   1 root     root       859488 Nov 27  2021 /usr/bin/nmcli
+  4457190    100 -rwxr-xr-x   1 root     root       101320 Feb 25  2020 /usr/bin/lexgrog
+  4457112     44 -rwxr-xr-x   1 root     root        43240 Mar 22  2020 /usr/bin/gettext
+  4457254     84 -rwxr-xr-x   1 root     root        82176 Aug 20  2019 /usr/bin/mtr
+  4468223     16 -rwxr-xr-x   1 root     root        14568 Apr  6  2020 /usr/bin/fc-pattern
+  4458873     76 -rwxr-xr-x   1 root     root        76352 Oct 12  2021 /usr/bin/vmtoolsd
+  4465808     24 -rwxr-xr-x   1 root     root        23736 Feb 28  2020 /usr/bin/xkbwatch
+  4469998    984 -rwxr-xr-x   1 root     root      1007528 Jun 17  2020 /usr/bin/gnome-software
+  4457444     28 -rwxr-xr-x   1 root     root        27464 Feb 24  2020 /usr/bin/sg_read_buffer
+  4471381     32 -rwxr-xr-x   1 root     root        31232 Mar 31 20:52 /usr/bin/sensors
+  4457643      4 -rwxr-xr-x   1 root     root          946 Dec  7  2019 /usr/bin/which
+  4456968      8 -rwxr-xr-x   1 root     root         4667 Feb 17  2020 /usr/bin/byobu-ugraph
+  4471090     16 -rwxr-xr-x   1 root     root        14344 Oct 30  2018 /usr/bin/esc-m
+  4471283     16 -rwxr-xr-x   1 root     root        14920 Mar 18  2018 /usr/bin/xstdcmap
+  4456557     52 -rwxr-xr-x   1 root     root        52040 Feb  7 13:33 /usr/bin/logger
+  4457342     24 -rwxr-xr-x   1 root     root        22520 May  9  2019 /usr/bin/psfxtable
+  4471064     40 -rwxr-xr-x   1 root     root        40168 Jan 30  2020 /usr/bin/foo2xqx
+  4457132    124 -rwxr-xr-x   1 root     root       124448 Mar 21  2020 /usr/bin/groff
+  4457178     32 -rwxr-xr-x   1 root     root        32024 Nov 12  2019 /usr/bin/killall
+  4457137     24 -rwxr-xr-x   1 root     root        24522 Feb 25  2020 /usr/bin/growpart
+  4463600     12 -rwxr-xr-x   1 root     root         8744 May 29  2018 /usr/bin/pollinate
+  4456769     36 -rwxr-xr-x   1 root     root        35344 May 19  2020 /usr/bin/aa-exec
+  4471388     16 -rwxr-xr-x   1 root     root        14328 Nov 24  2018 /usr/bin/glxheads
+  4456921      4 -rwxr-xr-x   1 root     root          402 Mar 21  2020 /usr/bin/automat-visualize3
+  4457335     40 -rwxr-xr-x   1 root     root        39256 Sep  5  2019 /usr/bin/printenv
+  4465855      4 -rwxr-xr-x   1 root     root         2837 Feb  8  2019 /usr/bin/poff
+  4457463     28 -rwxr-xr-x   1 root     root        27688 Feb 24  2020 /usr/bin/sg_senddiag
+  4457040      4 -rwxr-xr-x   1 root     root         1719 Aug  3  2019 /usr/bin/debconf-copydb
+  4471355     64 -rwxr-xr-x   1 root     root        63720 Apr  6  2021 /usr/bin/yelp
+  4468428      4 -rwxr-xr-x   1 root     root         1039 Dec  2  2020 /usr/bin/aptdcon
+  4468350     32 -rwxr-xr-x   1 root     root        31528 Apr 14  2021 /usr/bin/alsaucm
+  4457234      4 -rwxr-xr-x   1 root     root         1942 Feb 17  2020 /usr/bin/manifest
+  4473181    128 -rwxr-xr-x   1 root     root       129408 Apr 21 12:54 /usr/bin/resolvectl
+  4469872     44 -rwxr-xr-x   1 root     root        43276 Jan 11  2021 /usr/bin/xdg-desktop-menu
+  4458260    140 -rwxr-xr-x   1 root     root       141784 Mar 10 13:48 /usr/bin/nmblookup
+  4467671     36 -rwxr-xr-x   1 root     root        35536 Oct 20  2021 /usr/bin/x86_64-linux-gnu-addr2line
+  4457390     96 -rwxr-xr-x   1 root     root        97496 Apr  8 11:05 /usr/bin/gzip
+  4471389     64 -rwxr-xr-x   1 root     root        63696 Nov 24  2018 /usr/bin/glxinfo
+  4467741     36 -rwxr-xr-x   1 root     root        35256 Feb  7 13:33 /usr/bin/nsenter
+  4458879     60 -rwxr-xr-x   1 root     root        60000 Oct 12  2021 /usr/bin/vmware-toolbox-cmd
+  4467742    120 -rwxr-xr-x   1 root     root       121072 Feb  7 13:33 /usr/bin/partx
+  4467685   2000 -rwxr-xr-x   1 root     root      2046584 Oct 20  2021 /usr/bin/x86_64-linux-gnu-dwp
+  4462517    364 -rwxr-xr-x   1 root     root       370976 Dec  2  2021 /usr/bin/ssh-add
+  4457573     20 -rwxr-xr-x   1 root     root        18584 Jan 30  2020 /usr/bin/tracepath
+  4468816      4 -rwxr-xr-x   1 root     root          647 Jan 11 14:22 /usr/bin/ps2ps
+  4471343     28 -rwxr-xr-x   1 root     root        26248 Apr  6  2020 /usr/bin/synclient
+  4469971     96 -rwxr-xr-x   1 root     root        96840 Feb 24  2020 /usr/bin/gnome-font-viewer
+  4457268     44 -rwxr-xr-x   1 root     root        43448 Sep  5  2019 /usr/bin/nl
+  4471392      4 -rwxr-xr-x   1 root     root         1539 Aug 31  2019 /usr/bin/xfce4-popup-places
+  4471310    120 -rwxr-xr-x   1 root     root       121696 Dec 26  2019 /usr/bin/xfce4-screenshooter
+  4462619     12 -rwxr-xr-x   1 root     root        10658 Feb 14  2020 /usr/bin/ssh-copy-id
+  4457055     20 -rwxr-xr-x   1 root     root        18744 Jan  6  2021 /usr/bin/watchgnupg
+  4459430      4 -rwxr-xr-x   1 root     root         2108 Feb 24 23:34 /usr/bin/cloud-init-per
+  4457581     40 -rwxr-xr-x   1 root     root        39256 Sep  5  2019 /usr/bin/tty
+  4467712     52 -rwxr-xr-x   1 root     root        51432 Feb  7 13:33 /usr/bin/choom
+  4471073     20 -rwxr-xr-x   1 root     root        18752 Jan 30  2020 /usr/bin/slxdecode
+  4468811      4 -rwxr-xr-x   1 root     root          272 Jan 11 14:22 /usr/bin/ps2pdf
+  4457176      4 -rwxr-xr-x   1 root     root          385 Mar 14  2020 /usr/bin/keyring
+  4468176     24 -rwxr-xr-x   1 root     root        22928 Nov 20  2021 /usr/bin/pasuspender
+  4457372     48 -rwxr-xr-x   1 root     root        47448 Sep  5  2019 /usr/bin/rmdir
+  4457042      4 -rwxr-xr-x   1 root     root         2935 Aug  3  2019 /usr/bin/debconf-set-selections
+  4458204     28 -rwxr-xr-x   1 root     root        27208 Sep  9  2021 /usr/bin/watch
+  4457560     56 -rwxr-xr-x   1 root     root        55640 Sep  5  2019 /usr/bin/test
+  4457466     20 -rwxr-xr-x   1 root     root        19144 Feb 24  2020 /usr/bin/sg_start
+  4457204      4 -rwxr-xr-x   2 root     root         2346 Apr  8 11:05 /usr/bin/gunzip
+  4457099     40 -rwsr-xr-x   1 root     root        39144 Mar  7  2020 /usr/bin/fusermount
+  4457374      4 -rwxr-xr-x   1 root     root         1656 Feb 13  2020 /usr/bin/routel
+  4456690     28 -rwxr-xr-x   1 root     root        27104 Jun 15  2021 /usr/bin/apt-extracttemplates
+  4457004     52 -rwxr-xr-x   1 root     root        51296 Apr  8  2019 /usr/bin/cmp
+  4468575     16 -rwxr-xr-x   1 root     root        14576 Jul  6  2021 /usr/bin/avahi-set-host-name
+  4470992      4 -rwxr-xr-x   1 root     root         1274 Feb 18  2020 /usr/bin/onboard
+  4456943     12 -rwxr-xr-x   1 root     root         8363 Feb 17  2020 /usr/bin/byobu
+  4470862      4 -rwxr-xr-x   1 root     root           58 Mar 14 15:28 /usr/bin/loweb
+  4458876     16 -rwxr-xr-x   1 root     root        14720 Oct 12  2021 /usr/bin/vmware-hgfsclient
+  4471094     32 -rwxr-xr-x   1 root     root        31112 Feb 10  2018 /usr/bin/ijs_pxljr
+  4471297     28 -rwxr-xr-x   1 root     root        26776 Aug 22  2019 /usr/bin/xfce4-notes-settings
+  4457477     28 -rwxr-xr-x   1 root     root        27752 Feb 24  2020 /usr/bin/sg_write_buffer
+  4457150    188 -rwxr-xr-x   1 root     root       189304 Dec  4  2019 /usr/bin/htop
+  4457495     64 -rwxr-xr-x   1 root     root        63864 Sep  5  2019 /usr/bin/shred
+  4473187     20 -rwxr-xr-x   1 root     root        18656 Apr 21 12:54 /usr/bin/systemd-detect-virt
+  4471251     76 -rwxr-xr-x   1 root     root        74448 Feb 29  2020 /usr/bin/editres
+  4456939    432 -rwxr-xr-x   1 root     root       441888 Feb 15  2020 /usr/bin/btrfs-select-super
+  4468354     28 -rwxr-xr-x   1 root     root        27016 Apr 14  2021 /usr/bin/aplaymidi
+  4471273     16 -rwxr-xr-x   1 root     root        14328 Mar 18  2018 /usr/bin/xhost
+  4468834     40 -rwxr-xr-x   1 root     root        39184 Jun  6 18:09 /usr/bin/ntfsfallocate
+  4471321    316 -rwxr-xr-x   1 root     root       322136 Apr 12  2020 /usr/bin/xfsettingsd
+  4457227    304 -rwxr-xr-x   1 root     root       308560 Feb  1  2019 /usr/bin/ltrace
+  4463065     84 -rwxr-xr-x   1 root     root        84200 Jun  8 11:09 /usr/bin/bluemoon
+  4471089     36 -rwxr-xr-x   1 root     root        33648 Jan 31  2020 /usr/bin/m2400w
+  4457187     16 -rwxr-xr-x   1 root     root        14656 Jul  1  2020 /usr/bin/lessecho
+  4458869    140 -rwxr-xr-x   1 root     root       141856 Oct 12  2021 /usr/bin/VGAuthService
+  4458200     16 -rwxr-xr-x   1 root     root        14568 Sep  9  2021 /usr/bin/uptime
+  4457502     48 -rwxr-xr-x   1 root     root        47624 Mar 21  2020 /usr/bin/soelim
+  4457226    244 -rwxr-xr-x   1 root     root       248328 Oct  1  2019 /usr/bin/lsusb
+  4468333     20 -rwxr-xr-x   1 root     root        18584 Mar  1  2020 /usr/bin/chacl
+  4467689     44 -rwxr-xr-x   1 root     root        43696 Oct 20  2021 /usr/bin/x86_64-linux-gnu-elfedit
+  4467625      4 -rwxr-xr-x   1 root     root         1317 Feb 18  2020 /usr/bin/ranger
+  4457377      4 -rwxr-xr-x   1 root     root         3592 Jan 15  2014 /usr/bin/run-one
+  4457651     28 -rwxr-xr-x   1 root     root        26696 Jan 24  2019 /usr/bin/xdg-user-dirs-update
+  4456614     84 -rwsr-xr-x   1 root     root        85064 Jul 14  2021 /usr/bin/chfn
+  4471281     12 -rwxr-xr-x   1 root     root        10232 Mar 18  2018 /usr/bin/xsetpointer
+  4471348      4 -rwxr-xr-x   1 root     root           86 Apr  9  2020 /usr/bin/xubuntu-numlockx
+  4457475    116 -rwxr-xr-x   1 root     root       116920 Feb 24  2020 /usr/bin/sg_vpd
+  4458837     16 -rwxr-xr-x   1 root     root        14199 May 25 11:14 /usr/bin/dpkg-gencontrol
+  4473065      4 -rwxr-xr-x   1 root     root          367 Jul 13  2021 /usr/bin/pip3
+  4457053     48 -rwxr-xr-x   1 root     root        47456 Sep  5  2019 /usr/bin/dircolors
+  4470976    300 -rwxr-xr-x   1 root     root       305464 Aug 25  2019 /usr/bin/mousepad
+  4473064      4 -rwxr-xr-x   1 root     root          365 Jul 13  2021 /usr/bin/pip
+  4467734     40 -rwxr-xr-x   1 root     root        39480 Feb  7 13:33 /usr/bin/lslocks
+  4457429    124 -rwxr-xr-x   1 root     root       126456 Feb 24  2020 /usr/bin/sg_inq
+  4470455     20 -rwxr-xr-x   1 root     root        18856 Feb 15 17:50 /usr/bin/gtk-encode-symbolic-svg
+  4457309     48 -rwxr-xr-x   2 root     root        46366 Oct 19  2020 /usr/bin/perlthanks
+  4457196     76 -rwxr-xr-x   1 root     root        76160 Sep  5  2019 /usr/bin/ln
+  4457608      8 -rwxr-xr-x   1 root     root         4100 Oct  1  2019 /usr/bin/usb-devices
+  4471030    484 -rwxr-xr-x   1 root     root       493928 Mar 22  2020 /usr/bin/pavucontrol
+  4471226      4 -rwxr-xr-x   1 root     root         2807 Feb 28  2020 /usr/bin/x11perfcomp
+  4471092     28 -rwxr-xr-x   1 root     root        27688 Aug 12  2016 /usr/bin/calibrate_ppa
+  4457364      8 -rwxr-xr-x   1 root     root         6447 Apr  8 11:05 /usr/bin/gzexe
+  4471236     32 -rwxr-xr-x   1 root     root        32560 Feb 28  2020 /usr/bin/xeyes
+  4456947      4 -rwxr-xr-x   1 root     root         1341 Feb 17  2020 /usr/bin/byobu-disable-prompt
+  4456964      4 -rwxr-xr-x   1 root     root         1600 Feb 17  2020 /usr/bin/byobu-shell
+  4457439     24 -rwxr-xr-x   1 root     root        23112 Feb 24  2020 /usr/bin/sg_rbuf
+  4467621      4 -rwxr-xr-x   1 root     root         1204 Jan  5  2019 /usr/bin/w3mman
+  4470989   1004 -rwxr-xr-x   1 root     root      1027064 Jul 29  2020 /usr/bin/nm-connection-editor
+  4470975     52 -rwxr-xr-x   1 root     root        51440 Jul 16  2019 /usr/bin/updatedb.mlocate
+  4468833     40 -rwxr-xr-x   1 root     root        39176 Jun  6 18:09 /usr/bin/ntfscmp
+  4465807     24 -rwxr-xr-x   1 root     root        23640 Feb 28  2020 /usr/bin/xkbvleds
+  4468221     16 -rwxr-xr-x   1 root     root        14568 Apr  6  2020 /usr/bin/fc-list
+  4459589     12 -rwxr-xr-x   1 root     root         8547 May 25 11:14 /usr/bin/dpkg-mergechangelogs
+  4471252     16 -rwxr-xr-x   1 root     root        15080 Feb 29  2020 /usr/bin/listres
+  4457392     12 -rwxr-xr-x   1 root     root         8585 Feb 24  2020 /usr/bin/scsi_logging_level
+  4468309      4 -rwxr-xr-x   1 root     root         2453 Mar 16 16:36 /usr/bin/quirks-handler
+  4468634      4 -rwxr-xr-x   1 root     root         1134 Sep 14  2021 /usr/bin/blueman-tray
+  4468805      4 -rwxr-xr-x   1 root     root          498 Jan 11 14:22 /usr/bin/pf2afm
+  4473107     60 -rwxr-xr-x   1 root     root        58944 Apr  7 01:24 /usr/bin/locale
+  4472846     36 -rwxr-xr-x   1 root     root        35464 Mar  9 17:57 /usr/bin/x86_64-linux-gnu-gcc-nm-9
+  4468824    112 -rwxr-xr-x   1 root     root       113184 May 27 14:51 /usr/bin/ppdhtml
+  4457213      4 -rwxr-xr-x   1 root     root         3638 Aug 25  2019 /usr/bin/lsb_release
+  4465832     64 -rwxr-xr-x   1 root     root        65224 Mar 11  2020 /usr/bin/xsetwacom
+  4468404      4 -rwxr-xr-x   1 root     root         1124 Jan  1  2020 /usr/bin/xfce4-terminal.wrapper
+  4468208     40 -rwxr-xr-x   1 root     root        39552 Feb 15 17:50 /usr/bin/gtk-update-icon-cache
+  4472447    236 -rwxr-xr-x   1 root     root       239848 May  9 17:42 /usr/bin/curl
+  4468356     28 -rwxr-xr-x   1 root     root        27008 Apr 14  2021 /usr/bin/aseqdump
+  4471037     16 -rwxr-xr-x   1 root     root        14656 Jan 23  2020 /usr/bin/mscompress
+  4457038     12 -rwxr-xr-x   1 root     root        11541 Aug  3  2019 /usr/bin/debconf-apt-progress
+  4457473     24 -rwxr-xr-x   1 root     root        23144 Feb 24  2020 /usr/bin/sg_unmap
+  4457395      4 -rwxr-xr-x   1 root     root         1121 Feb 24  2020 /usr/bin/scsi_ready
+  4462673    124 -rwxr-xr-x   1 root     root       125424 May 25 11:14 /usr/bin/dpkg-split
+  4458882     60 -rwxr-xr-x   1 root     root        57752 Oct 12  2021 /usr/bin/vmware-xferlogs
+  4457306   3400 -rwxr-xr-x   2 root     root      3478464 Oct 19  2020 /usr/bin/perl
+  4457872     16 -rwxr-xr-x   1 root     root        14648 Nov  1  2021 /usr/bin/tdbbackup.tdbtools
+  4457106    696 -rwxr-xr-x   1 root     root       711136 Nov  3  2019 /usr/bin/gawk
+  4457430    152 -rwxr-xr-x   1 root     root       154488 Feb 24  2020 /usr/bin/sg_logs
+  4468561     56 -rwxr-xr-x   1 root     root        55824 Feb 14  2020 /usr/bin/atril-previewer
+  4467740     36 -rwxr-xr-x   1 root     root        35048 Feb  7 13:33 /usr/bin/namei
+  4457488     60 -rwxr-xr-x   1 root     root        59768 Sep  5  2019 /usr/bin/sha224sum
+  4467705    644 -rwxr-xr-x   1 root     root       658360 Oct 20  2021 /usr/bin/x86_64-linux-gnu-readelf
+  4471550    440 -rwxr-xr-x   1 root     root       448784 Mar 22  2020 /usr/bin/mocp
+  4462540     24 -rwxr-xr-x   1 root     root        23022 May 25 11:14 /usr/bin/dpkg-source
+  4467461     20 -rwxr-xr-x   1 root     root        19016 Nov 28  2019 /usr/bin/acpi_listen
+  4457147     40 -rwxr-xr-x   1 root     root        39256 Sep  5  2019 /usr/bin/hostid
+  4457160    600 -rwxr-xr-x   1 root     root       611960 Feb 13  2020 /usr/bin/ip
+  4467739     16 -rwxr-xr-x   1 root     root        14568 Feb  7 13:33 /usr/bin/mesg
+  4457522     84 -rwxr-xr-x   1 root     root        84344 Sep  5  2019 /usr/bin/stty
+  4471367     24 -rwxr-xr-x   1 root     root        22840 May 27 14:51 /usr/bin/lp
+  4456974     20 -rwxr-xr-x   1 root     root        18584 Sep  5  2019 /usr/bin/bzip2recover
+  4467711    184 -rwxr-xr-x   1 root     root       186856 Oct 20  2021 /usr/bin/x86_64-linux-gnu-strip
+  4471371    140 -rwxr-xr-x   1 root     root       140840 Apr  8  2020 /usr/bin/time-admin
+  4456736     16 -rwxr-xr-x   1 root     root        14640 Mar 10 13:48 /usr/bin/dumpmscat
+  4470848      4 -rwxr-xr-x   1 root     root           62 Mar 14 15:28 /usr/bin/loimpress
+  4457528     40 -rwxr-xr-x   1 root     root        39256 Sep  5  2019 /usr/bin/sync
+  4457461     20 -rwxr-xr-x   1 root     root        18592 Feb 24  2020 /usr/bin/sg_scan
+  4467710     32 -rwxr-xr-x   1 root     root        30952 Feb  7 13:33 /usr/bin/addpart
+  4458872     56 -rwxr-xr-x   1 root     root        56112 Oct 12  2021 /usr/bin/vmhgfs-fuse
+  4462590     84 -rwxr-xr-x   1 root     root        84248 Aug 16  2019 /usr/bin/unzipsfx
+  4467485     20 -rwxr-xr-x   1 root     root        18888 Sep 24  2019 /usr/bin/setfattr
+  4457464    120 -rwxr-xr-x   1 root     root       122648 Feb 24  2020 /usr/bin/sg_ses
+  4469561    188 -rwxr-xr-x   1 root     root       190768 Feb 21 03:06 /usr/bin/fwupdmgr
+  4471260     16 -rwxr-xr-x   1 root     root        14648 Feb 29  2020 /usr/bin/xkill
+  4457344     36 -rwxr-xr-x   1 root     root        36008 Nov 12  2019 /usr/bin/pstree
+  4457201   1156 -rwxr-xr-x   1 root     root      1183448 Apr 18 09:14 /usr/bin/bash
+  4456973     40 -rwxr-xr-x   3 root     root        39144 Sep  5  2019 /usr/bin/bzip2
+  4467773     60 -rwxr-xr-x   1 root     root        59952 Mar 10 19:41 /usr/bin/sbsign
+  4461400     24 -rwxr-xr-x   1 root     root        22832 Nov 27  2021 /usr/bin/nm-online
+  4457376     20 -rwxr-xr-x   1 root     root        18487 Oct 18  2019 /usr/bin/run-mailcap
+  4467753     32 -rwxr-xr-x   1 root     root        30952 Feb  7 13:33 /usr/bin/utmpdump
+  4467619   1456 -rwxr-xr-x   1 root     root      1488856 Jan  5  2019 /usr/bin/w3m
+  4457520   1548 -rwxr-xr-x   1 root     root      1583592 Apr 16  2020 /usr/bin/strace
+  4457080     44 -rwxr-xr-x   1 root     root        43384 Sep  5  2019 /usr/bin/expand
+  4456963      4 -rwxr-xr-x   1 root     root         1012 Feb 17  2020 /usr/bin/byobu-select-session
+  4468408     68 -rwxr-xr-x   1 root     root        67816 Mar 14  2020 /usr/bin/appstreamcli
+  4471224     24 -rwxr-xr-x   1 root     root        23336 Feb 28  2020 /usr/bin/transset
+  4471357    800 -rwxr-xr-x   1 root     root       818800 Mar  3  2020 /usr/bin/brltty
+  4468806      4 -rwxr-xr-x   1 root     root          516 Jan 11 14:22 /usr/bin/pfbtopfa
+  4468572     32 -rwxr-xr-x   1 root     root        30968 Jul  6  2021 /usr/bin/avahi-browse
+  4471076     28 -rwxr-xr-x   1 root     root        26952 Jan 30  2020 /usr/bin/zjsdecode
+  4472659      8 -rwxr-xr-x   1 root     root         6497 Apr  7 01:24 /usr/bin/mtrace
+  4457426     36 -rwxr-xr-x   1 root     root        36088 Feb 24  2020 /usr/bin/sg_get_config
+  4468455      8 -rwxr-xr-x   1 root     root         5656 Jul 22  2021 /usr/bin/prezip
+  4471375    668 -rwxr-xr-x   1 root     root       683192 Mar 16  2020 /usr/bin/inxi
+  4457142     60 -rwxr-xr-x   1 root     root        60866 Oct 19  2020 /usr/bin/h2xs
+  4457654     20 -rwxr-xr-x   1 root     root        18744 Feb 21 12:58 /usr/bin/pkttyagent
+  4456562     16 -rwxr-xr-x   1 root     root        14568 Feb  7 13:33 /usr/bin/uuidgen
+  4469690    644 -rwxr-xr-x   1 root     root       657304 Feb 18  2020 /usr/bin/genisoimage
+  4458203     24 -rwxr-xr-x   1 root     root        22760 Sep  9  2021 /usr/bin/w.procps
+  4471093   1616 -rwxr-xr-x   1 root     root      1652232 Aug 12  2016 /usr/bin/pnm2ppa
+  4468810      4 -rwxr-xr-x   1 root     root         2752 Jan 11 14:22 /usr/bin/ps2epsi
+  4463661     44 -rwxr-xr-x   1 root     root        43416 May 27 14:51 /usr/bin/ippfind
+  4471040     20 -rwxr-xr-x   1 root     root        17268 Jan 30  2020 /usr/bin/foo2ddst-wrapper
+  4471263     28 -rwxr-xr-x   1 root     root        27032 Feb 29  2020 /usr/bin/xlsfonts
+  4457493     20 -rwxr-xr-x   1 root     root        18504 May  9  2019 /usr/bin/showconsolefont
+  4469984   1140 -rwxr-xr-x   1 root     root      1164352 Mar 11  2020 /usr/bin/gnome-keyring-daemon
+  4456989     72 -rwxr-xr-x   1 root     root        72024 Sep  5  2019 /usr/bin/chgrp
+  4471312     72 -rwxr-xr-x   1 root     root        73024 Apr 12  2020 /usr/bin/xfce4-appearance-settings
+  4457054    124 -rwxr-xr-x   1 root     root       125984 Jan  6  2021 /usr/bin/symcryptrun
+  4457680    164 -rwxr-xr-x   1 root     root       165504 Aug 25  2021 /usr/bin/cpio
+  4457564     44 -rwxr-xr-x   1 root     root        43800 Sep  5  2019 /usr/bin/timeout
+  4471276     64 -rwxr-xr-x   1 root     root        63576 Mar 18  2018 /usr/bin/xrandr
+  4471248    104 -rwxr-xr-x   1 root     root       105232 Feb 29  2020 /usr/bin/xsm
+  4457202     28 -rwxr-xr-x   1 root     root        27016 Jun 15  2021 /usr/bin/apt-config
+  4472858      4 -rwxr-xr-x   1 root     root          428 May  7  2006 /usr/bin/c89-gcc
+  4462194     36 -rwxr-sr-x   1 root     tty         35048 Feb  7 13:33 /usr/bin/wall
+  4462218      8 -rwxr-xr-x   1 root     root         8103 Apr  8 11:05 /usr/bin/zgrep
+  4462172      4 -rwxr-xr-x   1 root     root         1057 Feb 17 12:26 /usr/bin/sosreport
+  4462057    272 -rwxr-xr-x   1 root     root       274864 Jan 11 15:09 /usr/bin/grub-mkfont
+  4462221      8 -rwxr-xr-x   1 root     root         4577 Apr  8 11:05 /usr/bin/znew
+  4471055     20 -rwxr-xr-x   1 root     root        18752 Jan 30  2020 /usr/bin/ddstdecode
+  4462128    956 -rwxr-xr-x   1 root     root       977200 Jan 11 15:09 /usr/bin/grub-mkrescue
+  4471187     52 -rwxr-xr-x   1 root     root        51720 Aug 15  2019 /usr/bin/thunar-volman
+  4457143     48 -rwxr-xr-x   1 root     root        47480 Sep  5  2019 /usr/bin/head
+  4469682      4 -rwxr-xr-x   1 root     root         3477 Dec  7  2021 /usr/bin/gcore
+  4458269      4 -rwxr-xr-x   1 root     root         1555 Mar 10 13:48 /usr/bin/samba-tool
+  4463055    196 -rwxr-xr-x   1 root     root       197080 Jun  8 11:09 /usr/bin/bccmd
+  4464359    148 -rwxr-xr-x   1 root     root       151256 Jun  8 11:09 /usr/bin/hcitool
+  4457794      4 -rwxr-xr-x   1 root     root          382 Mar 21 10:13 /usr/bin/trial3
+  4458448     20 -rwxr-xr-x   1 root     root        16795 May 25 11:14 /usr/bin/dpkg-genbuildinfo
+  4468770    116 -rwxr-xr-x   1 root     root       117280 May 27 14:51 /usr/bin/ppdc
+  4457460     20 -rwxr-xr-x   1 root     root        18984 Feb 24  2020 /usr/bin/sg_sat_set_features
+  4457089     28 -rwxr-xr-x   1 root     root        27104 Jan 16  2020 /usr/bin/file
+  4456984      4 -rwxr-xr-x   1 root     root          389 Dec 17  2019 /usr/bin/chardetect3
+  4461824    904 -rwxr-xr-x   1 root     root       923488 Jan 11 15:09 /usr/bin/grub-fstest
+  4468783     28 -rwxr-xr-x   1 root     root        26856 Mar 27  2020 /usr/bin/pdfsig
+  4471326     16 -rwxr-xr-x   1 root     root        15144 Mar 30  2020 /usr/bin/xfce4-session-logout
+  4473193     24 -rwxr-xr-x   1 root     root        22760 Apr 21 12:54 /usr/bin/systemd-stdio-bridge
+  4471254     32 -rwxr-xr-x   1 root     root        32016 Feb 29  2020 /usr/bin/viewres
+  4470332      4 -rwxr-xr-x   1 root     root         1444 Sep 27  2020 /usr/bin/gnome-language-selector
+  4457398      4 -rwxr-xr-x   1 root     root         1474 Feb 24  2020 /usr/bin/scsi_stop
+  4465783      8 -rwxr-xr-x   1 root     root         5807 Nov 24  2021 /usr/bin/mesa-overlay-control.py
+  4457092    316 -rwxr-xr-x   1 root     root       320160 Feb 18  2020 /usr/bin/find
+  4457362      4 -rwxr-xr-x   1 root     root           89 Feb 22  2020 /usr/bin/red
+  4465809     44 -rwxr-xr-x   1 root     root        43128 Mar 18  2018 /usr/bin/bdftopcf
+  4468789     32 -rwxr-xr-x   1 root     root        30952 Mar 27  2020 /usr/bin/pdfunite
+  4471087     32 -rwxr-xr-x   1 root     root        29552 Jan 31  2020 /usr/bin/m2300w
+  4469686    512 -rwxr-xr-x   1 root     root       521776 Dec  7  2021 /usr/bin/gdbserver
+  4468815      4 -rwxr-xr-x   1 root     root         1078 Jan 11 14:22 /usr/bin/ps2pdfwr
+  4462107    404 -rwxr-xr-x   1 root     root       411200 Jan 11 15:09 /usr/bin/grub-mknetdir
+  4471344     24 -rwxr-xr-x   1 root     root        22680 Apr  6  2020 /usr/bin/syndaemon
+  4467714     40 -rwxr-xr-x   1 root     root        39144 Feb  7 13:33 /usr/bin/chrt
+  4467733     96 -rwxr-xr-x   1 root     root        96488 Feb  7 13:33 /usr/bin/lsipc
+  4470386     84 -rwxr-xr-x   1 root     root        84280 May 27 14:51 /usr/bin/ipptool
+  4472878    228 -rwxr-xr-x   1 root     root       230968 Jul 28  2018 /usr/bin/make
+  4469120   1132 -rwxr-xr-x   1 root     root      1158288 Mar  9 17:57 /usr/bin/x86_64-linux-gnu-cpp-9
+  4461402    668 -rwxr-xr-x   1 root     root       683392 Nov 27  2021 /usr/bin/nmtui
+  4457259     44 -rwxr-xr-x   1 root     root        43664 Mar  9  2020 /usr/bin/nc.openbsd
+  4457568     24 -rwxr-xr-x   1 root     root        22840 Feb 26  2020 /usr/bin/toe
+  4471370    112 -rwxr-xr-x   1 root     root       113488 Apr  8  2020 /usr/bin/shares-admin
+  4468384     40 -rwxr-xr-x   1 root     root        39752 Aug 14  2019 /usr/bin/xfconf-query
+  4457888     88 -rwxr-xr-x   1 root     root        88864 Aug 25  2021 /usr/bin/mt-gnu
+  4457244     16 -rwxr-xr-x   1 root     root        16163 May  9  2019 /usr/bin/mk_modmap
+  4465812      4 -rwxr-xr-x   1 root     root           65 Mar 18  2018 /usr/bin/mkfontdir
+  4472660    100 -rwxr-xr-x   1 root     root       101056 Apr  7 01:24 /usr/bin/rpcgen
+  4468298     80 -rwxr-xr-x   1 root     root        80664 Nov  2  2020 /usr/bin/spice-vdagent
+  4457359    132 -rwxr-xr-x   1 root     root       133360 Feb 13  2020 /usr/bin/rdma
+  4457486     44 -rwxr-xr-x   1 root     root        43176 Feb 24  2020 /usr/bin/sgp_dd
+  4457179    172 -rwxr-xr-x   1 root     root       174424 Mar 12  2020 /usr/bin/kmod
+  4457072     56 -rwxr-xr-x   1 root     root        55504 Feb 22  2020 /usr/bin/ed
+  4457408     48 -rwxr-xr-x   1 root     root        47240 May  9  2019 /usr/bin/setfont
+  4457198    212 -rwxr-xr-x   1 root     root       215624 May  9  2019 /usr/bin/loadkeys
+  4468787     32 -rwxr-xr-x   1 root     root        31080 Mar 27  2020 /usr/bin/pdftops
+  4467716     32 -rwxr-xr-x   1 root     root        30952 Feb  7 13:33 /usr/bin/delpart
+  4467720     36 -rwxr-xr-x   1 root     root        35096 Feb  7 13:33 /usr/bin/fincore
+  4457499     40 -rwxr-xr-x   1 root     root        39256 Sep  5  2019 /usr/bin/sleep
+  4457587     40 -rwxr-xr-x   1 root     root        40685 Dec 14  2018 /usr/bin/ucf
+  4457096     44 -rwxr-xr-x   1 root     root        43352 Sep  5  2019 /usr/bin/fold
+  4457271      4 -rwxr-xr-x   1 root     root         3293 Mar 21  2020 /usr/bin/nroff
+  4456540      4 -rwxr-xr-x   1 root     root           79 Mar 15 12:22 /usr/bin/pydoc3.8
+  4471365     16 -rwxr-xr-x   1 root     root        14648 May 27 14:51 /usr/bin/cancel
+  4471299      4 -rwxr-xr-x   1 root     root          109 Jan 23  2020 /usr/bin/xfce4-panel-profiles
+  4471353     12 -rwxr-xr-x   1 root     root         9228 Feb 27  2020 /usr/bin/gdialog
+  4462258      4 -rwxr-xr-x   1 root     root         2698 Jul  7  2021 /usr/bin/linux-version
+  4471222     28 -rwxr-xr-x   1 root     root        28384 Feb 28  2020 /usr/bin/oclock
+  4472901     36 -rwxr-xr-x   1 root     root        35088 Sep  6  2019 /usr/bin/faked-sysv
+  4468785    124 -rwxr-xr-x   1 root     root       125184 Mar 27  2020 /usr/bin/pdftohtml
+  4469102     60 -rwxr-xr-x   1 root     root        59696 Mar 20  2020 /usr/bin/colormgr
+  4457409     16 -rwxr-xr-x   1 root     root        14408 May  9  2019 /usr/bin/setkeycodes
+  4468452      4 -rwxr-xr-x   1 root     root         2044 Jul 22  2021 /usr/bin/aspell-import
+  4465810     12 -rwxr-xr-x   1 root     root        10232 Mar 18  2018 /usr/bin/bdftruncate
+  4471262     20 -rwxr-xr-x   1 root     root        18752 Feb 29  2020 /usr/bin/xlsclients
+  4456700     60 -rwxr-xr-x   1 root     root        59736 Sep  5  2019 /usr/bin/[
+  4471229     28 -rwxr-xr-x   1 root     root        27296 Feb 28  2020 /usr/bin/xclipboard
+  4471242     20 -rwxr-xr-x   1 root     root        19024 Feb 28  2020 /usr/bin/xmore
+  4468330     68 -rwxr-xr-x   1 root     root        68592 Feb  5  2021 /usr/bin/whoopsie
+  4462607      4 -rwxr-xr-x   1 root     root         1455 Dec  2  2021 /usr/bin/ssh-argv0
+  4456992     72 -rwxr-xr-x   1 root     root        72024 Sep  5  2019 /usr/bin/chown
+  4457432     20 -rwxr-xr-x   1 root     root        18584 Feb 24  2020 /usr/bin/sg_map
+  4471220     16 -rwxr-xr-x   1 root     root        14664 Feb 28  2020 /usr/bin/bmtoa
+  4462549     28 -rwxr-xr-x   1 root     root        26776 Aug 16  2019 /usr/bin/funzip
+  4457454     16 -rwxr-xr-x   1 root     root        14792 Feb 24  2020 /usr/bin/sg_rtpg
+  4457264     20 -rwxr-xr-x   1 root     root        18712 Feb  1 09:16 /usr/bin/xxd
+  4456737     16 -rwxr-xr-x   1 root     root        14640 Mar 10 13:48 /usr/bin/mvxattr
+  4457391      4 -rwxr-xr-x   1 root     root         1984 Apr  8 11:05 /usr/bin/zcat
+  4471044     20 -rwxr-xr-x   1 root     root        20083 Jan 30  2020 /usr/bin/foo2lava-wrapper
+  4468796     16 -rwxr-xr-x   1 root     root        14488 Jan 11 14:22 /usr/bin/gs
+  4457379     40 -rwxr-xr-x   1 root     root        39256 Sep  5  2019 /usr/bin/runcon
+  4469876     28 -rwxr-xr-x   1 root     root        25621 Jan 11  2021 /usr/bin/xdg-open
+  4465814     24 -rwxr-xr-x   1 root     root        22520 Mar 18  2018 /usr/bin/ucs2any
+  4457538     24 -rwxr-xr-x   1 root     root        22776 Apr 21 12:54 /usr/bin/systemd-inhibit
+  4457082     56 -rwxr-xr-x   1 root     root        55640 Sep  5  2019 /usr/bin/expr
+  4468334     32 -rwxr-xr-x   1 root     root        31512 Mar  1  2020 /usr/bin/getfacl
+  4456957      4 -rwxr-xr-x   1 root     root         3348 Feb 17  2020 /usr/bin/byobu-layout
+  4467627     24 -rwxr-xr-x   1 root     root        21200 Feb 18  2020 /usr/bin/rifle
+  4457446     24 -rwxr-xr-x   1 root     root        23176 Feb 24  2020 /usr/bin/sg_readcap
+  4471237     80 -rwxr-xr-x   1 root     root        80304 Feb 28  2020 /usr/bin/xgc
+  4456944      4 -rwxr-xr-x   1 root     root          996 Feb 17  2020 /usr/bin/byobu-config
+  4456601     24 -rwxr-xr-x   1 root     root        22912 Feb 21 12:58 /usr/bin/pkcheck
+  4458187     36 -rwxr-xr-x   1 root     root        35064 Sep  9  2021 /usr/bin/pmap
+  4457967     80 -rwxr-xr-x   1 root     root        80384 Apr  8 12:56 /usr/bin/xz
+  4457253      8 -rwxr-xr-x   1 root     root         6320 Jun 25  2020 /usr/bin/linux-update-symlinks
+  4465751      4 -rwxr-xr-x   1 root     root          785 Feb 28  2020 /usr/bin/ssh-import-id-gh
+  4458854     32 -rwxr-xr-x   1 root     root        31112 Jul 12  2021 /usr/bin/gsettings
+  4457334     68 -rwxr-xr-x   1 root     root        68104 Mar 21  2020 /usr/bin/preconv
+  4463152     60 -rwxr-xr-x   1 root     root        59888 Mar 10 19:41 /usr/bin/sbattach
+  4464349     32 -rwxr-xr-x   1 root     root        30864 Apr 29 12:03 /usr/bin/dbus-send
+  4457485     36 -rwxr-xr-x   1 root     root        34976 Feb 24  2020 /usr/bin/sgm_dd
+  4458880     20 -rwxr-xr-x   1 root     root        18744 Oct 12  2021 /usr/bin/vmware-vgauth-cmd
+  4457422     52 -rwxr-xr-x   1 root     root        51376 Feb 24  2020 /usr/bin/sg_dd
+  4457492     12 -rwxr-xr-x   1 root     root         9976 Oct 19  2020 /usr/bin/shasum
+  4457437     16 -rwxr-xr-x   1 root     root        14696 Feb 24  2020 /usr/bin/sg_prevent
+  4457599      4 -rwxr-xr-x   1 root     root          530 May  9  2019 /usr/bin/unicode_stop
+  4457591     20 -rwxr-xr-x   1 root     root        18600 Mar 30  2020 /usr/bin/ul
+  4457249     48 -rwxr-xr-x   1 root     root        47448 Sep  5  2019 /usr/bin/mktemp
+  4457052    140 -rwxr-xr-x   1 root     root       142144 Sep  5  2019 /usr/bin/dir
+  4456981      4 -rwxr-xr-x   1 root     root          853 Oct 18  2019 /usr/bin/cautious-launcher
+  4456753    736 -rwxr-xr-x   1 root     root       753336 Jun 15 18:16 /usr/bin/openssl
+  4469136     16 -rwxr-xr-x   1 root     root        14648 Nov  5  2020 /usr/bin/enchant-lsmod-2
+  4457110     16 -rwxr-xr-x   1 root     root        14408 May  9  2019 /usr/bin/getkeycodes
+  4470552     12 -rwxr-xr-x   1 root     root        10292 Nov 29  2019 /usr/bin/lwp-download
+  4457075     44 -rwxr-xr-x   1 root     root        42111 Oct 19  2020 /usr/bin/enc2xs
+  4462065     16 -rwxr-xr-x   1 root     root        14568 Apr 18 09:14 /usr/bin/clear_console
+  4457337     60 -rwxr-xr-x   1 root     root        59736 Sep  5  2019 /usr/bin/printf
+  4470301      4 -rwxr-xr-x   1 root     root          719 Apr  1  2020 /usr/bin/hp-plugin-ubuntu
+  4457791      4 -rwxr-xr-x   1 root     root          388 Mar 21 10:13 /usr/bin/mailmail3
+  4457180  24048 -rwxr-xr-x   1 root     root     24624464 Apr 27 16:12 /usr/bin/snap
+  4457164     16 -rwxr-xr-x   1 root     root        14536 Dec  7  2019 /usr/bin/ischroot
+  4457007      4 -rwxr-xr-x   1 root     root          963 Feb 17  2020 /usr/bin/col1
+  4463132     24 -rwxr-xr-x   1 root     root        22824 Mar 10 19:41 /usr/bin/kmodsign
+  4473110     16 -rwxr-xr-x   1 root     root        15378 Apr  7 01:24 /usr/bin/tzselect
+  4456950      4 -rwxr-xr-x   1 root     root         1351 Feb 17  2020 /usr/bin/byobu-export
+  4471390    272 -rwxr-xr-x   1 root     root       274920 Aug 23  2019 /usr/bin/ristretto
+  4456919     40 -rwxr-xr-x   1 root     root        39288 Sep  5  2019 /usr/bin/arch
+  4473105     68 -rwxr-xr-x   1 root     root        68000 Apr  7 01:24 /usr/bin/iconv
+  4467730     68 -rwxr-xr-x   1 root     root        67816 Feb  7 13:33 /usr/bin/ipcs
+  4457790      4 -rwxr-xr-x   1 root     root          382 Mar 21 10:13 /usr/bin/conch3
+  4469878     40 -rwxr-xr-x   1 root     root        38393 Jan 11  2021 /usr/bin/xdg-settings
+  4457206     48 -rwxr-xr-x   1 root     root        47576 Jun 15  2021 /usr/bin/apt-get
+  4471271     32 -rwxr-xr-x   1 root     root        31480 Mar 18  2018 /usr/bin/xcmsdb
+  4470073     20 -rwxr-xr-x   1 root     root        18584 Dec  9  2019 /usr/bin/gst-typefind-1.0
+  4471239     28 -rwxr-xr-x   1 root     root        27920 Feb 28  2020 /usr/bin/xlogo
+  4468629     12 -rwxr-xr-x   1 root     root         9561 Sep 14  2021 /usr/bin/blueman-assistant
+  4469871     24 -rwxr-xr-x   1 root     root        20638 Jan 11  2021 /usr/bin/xdg-desktop-icon
+  4457378     28 -rwxr-xr-x   1 root     root        27144 Dec  7  2019 /usr/bin/run-parts
+  4468615    100 -rwxr-xr-x   1 root     root       100504 Jul 10  2019 /usr/bin/xfce4-notifyd-config
+  4471167      4 -rwxr-xr-x   1 root     root           95 Nov  3  2020 /usr/bin/install-printerdriver
+  4473083     32 -rwxr-xr-x   1 root     root        30736 Jan  8  2019 /usr/bin/xclip
+  4471280     12 -rwxr-xr-x   1 root     root        10232 Mar 18  2018 /usr/bin/xsetmode
+  4470933      4 -rwxr-xr-x   1 root     root          277 Sep 19  2017 /usr/bin/lightdm-gtk-greeter-settings-pkexec
+  4469978    220 -rwxr-xr-x   1 root     root       223920 Jan  4  2021 /usr/bin/trust
+  4457652      8 -rwxr-xr-x   1 root     root         5164 Oct 19  2020 /usr/bin/xsubpp
+  4468225     16 -rwxr-xr-x   1 root     root        14568 Apr  6  2020 /usr/bin/fc-scan
+  4468453      8 -rwxr-xr-x   1 root     root         5656 Jul 22  2021 /usr/bin/precat
+  4470102     60 -rwxr-xr-x   1 root     root        59776 Sep  6  2021 /usr/bin/udisksctl
+  4471173      4 -rwxr-xr-x   1 root     root          333 Apr 16  2020 /usr/bin/thunar-settings
+  4471316    100 -rwxr-xr-x   1 root     root       100824 Apr 12  2020 /usr/bin/xfce4-keyboard-settings
+  4457874     16 -rwxr-xr-x   1 root     root        14648 Nov  1  2021 /usr/bin/tdbrestore
+  4468826     20 -rwxr-xr-x   1 root     root        18816 May 27 14:51 /usr/bin/ppdmerge
+  4457481     56 -rwxr-xr-x   1 root     root        56776 Feb 24  2020 /usr/bin/sg_write_x
+  4457420     24 -rwxr-xr-x   1 root     root        23304 Feb 24  2020 /usr/bin/sg_compare_and_write
+  4461961     12 -rwxr-xr-x   1 root     root         8573 May 10 13:23 /usr/bin/oem-getlogs
+  4471325    260 -rwxr-xr-x   1 root     root       264752 Mar 30  2020 /usr/bin/xfce4-session
+  4471279     32 -rwxr-xr-x   1 root     root        30712 Mar 18  2018 /usr/bin/xset
+  4469977     36 -rwxr-xr-x   1 root     root        35216 Jan  4  2021 /usr/bin/p11-kit
+  4471304    184 -rwxr-xr-x   1 root     root       187016 Mar 29  2020 /usr/bin/xfce4-screensaver
+  4457796      4 -rwxr-xr-x   1 root     root          384 Mar 21 10:13 /usr/bin/twistd3
+  4468348     72 -rwxr-xr-x   1 root     root        72432 Apr 14  2021 /usr/bin/alsamixer
+  4457414     16 -rwxr-xr-x   1 root     root        14680 Apr 21 12:54 /usr/bin/systemd-ask-password
+  4468632      8 -rwxr-xr-x   1 root     root         5122 Sep 14  2021 /usr/bin/blueman-sendto
+  4471056     36 -rwxr-xr-x   1 root     root        36072 Jan 30  2020 /usr/bin/foo2ddst
+  4468359     28 -rwxr-xr-x   1 root     root        27008 Apr 14  2021 /usr/bin/iecset
+  4471337     52 -rwxr-xr-x   1 root     root        51688 Aug 27  2019 /usr/bin/xiccd
+  4470453    120 -rwxr-xr-x   1 root     root       121224 Feb 15 17:50 /usr/bin/broadwayd
+  4467695   2260 -rwxr-xr-x   1 root     root      2312584 Oct 20  2021 /usr/bin/x86_64-linux-gnu-ld.gold
+  4473180     28 -rwxr-xr-x   1 root     root        26848 Apr 21 12:54 /usr/bin/localectl
+  4471329    152 -rwxr-xr-x   1 root     root       153944 Apr 12  2020 /usr/bin/xfce4-taskmanager
+  4468177     16 -rwxr-xr-x   1 root     root        14648 Nov 20  2021 /usr/bin/pax11publish
+  4457518     88 -rwxr-xr-x   1 root     root        88440 Sep  5  2019 /usr/bin/stat
+  4456952      4 -rwxr-xr-x   1 root     root         1506 Feb 17  2020 /usr/bin/byobu-keybindings
+  4457576    736 -rwxr-xr-x   1 root     root       753568 Mar 21  2020 /usr/bin/troff
+  4458011   1732 -rwxr-xr-x   1 root     root      1773344 Apr 25 23:21 /usr/bin/git-shell
+  4457049    216 -rwxr-xr-x   1 root     root       219480 Apr  8  2019 /usr/bin/diff
+  4471250     16 -rwxr-xr-x   1 root     root        14648 Feb 29  2020 /usr/bin/appres
+  4457487     52 -rwxr-xr-x   1 root     root        51576 Sep  5  2019 /usr/bin/sha1sum
+  4457601     40 -rwxr-xr-x   1 root     root        39256 Sep  5  2019 /usr/bin/unlink
+  4458202     40 -rwxr-xr-x   1 root     root        39168 Sep  9  2021 /usr/bin/vmstat
+  4464358    140 -rwxr-xr-x   1 root     root       141464 Jun  8 11:09 /usr/bin/hciattach
+  4457304     16 -rwxr-xr-x   1 root     root        14488 Nov 12  2019 /usr/bin/peekfd
+  4471336    148 -rwxr-xr-x   1 root     root       149960 Apr 15  2020 /usr/bin/xfwm4-workspace-settings
+  4471839     20 -rwxr-xr-x   1 root     root        20185 May  4 13:49 /usr/bin/networkd-dispatcher
+  4457453     16 -rwxr-xr-x   1 root     root        14696 Feb 24  2020 /usr/bin/sg_rmsn
+  4457476     24 -rwxr-xr-x   1 root     root        23112 Feb 24  2020 /usr/bin/sg_wr_mode
+  4457208     16 -rwxr-xr-x   1 root     root        14728 Mar 30  2020 /usr/bin/look
+  4468843    120 -rwxr-xr-x   1 root     root       121096 Jun  6 18:09 /usr/bin/ntfsrecover
+  4462405      8 -rwxr-xr-x   1 root     root         4567 May 25 11:14 /usr/bin/dpkg-parsechangelog
+  4457015      8 -rwxr-xr-x   1 root     root         8155 Oct 19  2020 /usr/bin/cpan
+  4456962      8 -rwxr-xr-x   1 root     root         5123 Feb 17  2020 /usr/bin/byobu-select-profile
+  4471282     20 -rwxr-xr-x   1 root     root        18432 Mar 18  2018 /usr/bin/xsetroot
+  4457231    120 -rwxr-xr-x   1 root     root       119632 Feb 25  2020 /usr/bin/man
+  4456923     44 -rwxr-xr-x   1 root     root        43352 Sep  5  2019 /usr/bin/base32
+  4457459     20 -rwxr-xr-x   1 root     root        19016 Feb 24  2020 /usr/bin/sg_sat_read_gplog
+  4469894   9588 -rwxr-xr-x   1 root     root      9816368 Mar 29  2020 /usr/bin/gimp-2.10
+  4471269     16 -rwxr-xr-x   1 root     root        14328 Mar 18  2018 /usr/bin/sessreg
+  4457370      4 -rwxr-xr-x   1 root     root           30 Jan 16  2020 /usr/bin/rgrep
+  4468174     68 -rwxr-xr-x   1 root     root        67992 Nov 20  2021 /usr/bin/pactl
+  4471244     36 -rwxr-xr-x   1 root     root        35120 Feb 28  2020 /usr/bin/xwud
+  4462138    732 -rwxr-xr-x   1 root     root       746288 Jan 11 15:09 /usr/bin/grub-mount
+  4467481     16 -rwxr-xr-x   1 root     root        14488 Sep 24  2019 /usr/bin/attr
+  4471048     20 -rwxr-xr-x   1 root     root        17572 Jan 30  2020 /usr/bin/foo2xqx-wrapper
+  4457584     28 -rwxr-xr-x   1 root     root        26952 Apr 21 12:54 /usr/bin/systemd-machine-id-setup
+  4473085      4 -rwxr-xr-x   1 root     root          389 Jan  8  2019 /usr/bin/xclip-cutfile
+  4471327    180 -rwxr-xr-x   1 root     root       182664 Mar 30  2020 /usr/bin/xfce4-session-settings
+  4470457     16 -rwxr-xr-x   1 root     root        14648 Feb 15 17:50 /usr/bin/gtk-query-settings
+  4462451    200 -rwxr-xr-x   1 root     root       200888 Jun  8 11:09 /usr/bin/hciconfig
+  4468630      4 -rwxr-xr-x   1 root     root         1305 Sep 14  2021 /usr/bin/blueman-manager
+  4471272     12 -rwxr-xr-x   1 root     root        10232 Mar 18  2018 /usr/bin/xgamma
+  4471110     16 -rwxr-xr-x   1 root     root        14488 Sep 17  2020 /usr/bin/gamma4scanimage
+  4473184     24 -rwxr-xr-x   1 root     root        22864 Apr 21 12:54 /usr/bin/systemd-cgls
+  4457005     16 -rwxr-xr-x   1 root     root        14328 May  9  2019 /usr/bin/codepage
+  4471047     20 -rwxr-xr-x   1 root     root        17603 Jan 30  2020 /usr/bin/foo2slx-wrapper
+  4457119    508 -rwxr-xr-x   1 root     root       519416 Jan  6  2021 /usr/bin/gpgsm
+  4471284     40 -rwxr-xr-x   1 root     root        40360 Mar 18  2018 /usr/bin/xvidtune
+  4471054     16 -rwxr-xr-x   1 root     root        14656 Jan 30  2020 /usr/bin/arm2hpdl
+  4456936    424 -rwxr-xr-x   1 root     root       433760 Feb 15  2020 /usr/bin/btrfs-find-root
+  4471391    164 -rwxr-xr-x   1 root     root       166384 Mar  3  2020 /usr/bin/xbrlapi
+  4457648     76 -rwxr-xr-x   1 root     root        76152 Feb 18  2020 /usr/bin/xargs
+  4467751     36 -rwxr-xr-x   1 root     root        35048 Feb  7 13:33 /usr/bin/taskset
+  4467707     36 -rwxr-xr-x   1 root     root        35280 Oct 20  2021 /usr/bin/x86_64-linux-gnu-size
+  4470325     12 -rwxr-xr-x   1 root     root        11009 Mar 30  2019 /usr/bin/im-config
+  4468403    256 -rwxr-xr-x   1 root     root       260832 Jan  1  2020 /usr/bin/xfce4-terminal
+  4457236     28 -rwxr-xr-x   1 root     root        26760 May  9  2019 /usr/bin/mapscrn
+  4468432     68 -rwxr-xr-x   1 root     root        68032 Apr  1  2020 /usr/bin/bwrap
+  4462402      8 -rwxr-xr-x   1 root     root         6789 May 25 11:14 /usr/bin/dpkg-name
+  4457638     48 -rwxr-xr-x   1 root     root        47456 Sep  5  2019 /usr/bin/wc
+  4470076     92 -rwxr-xr-x   1 root     root        92528 Mar 29  2020 /usr/bin/gucharmap
+  4457467     24 -rwxr-xr-x   1 root     root        23112 Feb 24  2020 /usr/bin/sg_stpg
+  4457557     44 -rwxr-xr-x   1 root     root        43384 Sep  5  2019 /usr/bin/tee
+  4457051   2124 -rwxr-xr-x   1 root     root      2172376 Nov 24  2021 /usr/bin/busybox
+  4469685      4 -rwxr-xr-x   1 root     root          126 Dec  7  2021 /usr/bin/gdbtui
+  4470660      4 -rwxr-xr-x   1 root     root          776 Feb 10  2020 /usr/bin/purple-send
+  4464361    104 -rwxr-xr-x   1 root     root       102408 Jun  8 11:09 /usr/bin/l2ping
+  4457307      4 -rwxr-xr-x   1 root     root          125 Oct 27  2019 /usr/bin/perldoc
+  4457258    316 -rwxr-xr-x   1 root     root       320136 Apr 10  2020 /usr/bin/nano
+  4468398     28 -rwxr-xr-x   1 root     root        27264 Mar 14  2021 /usr/bin/exo-open
+  4457585      4 -rwxr-xr-x   1 root     root          442 Mar 30  2020 /usr/bin/ubuntu-advantage
+  4471258     44 -rwxr-xr-x   1 root     root        41024 Feb 29  2020 /usr/bin/xfd
+  4458853     24 -rwxr-xr-x   1 root     root        22840 Jul 12  2021 /usr/bin/gresource
+  4457455     24 -rwxr-xr-x   1 root     root        23080 Feb 24  2020 /usr/bin/sg_safte
+  4471238     28 -rwxr-xr-x   1 root     root        27648 Feb 28  2020 /usr/bin/xload
+  4462621    468 -rwxr-xr-x   1 root     root       477488 Dec  2  2021 /usr/bin/ssh-keygen
+  4457365     40 -rwxr-xr-x   1 root     root        39064 Feb 24  2020 /usr/bin/rescan-scsi-bus.sh
+  4473191     60 -rwxr-xr-x   1 root     root        59824 Apr 21 12:54 /usr/bin/systemd-run
+  4457447     16 -rwxr-xr-x   1 root     root        14856 Feb 24  2020 /usr/bin/sg_reassign
+  4468457      4 -rwxr-xr-x   1 root     root           57 Jul 22  2021 /usr/bin/run-with-aspell
+  4457445     16 -rwxr-xr-x   1 root     root        14888 Feb 24  2020 /usr/bin/sg_read_long
+  4473108    328 -rwxr-xr-x   1 root     root       334808 Apr  7 01:24 /usr/bin/localedef
+  4467772     60 -rwxr-xr-x   1 root     root        59952 Mar 10 19:41 /usr/bin/sbsiglist
+  4457360     52 -rwxr-xr-x   1 root     root        51544 Sep  5  2019 /usr/bin/readlink
+  4456969     12 -rwxr-xr-x   1 root     root        11996 Feb 17  2020 /usr/bin/byobu-ulevel
+  4457308     12 -rwxr-xr-x   1 root     root        10864 Oct 19  2020 /usr/bin/perlivp
+  4467752     44 -rwxr-xr-x   1 root     root        43448 Feb  7 13:33 /usr/bin/unshare
+  4468396     20 -rwxr-xr-x   1 root     root        18832 Mar 14  2021 /usr/bin/exo-csource
+  4457588     20 -rwxr-xr-x   1 root     root        19367 Dec 14  2018 /usr/bin/ucfq
+  4457567     84 -rwxr-xr-x   1 root     root        85024 Dec 11  2018 /usr/bin/lsscsi
+  4471347      4 -rwxr-xr-x   1 root     root         2659 Apr  9  2020 /usr/bin/thunar-print
+  4456913     88 -rwxr-xr-x   1 root     root        88840 Jan  6  2021 /usr/bin/gpgsplit
+  4467565    676 -rwxr-xr-x   1 root     root       692192 Apr 22  2021 /usr/bin/tmux
+  4471277     32 -rwxr-xr-x   1 root     root        30808 Mar 18  2018 /usr/bin/xrdb
+  4467731     48 -rwxr-xr-x   1 root     root        47336 Feb  7 13:33 /usr/bin/last
+  4456579      8 -rwxr-xr-x   1 root     root         6806 Jun 15 18:16 /usr/bin/c_rehash
+  4457153     48 -rwxr-xr-x   1 root     root        47480 Sep  5  2019 /usr/bin/id
+  4469972     28 -rwxr-xr-x   1 root     root        26784 Feb 24  2020 /usr/bin/gnome-thumbnail-font
+  4457483     16 -rwxr-xr-x   1 root     root        15000 Feb 24  2020 /usr/bin/sg_zone
+  4457320     24 -rwxr-xr-x   1 root     root        22840 Sep 23  2020 /usr/bin/pkmon
+  4468837     36 -rwxr-xr-x   1 root     root        36184 Jun  6 18:09 /usr/bin/ntfsls
+  4471350     92 -rwxr-xr-x   1 root     root        93816 Apr 21  2017 /usr/bin/zipcloak
+  4473084      4 -rwxr-xr-x   1 root     root          572 Jan  8  2019 /usr/bin/xclip-copyfile
+  4464360     20 -rwxr-xr-x   1 root     root        18664 Jun  8 11:09 /usr/bin/hex2hcd
+  4457229     32 -rwsr-xr-x   1 root     root        31032 Feb 21 12:58 /usr/bin/pkexec
+  4468335     40 -rwxr-xr-x   1 root     root        39768 Mar  1  2020 /usr/bin/setfacl
+  4457237    160 -rwxr-xr-x   1 root     root       162552 Feb 16  2020 /usr/bin/mawk
+  4457154    312 -rwxr-xr-x   1 root     root       317176 Oct 10  2019 /usr/bin/info
+  4457663     88 -rwxr-xr-x   1 root     root        88480 Apr 21 12:54 /usr/bin/systemd-tmpfiles
+  4457148     28 -rwxr-xr-x   1 root     root        26856 Nov  7  2019 /usr/bin/hostname
+  4465827     20 -rwxr-xr-x   1 root     root        18752 Dec 14  2021 /usr/bin/cvt
+  4456954      4 -rwxr-xr-x   1 root     root         1910 Feb 17  2020 /usr/bin/byobu-launcher
+  4469139      4 -rwxr-xr-x   1 root     root           39 Aug  9  2019 /usr/bin/7z
+  4472879      8 -rwxr-xr-x   1 root     root         4905 Jul 28  2018 /usr/bin/make-first-existing-target
+  4470071     64 -rwxr-xr-x   1 root     root        63728 Dec  9  2019 /usr/bin/gst-inspect-1.0
+  4467697     52 -rwxr-xr-x   1 root     root        52664 Oct 20  2021 /usr/bin/x86_64-linux-gnu-nm
+  4457490     68 -rwxr-xr-x   1 root     root        67960 Sep  5  2019 /usr/bin/sha384sum
+  4457598      4 -rwxr-xr-x   1 root     root         2762 May  9  2019 /usr/bin/unicode_start
+  4457561     92 -rwxr-xr-x   1 root     root        92584 Feb 26  2020 /usr/bin/tic
+  4457553     72 -rwxr-xr-x   1 root     root        72088 Sep  5  2019 /usr/bin/tail
+  4457795      4 -rwxr-xr-x   1 root     root          382 Mar 21 10:13 /usr/bin/twist3
+  4458194     24 -rwxr-xr-x   1 root     root        22768 Sep  9  2021 /usr/bin/slabtop
+  4457245     88 -rwxr-xr-x   1 root     root        88408 Sep  5  2019 /usr/bin/mkdir
+  4457615      8 -rwxr-xr-x   1 root     root         6912 Feb 25  2020 /usr/bin/vcs-run
+  4457073      4 -rwxr-xr-x   1 root     root           28 Jan 29  2020 /usr/bin/egrep
+  4465752      4 -rwxr-xr-x   1 root     root          785 Feb 28  2020 /usr/bin/ssh-import-id-lp
+  4457009     16 -rwxr-xr-x   1 root     root        14488 Mar 30  2020 /usr/bin/colrm
+  4456934    804 -rwxr-xr-x   1 root     root       819296 Feb 15  2020 /usr/bin/btrfs
+  4456995     16 -rwxr-xr-x   1 root     root        14408 May  9  2019 /usr/bin/chvt
+  4457606     60 -rwxr-xr-x   1 root     root        59768 Mar 24  2020 /usr/bin/update-mime-database
+  4470974     48 -rwxr-sr-x   1 root     mlocate     47344 Jul 16  2019 /usr/bin/mlocate
+  4457441     28 -rwxr-xr-x   1 root     root        26784 Feb 24  2020 /usr/bin/sg_read
+  4472849    532 -rwxr-xr-x   1 root     root       540808 Mar  9 17:57 /usr/bin/x86_64-linux-gnu-gcov-dump-9
+  4472912      4 -rwxr-xr-x   1 root     root         3241 Mar 15 12:22 /usr/bin/x86_64-linux-gnu-python3.8-config
+  4473104     40 -rwxr-xr-x   1 root     root        39576 Apr  7 01:24 /usr/bin/getent
+  4465813     40 -rwxr-xr-x   1 root     root        39440 Mar 18  2018 /usr/bin/mkfontscale
+  4457188     24 -rwxr-xr-x   1 root     root        24288 Jul  1  2020 /usr/bin/lesskey
+  4471057     40 -rwxr-xr-x   1 root     root        37128 Jan 30  2020 /usr/bin/foo2hbpl2
+  4471313     84 -rwxr-xr-x   1 root     root        84440 Apr 12  2020 /usr/bin/xfce4-color-settings
+  4457156    156 -rwxr-xr-x   1 root     root       158112 Sep  5  2019 /usr/bin/install
+  4457589     12 -rwxr-xr-x   1 root     root        10722 Dec 14  2018 /usr/bin/ucfr
+  4471335     80 -rwxr-xr-x   1 root     root        80264 Apr 15  2020 /usr/bin/xfwm4-tweaks-settings
+  4467677     32 -rwxr-xr-x   1 root     root        30992 Oct 20  2021 /usr/bin/x86_64-linux-gnu-c++filt
+  4468310     20 -rwxr-xr-x   1 root     root        16459 Mar 16 16:36 /usr/bin/ubuntu-drivers
+  4462204      8 -rwxr-xr-x   1 root     root         5898 Apr  8 11:05 /usr/bin/zdiff
+  4468829    160 -rwxr-xr-x   1 root     root       162704 Jun  6 18:09 /usr/bin/ntfs-3g
+  4470950    300 -rwxr-xr-x   1 root     root       305520 Feb 14  2020 /usr/bin/mate-calc
+  4471163     32 -rwxr-xr-x   1 root     root        31656 Jan 19  2020 /usr/bin/spd-say
+  4457184      8 -rwxr-xr-x   1 root     root         7786 Dec 14  2018 /usr/bin/lcf
+  4457424     16 -rwxr-xr-x   1 root     root        14488 Feb 24  2020 /usr/bin/sg_emc_trespass
+  4457303      4 -rwxr-xr-x   1 root     root         2569 Aug  3  2019 /usr/bin/pbput
+  4457246     68 -rwxr-xr-x   1 root     root        67928 Sep  5  2019 /usr/bin/mkfifo
+  4458851     52 -rwxr-xr-x   1 root     root        51592 Jul 12  2021 /usr/bin/gdbus
+  4464366    212 -rwxr-xr-x   1 root     root       214104 Jun  8 11:09 /usr/bin/sdptool
+  4468798      4 -rwxr-xr-x   1 root     root          352 Jan 11 14:22 /usr/bin/gsdj
+  4457247     72 -rwxr-xr-x   1 root     root        72024 Sep  5  2019 /usr/bin/mknod
+  4457641     56 -rwxr-xr-x   1 root     root        56536 Feb 25  2020 /usr/bin/whatis
+  4461951    116 -rwxr-xr-x   1 root     root       114808 Oct 12  2021 /usr/bin/unsquashfs
+  4456914    152 -rwxr-xr-x   1 root     root       155264 Jan  6  2021 /usr/bin/gpgtar
+  4457559     16 -rwxr-xr-x   1 root     root        14360 Dec  7  2019 /usr/bin/tempfile
+  4457331      4 -rwxr-xr-x   1 root     root         2527 Oct 19  2020 /usr/bin/podselect
+  4468378     20 -rwxr-xr-x   1 root     root        18816 Feb 22  2021 /usr/bin/resize
+  4457167      8 -rwxr-xr-x   1 root     root         4667 Oct 19  2020 /usr/bin/json_pp
+  4468808      4 -rwxr-xr-x   1 root     root          395 Jan 11 14:22 /usr/bin/printafm
+  4471060     48 -rwxr-xr-x   1 root     root        45304 Jan 30  2020 /usr/bin/foo2lava
+  4473188     24 -rwxr-xr-x   1 root     root        22752 Apr 21 12:54 /usr/bin/systemd-id128
+  4468172     52 -rwxr-xr-x   1 root     root        51624 Nov 20  2021 /usr/bin/pacat
+  4470555     16 -rwxr-xr-x   1 root     root        16200 Nov 29  2019 /usr/bin/lwp-request
+  4471576     40 -rwxr-xr-x   1 root     root        39520 May 27 14:51 /usr/bin/lpstat
+  4458190     16 -rwxr-xr-x   1 root     root        14568 Sep  9  2021 /usr/bin/pwdx
+  4471240     52 -rwxr-xr-x   1 root     root        49584 Feb 28  2020 /usr/bin/xmag
+  4465844     80 -rwxr-xr-x   1 root     root        80200 Mar  1  2021 /usr/bin/wpa_passphrase
+  4468413     56 -rwxr-xr-x   2 root     root        55552 Feb  7  2020 /usr/bin/pkg-config
+  4457551     20 -rwxr-xr-x   1 root     root        18744 Feb 26  2020 /usr/bin/tabs
+  4468797      4 -rwxr-xr-x   1 root     root          350 Jan 11 14:22 /usr/bin/gsbj
+  4462509     12 -rwxr-xr-x   1 root     root         9167 May 25 11:14 /usr/bin/dpkg-scansources
+  4457069      4 -rwxr-xr-x   1 root     root         2806 Oct 29  2018 /usr/bin/eatmydata
+  4457323     60 -rwxr-xr-x   1 root     root        59736 Apr 21 12:54 /usr/bin/loginctl
+  4457653   2840 -rwxr-xr-x   1 root     root      2906824 Feb  1 09:16 /usr/bin/vim.basic
+  4469692    184 -rwxr-xr-x   1 root     root       187672 Feb 18  2020 /usr/bin/isodump
+  4457435     36 -rwxr-xr-x   1 root     root        35688 Feb 24  2020 /usr/bin/sg_opcodes
+  4471333    412 -rwxr-xr-x   1 root     root       420424 Apr 15  2020 /usr/bin/xfwm4
+  4457556    140 -rwxr-xr-x   1 root     root       141832 Mar 21  2020 /usr/bin/tbl
+  4458185     32 -rwxr-xr-x   1 root     root        30968 Sep  9  2021 /usr/bin/pgrep
+  4457617      4 -rwxr-xr-x   1 root     root         2640 Feb 17  2020 /usr/bin/vigpg
+  4457006     20 -rwxr-xr-x   1 root     root        18584 Mar 30  2020 /usr/bin/col
+  4456948      4 -rwxr-xr-x   1 root     root         1182 Feb 17  2020 /usr/bin/byobu-enable
+  4462361      4 -rwxr-xr-x   1 root     root         1802 Apr  8 12:56 /usr/bin/xzless
+  4470812      4 -rwxr-xr-x   1 root     root           59 Mar 14 15:28 /usr/bin/localc
+  4469130     28 -rwxr-xr-x   1 root     root        26856 Apr 21  2020 /usr/bin/update-desktop-database
+  4471188     44 -rwxr-xr-x   1 root     root        43304 Aug 15  2019 /usr/bin/thunar-volman-settings
+  4468791     20 -rwxr-xr-x   1 root     root        18736 May 27 14:51 /usr/bin/lpr
+  4471227     28 -rwxr-xr-x   1 root     root        24768 Feb 28  2020 /usr/bin/xbiff
+  4467483     24 -rwxr-xr-x   1 root     root        23224 Sep 24  2019 /usr/bin/getfattr
+  4471228     48 -rwxr-xr-x   1 root     root        48624 Feb 28  2020 /usr/bin/xcalc
+  4470330     12 -rwxr-xr-x   1 root     root        10232 Dec  1  2017 /usr/bin/kerneloops-submit
+  4471231     28 -rwxr-xr-x   1 root     root        27936 Feb 28  2020 /usr/bin/xconsole
+  4472903      4 -rwxr-xr-x   1 root     root         3851 Sep  6  2019 /usr/bin/fakeroot-sysv
+  4457016      8 -rwxr-xr-x   1 root     root         8176 Oct 19  2020 /usr/bin/cpan5.30-x86_64-linux-gnu
+  4468817      4 -rwxr-xr-x   1 root     root          669 Jan 11 14:22 /usr/bin/ps2ps2
+  4457433     28 -rwxr-xr-x   1 root     root        27192 Feb 24  2020 /usr/bin/sg_map26
+  4471168      4 -rwxr-xr-x   1 root     root           95 Nov  3  2020 /usr/bin/system-config-printer
+  4471305     20 -rwxr-xr-x   1 root     root        19392 Mar 29  2020 /usr/bin/xfce4-screensaver-command
+  4471190    840 -rwxr-xr-x   1 root     root       858016 Mar 25  2020 /usr/bin/transmission-gtk
+  4464365    112 -rwxr-xr-x   1 root     root       111288 Jun  8 11:09 /usr/bin/rfcomm
+  4457192     40 -rwxr-xr-x   1 root     root        39256 Sep  5  2019 /usr/bin/link
+  4467749     16 -rwxr-xr-x   1 root     root        14568 Feb  7 13:33 /usr/bin/setsid
+  4468802      4 -rwxr-xr-x   1 root     root          277 Jan 11 14:22 /usr/bin/gsnd
+  4457526     48 -rwxr-xr-x   1 root     root        47456 Sep  5  2019 /usr/bin/sum
+  4471230     68 -rwxr-xr-x   1 root     root        66704 Feb 28  2020 /usr/bin/xclock
+  4471293      4 -rwxr-xr-x   1 root     root         1493 Jan 18  2020 /usr/bin/xfce4-popup-windowmenu
+  4468799      4 -rwxr-xr-x   1 root     root          352 Jan 11 14:22 /usr/bin/gsdj500
+  4471112     56 -rwxr-xr-x   1 root     root        56280 Sep 17  2020 /usr/bin/scanimage
+  4456970      4 -rwxr-xr-x   1 root     root         2227 Sep  5  2019 /usr/bin/bzdiff
+  4462422     12 -rwxr-xr-x   1 root     root         8698 May 25 11:14 /usr/bin/dpkg-scanpackages
+  4465763    156 -rwxr-xr-x   1 root     root       158288 Feb  1  2019 /usr/bin/netstat
+  4471051      8 -rwxr-xr-x   1 root     root         5640 Jan 30  2020 /usr/bin/printer-profile
+  4457197     32 -rwxr-xr-x   1 root     root        31240 Feb 13  2020 /usr/bin/lnstat
+  4457301    192 -rwxr-xr-x   1 root     root       195096 Jul 26  2019 /usr/bin/patch
+  4457399      4 -rwxr-xr-x   1 root     root          936 Feb 24  2020 /usr/bin/scsi_temperature
+  4468222     16 -rwxr-xr-x   1 root     root        14568 Apr  6  2020 /usr/bin/fc-match
+  4471194     80 -rwxr-xr-x   1 root     root        80872 Dec  3  2021 /usr/bin/update-notifier
+  4468345     24 -rwxr-xr-x   1 root     root        22912 Apr 14  2021 /usr/bin/aconnect
+  4469428     28 -rwxr-xr-x   1 root     root        27304 Mar 22  2020 /usr/bin/espeak
+  4467744     24 -rwxr-xr-x   1 root     root        22760 Feb  7 13:33 /usr/bin/rename.ul
+  4456998     40 -rwxr-xr-x   1 root     root        39256 Sep  5  2019 /usr/bin/cksum
+  4470970      4 -rwxr-xr-x   1 root     root         1537 Aug 31  2019 /usr/bin/menulibre
+  4462153    744 -rwxr-xr-x   1 root     root       759056 Jan 11 15:09 /usr/bin/grub-syslinux2cfg
+  4464363    168 -rwxr-xr-x   1 root     root       170296 Jun  8 11:09 /usr/bin/obexctl
+  4469133     12 -rwxr-xr-x   1 root     root         9444 Feb 27  2019 /usr/bin/dh_installxmlcatalogs
+  4470554      4 -rwxr-xr-x   1 root     root         2413 Nov 29  2019 /usr/bin/lwp-mirror
+  4468781     60 -rwxr-xr-x   1 root     root        59744 Mar 27  2020 /usr/bin/pdfinfo
+  4467693   1700 -rwxr-xr-x   1 root     root      1740384 Oct 20  2021 /usr/bin/x86_64-linux-gnu-ld.bfd
+  4456927     16 -rwxr-xr-x   1 root     root        14568 Feb  7 13:33 /usr/bin/renice
+  4456691    276 -rwxr-xr-x   1 root     root       281056 Jun 15  2021 /usr/bin/apt-ftparchive
+  4458838     12 -rwxr-xr-x   1 root     root        10902 May 25 11:14 /usr/bin/dpkg-gensymbols
+  4457034     16 -rwxr-xr-x   1 root     root        14408 May  9  2019 /usr/bin/deallocvt
+  4457355   5364 -rwxr-xr-x   1 root     root      5490448 Mar 15 12:22 /usr/bin/python3.8
+  4471289    140 -rwxr-xr-x   1 root     root       142128 Oct  8  2019 /usr/bin/xfce4-dict
+  4457609     32 -rwxr-xr-x   1 root     root        31112 Oct  1  2019 /usr/bin/usbhid-dump
+  4462587    176 -rwxr-xr-x   1 root     root       178728 May 25 11:14 /usr/bin/dpkg-deb
+  4462267     36 -rwxr-xr-x   1 root     root        34960 Apr 29 12:03 /usr/bin/dbus-launch
+  4462215      4 -rwxr-xr-x   1 root     root           29 Apr  8 11:05 /usr/bin/zegrep
+  4457353     12 -rwxr-xr-x   1 root     root        12120 Mar 13  2020 /usr/bin/py3compile
+  4468790     24 -rwxr-xr-x   1 root     root        22912 May 27 14:51 /usr/bin/lpq
+  4471588     56 -rwxr-xr-x   1 root     root        56104 Jun  6 18:09 /usr/bin/ntfswipe
+  4468377      4 -rwxr-xr-x   1 root     root          419 Feb 22  2021 /usr/bin/lxterm
+  4472848    660 -rwxr-xr-x   1 root     root       671984 Mar  9 17:57 /usr/bin/x86_64-linux-gnu-gcov-9
+  4457516   3024 -rwxr-xr-x   1 root     root      3093072 Apr 25 23:21 /usr/bin/git
+  4457136     40 -rwxr-xr-x   1 root     root        39256 Sep  5  2019 /usr/bin/groups
+  4462506    772 -rwxr-xr-x   1 root     root       789448 Dec  2  2021 /usr/bin/ssh
+  4457491     68 -rwxr-xr-x   1 root     root        67960 Sep  5  2019 /usr/bin/sha512sum
+  4457595    100 -rwxr-xr-x   1 root     root        99313 Jul 21  2020 /usr/bin/unattended-upgrade
+  4471360    184 -rwxr-xr-x   1 root     root       186976 Mar  3  2020 /usr/bin/brltty-trtxt
+  4470454     36 -rwxr-xr-x   1 root     root        35568 Feb 15 17:50 /usr/bin/gtk-builder-tool
+  4457255     40 -rwxr-xr-x   1 root     root        39296 Aug 20  2019 /usr/bin/mtr-packet
+  4471349    212 -rwxr-xr-x   1 root     root       216256 Apr 21  2017 /usr/bin/zip
+  4456692     48 -rwxr-xr-x   1 root     root        47504 Jun 15  2021 /usr/bin/apt-sortpkgs
+  4468827    112 -rwxr-xr-x   1 root     root       113184 May 27 14:51 /usr/bin/ppdpo
+  4457578     44 -rwxr-xr-x   1 root     root        43352 Sep  5  2019 /usr/bin/truncate
+  4471362     28 -rwxr-xr-x   1 root     root        26784 Mar  3  2020 /usr/bin/eutp
+  4471246      4 -rwxr-xr-x   1 root     root         1469 Feb 29  2020 /usr/bin/rstartd
+  4457130    196 -rwxr-xr-x   1 root     root       199136 Jan 29  2020 /usr/bin/grep
+  4457135    132 -rwxr-xr-x   1 root     root       132672 Mar 21  2020 /usr/bin/grotty
+  4457368     64 -rwxr-xr-x   1 root     root        63960 Jun 15  2021 /usr/bin/apt-mark
+  4457577     40 -rwxr-xr-x   1 root     root        39256 Sep  5  2019 /usr/bin/true
+  4468832     40 -rwxr-xr-x   1 root     root        39176 Jun  6 18:09 /usr/bin/ntfscluster
+  4470659     12 -rwxr-xr-x   1 root     root         8382 Feb 10  2020 /usr/bin/purple-remote
+  4465743      8 -rwxr-xr-x   1 root     root         4551 Jan 31  2017 /usr/bin/os-prober
+  4470832      4 -rwxr-xr-x   1 root     root           59 Mar 14 15:28 /usr/bin/lodraw
+  4457366     24 -rwxr-xr-x   1 root     root        22664 May  9  2019 /usr/bin/resizecons
+  4471315     20 -rwxr-xr-x   1 root     root        18760 Apr 12  2020 /usr/bin/xfce4-find-cursor
+  4468347     84 -rwxr-xr-x   1 root     root        85296 Apr 14  2021 /usr/bin/alsaloop
+  4472845     36 -rwxr-xr-x   1 root     root        35464 Mar  9 17:57 /usr/bin/x86_64-linux-gnu-gcc-ar-9
+  4468627      4 -rwxr-xr-x   1 root     root         1535 Sep 14  2021 /usr/bin/blueman-adapters
+  4457330      4 -rwxr-xr-x   1 root     root         3658 Oct 19  2020 /usr/bin/podchecker
+  4457205      4 -rwxr-xr-x   1 root     root         2782 May 25 11:14 /usr/bin/dpkg-distaddfile
+  4467735     68 -rwxr-xr-x   1 root     root        67816 Feb  7 13:33 /usr/bin/lslogins
+  4473111     28 -rwxr-xr-x   1 root     root        26840 Apr  7 01:24 /usr/bin/zdump
+  4457562     16 -rwxr-xr-x   1 root     root        14720 Apr 21  2017 /usr/bin/time
+  4457199     36 -rwxr-xr-x   1 root     root        34952 May  9  2019 /usr/bin/loadunimap
+  4457396      4 -rwxr-xr-x   1 root     root         3857 Feb 24  2020 /usr/bin/scsi_satl
+  4457436     36 -rwxr-xr-x   1 root     root        36792 Feb 24  2020 /usr/bin/sg_persist
+  4468812      4 -rwxr-xr-x   1 root     root          215 Jan 11 14:22 /usr/bin/ps2pdf12
+  4457472     16 -rwxr-xr-x   1 root     root        14856 Feb 24  2020 /usr/bin/sg_turs
+  4462118    240 -rwxr-xr-x   1 root     root       245328 Jan 11 15:09 /usr/bin/grub-mkrelpath
+  4471278     12 -rwxr-xr-x   1 root     root        10312 Mar 18  2018 /usr/bin/xrefresh
+  4463658    300 -rwxr-xr-x   1 root     root       307144 Jun  8 11:09 /usr/bin/btmgmt
+  4457442     40 -rwxr-xr-x   1 root     root        37352 Feb 24  2020 /usr/bin/sg_read_attr
+  4470472      4 -rwxr-xr-x   1 root     root         1396 Feb  3  2020 /usr/bin/dh_perl_openssl
+  4468458     16 -rwxr-xr-x   1 root     root        14640 Jul 22  2021 /usr/bin/word-list-compress
+  4468786     36 -rwxr-xr-x   1 root     root        35080 Mar 27  2020 /usr/bin/pdftoppm
+  4471261     16 -rwxr-xr-x   1 root     root        14648 Feb 29  2020 /usr/bin/xlsatoms
+  4468173     20 -rwxr-xr-x   1 root     root        18824 Nov 20  2021 /usr/bin/pacmd
+  4457470     16 -rwxr-xr-x   1 root     root        14792 Feb 24  2020 /usr/bin/sg_test_rwbuf
+  4471059     40 -rwxr-xr-x   1 root     root        40424 Jan 30  2020 /usr/bin/foo2hp
+  4468454      8 -rwxr-xr-x   1 root     root         5656 Jul 22  2021 /usr/bin/preunzip
+  4468814      4 -rwxr-xr-x   1 root     root          215 Jan 11 14:22 /usr/bin/ps2pdf14
+  4457010     16 -rwxr-xr-x   1 root     root        14504 Mar 30  2020 /usr/bin/column
+  4457122    204 -rwxr-xr-x   1 root     root       208072 Jan  6  2021 /usr/bin/gpg-wks-server
+  4469140      4 -rwxr-xr-x   1 root     root           40 Aug  9  2019 /usr/bin/7za
+  4469895   3664 -rwxr-xr-x   1 root     root      3751648 Mar 29  2020 /usr/bin/gimp-console-2.10
+  4456959      4 -rwxr-xr-x   1 root     root         1410 Feb 17  2020 /usr/bin/byobu-quiet
+  4457401    120 -rwxr-xr-x   1 root     root       121288 Dec 22  2018 /usr/bin/sed
+  4462570    304 -rwxr-xr-x   1 root     root       309944 May 25 11:14 /usr/bin/dpkg
+  4457149     20 -rwxr-xr-x   1 root     root        18824 Jun 15  2021 /usr/bin/apt
+  4468376      4 -rwxr-xr-x   1 root     root         3759 Feb 22  2021 /usr/bin/koi8rxterm
+  4457792      4 -rwxr-xr-x   1 root     root          392 Mar 21 10:13 /usr/bin/pyhtmlizer3
+  4469141    484 -rwxr-xr-x   1 root     root       492616 Feb 28  2020 /usr/bin/engrampa
+  4457434     48 -rwxr-xr-x   1 root     root        46712 Feb 24  2020 /usr/bin/sg_modes
+  4471334    112 -rwxr-xr-x   1 root     root       113032 Apr 15  2020 /usr/bin/xfwm4-settings
+  4471072     24 -rwxr-xr-x   1 root     root        23144 Jan 30  2020 /usr/bin/qpdldecode
+  4473109     24 -rwxr-xr-x   1 root     root        22904 Apr  7 01:24 /usr/bin/pldd
+  4457165     56 -rwxr-xr-x   1 root     root        55672 Sep  5  2019 /usr/bin/join
+  4457299     44 -rwxr-xr-x   1 root     root        43384 Sep  5  2019 /usr/bin/paste
+  4471223     60 -rwxr-xr-x   1 root     root        61392 Feb 28  2020 /usr/bin/rendercheck
+  4458881     24 -rwxr-xr-x   1 root     root        23264 Oct 12  2021 /usr/bin/vmware-vmblock-fuse
+  4456949      4 -rwxr-xr-x   1 root     root         1453 Feb 17  2020 /usr/bin/byobu-enable-prompt
+  4468427      8 -rwxr-xr-x   1 root     root         4176 Oct 26  2021 /usr/bin/software-properties-gtk
+  4457519     52 -rwxr-xr-x   1 root     root        51544 Sep  5  2019 /usr/bin/stdbuf
+  4471382     16 -rwxr-xr-x   1 root     root        14027 Mar 31 20:52 /usr/bin/sensors-conf-convert
+  4471338      8 -rwxr-xr-x   1 root     root         5519 Aug 24  2019 /usr/bin/startx
+  4468488      4 -rwxr-xr-x   1 root     root         1544 Jan 25  2020 /usr/bin/apturl-gtk
+  4471257     36 -rwxr-xr-x   1 root     root        35488 Feb 29  2020 /usr/bin/xev
+  4457494     20 -rwxr-xr-x   1 root     root        18504 May  9  2019 /usr/bin/showkey
+  4471311     60 -rwxr-xr-x   1 root     root        59864 Apr 12  2020 /usr/bin/xfce4-accessibility-settings
+  4471235    676 -rwxr-xr-x   1 root     root       689512 Feb 28  2020 /usr/bin/xedit
+  4470991     16 -rwxr-xr-x   1 root     root        14328 Jun 22  2019 /usr/bin/numlockx
+  4470673      4 -rwxr-xr-x   1 root     root           52 Mar 14 15:28 /usr/bin/unopkg
+  4457361     52 -rwxr-xr-x   1 root     root        51576 Sep  5  2019 /usr/bin/realpath
+  4471318     92 -rwxr-xr-x   1 root     root        92760 Apr 12  2020 /usr/bin/xfce4-mouse-settings
+  4456999     16 -rwxr-xr-x   1 root     root        14656 Feb 26  2020 /usr/bin/clear
+  4456973     40 -rwxr-xr-x   3 root     root        39144 Sep  5  2019 /usr/bin/bunzip2
+  4457352      8 -rwxr-xr-x   1 root     root         7813 Mar 13  2020 /usr/bin/py3clean
+  4457349      4 -rwxr-xr-x   1 root     root         1149 Feb 17  2020 /usr/bin/purge-old-kernels
+  4457023    268 -rwxr-xr-x   1 root     root       273096 Jan 19  2021 /usr/bin/cvtsudoers
+  4457018     44 -rwxr-sr-x   1 root     crontab     43720 Feb 13  2020 /usr/bin/crontab
+  4456916    176 -rwxr-xr-x   1 root     root       179168 Jan  6  2021 /usr/bin/kbxutil
+  4457242      4 -rwxr-xr-x   1 root     root         2558 Dec  4  2019 /usr/bin/apport-bug
+  4456911    876 -rwxr-xr-x   1 root     root       895272 Jan  6  2021 /usr/bin/gpgcompose
+  4469695     32 -rwxr-xr-x   1 root     root        31016 Feb 18  2020 /usr/bin/mkzftree
+  4467555      4 -rwxr-xr-x   1 root     root          392 Mar 29  2021 /usr/bin/pygmentize
+  4457074     36 -rwxr-xr-x   1 root     root        35680 Jul  8  2019 /usr/bin/eject
+  4467748     48 -rwxr-xr-x   1 root     root        47344 Feb  7 13:33 /usr/bin/setpriv
+  4471363     28 -rwxr-xr-x   1 root     root        26792 Mar  3  2020 /usr/bin/vstp
+  4469693    344 -rwxr-xr-x   1 root     root       350744 Feb 18  2020 /usr/bin/isoinfo
+  4467775     64 -rwxr-xr-x   1 root     root        63984 Mar 10 19:41 /usr/bin/sbverify
+  4462650     24 -rwxr-xr-x   1 root     root        20514 May 25 11:14 /usr/bin/dpkg-maintscript-helper
+  4457070      8 -rwxr-xr-x   1 root     root         7295 Feb 25  2020 /usr/bin/ec2metadata
+  4473190     20 -rwxr-xr-x   1 root     root        18656 Apr 21 12:54 /usr/bin/systemd-path
+  4471049      4 -rwxr-xr-x   1 root     root         2997 Jan 30  2020 /usr/bin/foo2zjs-pstops
+  4473185     40 -rwxr-xr-x   1 root     root        39160 Apr 21 12:54 /usr/bin/systemd-cgtop
+  4470590     20 -rwxr-xr-x   1 root     root        18672 Mar 20  2020 /usr/bin/notify-send
+  4457191     16 -rwxr-xr-x   1 root     root        15775 Oct 19  2020 /usr/bin/libnetcfg
+  4472662     36 -rwxr-xr-x   1 root     root        35192 Apr  7 01:24 /usr/bin/sprof
+  4462648    152 -rwxr-xr-x   1 root     root       154208 May 25 11:14 /usr/bin/dpkg-divert
+  4456714     16 -rwxr-xr-x   1 root     root        12852 May 25 11:14 /usr/bin/dpkg-architecture
+  4467747     28 -rwxr-xr-x   1 root     root        27136 Feb  7 13:33 /usr/bin/setarch
+  4467701    396 -rwxr-xr-x   1 root     root       402256 Oct 20  2021 /usr/bin/x86_64-linux-gnu-objdump
+  4469697    180 -rwxr-xr-x   1 root     root       182816 Mar 15  2020 /usr/bin/gigolo
+  4457347      8 -rwxr-xr-x   1 root     root         4392 Oct 19  2020 /usr/bin/ptargrep
+  4462104     32 -rwxr-xr-x   1 root     root        30952 Feb  7 13:33 /usr/bin/scriptreplay
+  4470977      4 -rwxr-xr-x   1 root     root         1299 Aug  4  2019 /usr/bin/mugshot
+  4457173     16 -rwxr-xr-x   1 root     root        14408 May  9  2019 /usr/bin/kbdinfo
+  4471208     24 -rwxr-xr-x   1 root     root        22680 Dec 10  2019 /usr/bin/upower
+  4468171      4 -rwxr-xr-x   1 root     root         2039 Nov 20  2021 /usr/bin/pa-info
+  4457318     76 -rwxr-xr-x   1 root     root        76088 Sep 23  2020 /usr/bin/pkcon
+  4456615     52 -rwsr-xr-x   1 root     root        53040 Jul 14  2021 /usr/bin/chsh
+  4471583     96 -rwxr-xr-x   1 root     root        97024 Jun  6 18:09 /usr/bin/ntfssecaudit
+  4471172    884 -rwxr-xr-x   1 root     root       901328 Apr 16  2020 /usr/bin/thunar
+  4457189     12 -rwxr-xr-x   1 root     root         8564 Sep  3  2019 /usr/bin/lesspipe
+  4456980     40 -rwxr-xr-x   1 root     root        39616 Feb 25  2020 /usr/bin/catman
+  4467699    184 -rwxr-xr-x   1 root     root       186856 Oct 20  2021 /usr/bin/x86_64-linux-gnu-objcopy
+  4457389     16 -rwxr-xr-x   1 root     root        14328 May  9  2019 /usr/bin/screendump
+  4462571    344 -rwxr-sr-x   1 root     ssh        350504 Dec  2  2021 /usr/bin/ssh-agent
+  4465811     36 -rwxr-xr-x   1 root     root        34832 Mar 18  2018 /usr/bin/fonttosfnt
+  4471351     88 -rwxr-xr-x   1 root     root        89488 Apr 21  2017 /usr/bin/zipnote
+  4457381     44 -rwxr-xr-x   1 root     root        43304 Apr 27 16:12 /usr/bin/snapfuse
+  4462510     36 -rwxr-xr-x   1 root     root        35048 Feb  7 13:33 /usr/bin/wdctl
+  4471301    172 -rwxr-xr-x   1 root     root       174520 Mar 15  2020 /usr/bin/xfce4-power-manager-settings
+  4456940    428 -rwxr-xr-x   1 root     root       437792 Feb 15  2020 /usr/bin/btrfstune
+  4472850    548 -rwxr-xr-x   1 root     root       557256 Mar  9 17:57 /usr/bin/x86_64-linux-gnu-gcov-tool-9
+  4456515      4 -rwxr-xr-x   1 root     root         3330 Apr  7 01:24 /usr/bin/catchsegv
+  4456880      4 -rwxr-xr-x   1 root     root         3516 Jan  6  2021 /usr/bin/gpg-zip
+  4471065     48 -rwxr-xr-x   1 root     root        45288 Jan 30  2020 /usr/bin/foo2zjs
+  4468562     20 -rwxr-xr-x   1 root     root        18824 Feb 14  2020 /usr/bin/atril-thumbnailer
+  4470538     28 -rwxr-xr-x   1 root     root        26840 Sep  9  2019 /usr/bin/linkicc
+  4457083     80 -rwxr-xr-x   1 root     root        80248 Sep  5  2019 /usr/bin/factor
+  4457340     24 -rwxr-xr-x   1 root     root        22760 Nov 12  2019 /usr/bin/prtstat
+  4470988    336 -rwxr-xr-x   1 root     root       344016 Jul 29  2020 /usr/bin/nm-applet
+  4471296    148 -rwxr-xr-x   1 root     root       149736 Aug 22  2019 /usr/bin/xfce4-notes
+  4467703     68 -rwxr-xr-x   1 root     root        68056 Oct 20  2021 /usr/bin/x86_64-linux-gnu-ranlib
+  4462362      4 -rwxr-xr-x   1 root     root         2161 Apr  8 12:56 /usr/bin/xzmore
+  4471066     20 -rwxr-xr-x   1 root     root        18752 Jan 30  2020 /usr/bin/gipddecode
+  4457071     40 -rwxr-xr-x   1 root     root        39256 Sep  5  2019 /usr/bin/echo
+  4457086     40 -rwxr-xr-x   1 root     root        39256 Sep  5  2019 /usr/bin/false
+  4462303     16 -rwxr-xr-x   1 root     root        14568 Feb  7 13:33 /usr/bin/mountpoint
+  4471169      4 -rwxr-xr-x   1 root     root           80 Nov  3  2020 /usr/bin/system-config-printer-applet
+  4472859      4 -rwxr-xr-x   1 root     root          454 Apr 11  2011 /usr/bin/c99-gcc
+  4456696    572 -rwxr-xr-x   1 root     root       583536 Jan  6  2021 /usr/bin/dirmngr
+  4471046     20 -rwxr-xr-x   1 root     root        19514 Jan 30  2020 /usr/bin/foo2qpdl-wrapper
+  4471270     12 -rwxr-xr-x   1 root     root        10232 Mar 18  2018 /usr/bin/showrgb
+  4457474     20 -rwxr-xr-x   1 root     root        19176 Feb 24  2020 /usr/bin/sg_verify
+  4457090      4 -rwxr-xr-x   1 root     root         2152 Sep 10  2020 /usr/bin/finalrd
+  4467738     36 -rwxr-xr-x   1 root     root        35120 Feb  7 13:33 /usr/bin/mcookie
+  4471274     20 -rwxr-xr-x   1 root     root        16982 Mar 18  2018 /usr/bin/xkeystone
+  4469098     28 -rwxr-xr-x   1 root     root        26928 Mar 20  2020 /usr/bin/cd-create-profile
+  4471113    184 -rwxr-xr-x   1 root     root       187624 Sep 17  2020 /usr/bin/umax_pp
+  4457326      8 -rwxr-xr-x   1 root     root         4134 Oct 19  2020 /usr/bin/pod2html
+  4462548      4 -rwxr-xr-x   1 root     root         3262 May 25 11:14 /usr/bin/dpkg-vendor
+  4457647      4 -rwxr-xr-x   1 root     root         2107 Feb 17  2020 /usr/bin/wifi-status
+  4464351     16 -rwxr-xr-x   1 root     root        14480 Apr 29 12:03 /usr/bin/dbus-uuidgen
+  4462069    256 -rwxr-xr-x   1 root     root       258224 Jan 11 15:09 /usr/bin/grub-mklayout
+  4471285     24 -rwxr-xr-x   1 root     root        22600 Dec 28  2018 /usr/bin/xdg-user-dirs-gtk-update
+  4457438     32 -rwxr-xr-x   1 root     root        31400 Feb 24  2020 /usr/bin/sg_raw
+  4457166     88 -rwxr-xr-x   1 root     root        88536 Jun 15  2021 /usr/bin/apt-cache
+  4462586    184 -rwxr-xr-x   2 root     root       186664 Aug 16  2019 /usr/bin/zipinfo
+  4468631      4 -rwxr-xr-x   1 root     root         1909 Sep 14  2021 /usr/bin/blueman-report
+  4456738     32 -rwxr-xr-x   1 root     root        32416 Mar 10 13:48 /usr/bin/oLschema2ldif
+  4472658     28 -rwxr-xr-x   1 root     root        27000 Apr  7 01:24 /usr/bin/gencat
+  4457076      4 -rwxr-xr-x   1 root     root         3066 Oct 19  2020 /usr/bin/encguess
+  4467746     16 -rwxr-xr-x   1 root     root        14568 Feb  7 13:33 /usr/bin/rev
+  4471268     40 -rwxr-xr-x   1 root     root        39032 Mar 18  2018 /usr/bin/iceauth
+  4457014    152 -rwxr-xr-x   1 root     root       153976 Sep  5  2019 /usr/bin/cp
+  4457204      4 -rwxr-xr-x   2 root     root         2346 Apr  8 11:05 /usr/bin/uncompress
+  4457508     60 -rwxr-xr-x   1 root     root        60184 Sep  5  2019 /usr/bin/split
+  4456935    456 -rwxr-xr-x   1 root     root       466464 Feb 15  2020 /usr/bin/btrfs-convert
+  4471259     48 -rwxr-xr-x   1 root     root        49056 Feb 29  2020 /usr/bin/xfontsel
+  4457169      4 -rwxr-xr-x   1 root     root         1004 Sep  5  2019 /usr/bin/jsonpatch-jsondiff
+  4472902     36 -rwxr-xr-x   1 root     root        35072 Sep  6  2019 /usr/bin/faked-tcp
+  4469129     84 -rwxr-xr-x   1 root     root        82344 Apr 21  2020 /usr/bin/desktop-file-validate
+  4457646     40 -rwxr-xr-x   1 root     root        39256 Sep  5  2019 /usr/bin/whoami
+  4457527    448 -rwxr-xr-x   1 root     root       457880 Jan  6  2021 /usr/bin/gpgv
+  4457046     92 -rwxr-xr-x   1 root     root        93128 Sep  5  2019 /usr/bin/df
+  4471354    136 -rwxr-xr-x   1 root     root       135960 Feb 27  2020 /usr/bin/zenity
+  4467724     24 -rwxr-xr-x   1 root     root        22760 Feb  7 13:33 /usr/bin/getopt
+  4457332      8 -rwxr-xr-x   1 root     root         7415 Oct 26  2021 /usr/bin/add-apt-repository
+  4464348     16 -rwxr-xr-x   1 root     root        14480 Apr 29 12:03 /usr/bin/dbus-run-session
+  4462681    456 -rwxr-xr-x   1 root     root       465208 Dec  2  2021 /usr/bin/ssh-keyscan
+  4471372    164 -rwxr-xr-x   1 root     root       166472 Apr  8  2020 /usr/bin/users-admin
+  4456917      4 -rwxr-xr-x   1 root     root         1081 Aug 28  2017 /usr/bin/lspgpot
+  4462139    804 -rwxr-xr-x   1 root     root       819968 Jan 11 15:09 /usr/bin/grub-render-label
+  4462686     56 -rwxr-xr-x   1 root     root        55712 May 25 11:14 /usr/bin/update-alternatives
+  4457465     32 -rwxr-xr-x   1 root     root        31976 Feb 24  2020 /usr/bin/sg_ses_microcode
+  4462007      4 -rwxr-xr-x   1 root     root         1681 Jan 11 15:09 /usr/bin/grub-kbdcomp
+  4457668     52 -rwxr-xr-x   1 root     root        50718 Oct 19  2020 /usr/bin/zipdetails
+  4457329      4 -rwxr-xr-x   1 root     root         3948 Oct 19  2020 /usr/bin/pod2usage
+  4473186     28 -rwxr-xr-x   1 root     root        26848 Apr 21 12:54 /usr/bin/systemd-delta
+  4457410     16 -rwxr-xr-x   1 root     root        14392 May  9  2019 /usr/bin/setleds
+  4471164    164 -rwxr-xr-x   1 root     root       166136 Jan 19  2020 /usr/bin/speech-dispatcher
+  4471221     52 -rwxr-xr-x   1 root     root        51648 Feb 28  2020 /usr/bin/ico
+  4456956      4 -rwxr-xr-x   1 root     root         1561 Feb 17  2020 /usr/bin/byobu-launcher-uninstall
+  4473192     28 -rwxr-xr-x   1 root     root        26848 Apr 21 12:54 /usr/bin/systemd-socket-activate
+  4467732    100 -rwxr-xr-x   1 root     root       100584 Feb  7 13:33 /usr/bin/lscpu
+  4468807      4 -rwxr-xr-x   1 root     root          404 Jan 11 14:22 /usr/bin/pphs
+  4457423     24 -rwxr-xr-x   1 root     root        23144 Feb 24  2020 /usr/bin/sg_decode_sense
+  4465835     16 -rwxr-xr-x   1 root     root        14776 Apr 14  2020 /usr/bin/vmwarectrl
+  4457462     20 -rwxr-xr-x   1 root     root        19176 Feb 24  2020 /usr/bin/sg_seek
+  4467709     36 -rwxr-xr-x   1 root     root        35488 Oct 20  2021 /usr/bin/x86_64-linux-gnu-strings
+  4456945      8 -rwxr-xr-x   1 root     root         4774 Feb 17  2020 /usr/bin/byobu-ctrl-a
+  4468804      4 -rwxr-xr-x   1 root     root          909 Jan 11 14:22 /usr/bin/pdf2ps
+  4457858     12 -rwxr-xr-x   1 root     root        10227 Apr 14 17:21 /usr/bin/do-release-upgrade
+  4472874   1132 -rwxr-xr-x   1 root     root      1158288 Mar  9 17:57 /usr/bin/x86_64-linux-gnu-g++-9
+  4471300    236 -rwxr-xr-x   1 root     root       240056 Mar 15  2020 /usr/bin/xfce4-power-manager
+  4457449     28 -rwxr-xr-x   1 root     root        27224 Feb 24  2020 /usr/bin/sg_rep_zones
+  4468307     76 -rwxr-xr-x   1 root     root        76616 Mar 16 16:36 /usr/bin/gpu-manager
+  4471386     16 -rwxr-xr-x   1 root     root        14328 Nov 24  2018 /usr/bin/glxdemo
+  4471061     40 -rwxr-xr-x   1 root     root        40360 Jan 30  2020 /usr/bin/foo2oak
+  4465806     96 -rwxr-xr-x   1 root     root        96608 Feb 28  2020 /usr/bin/xkbprint
+  4457266     44 -rwxr-xr-x   1 root     root        43240 Mar 22  2020 /usr/bin/ngettext
+  4456961      4 -rwxr-xr-x   1 root     root         1452 Feb 17  2020 /usr/bin/byobu-select-backend
+  4457510    168 -rwxr-xr-x   1 root     root       168800 Feb 13  2020 /usr/bin/ss
+  4464357    280 -rwxr-xr-x   1 root     root       285576 Jun  8 11:09 /usr/bin/gatttool
+  4468809      4 -rwxr-xr-x   1 root     root          631 Jan 11 14:22 /usr/bin/ps2ascii
+  4457272     80 -rwxr-xr-x   1 root     root        80120 Apr 21 12:54 /usr/bin/journalctl
+  4472844   1132 -rwxr-xr-x   1 root     root      1158288 Mar  9 17:57 /usr/bin/x86_64-linux-gnu-gcc-9
+  4456937    452 -rwxr-xr-x   1 root     root       462368 Feb 15  2020 /usr/bin/btrfs-image
+  4458178     32 -rwxr-xr-x   1 root     root        30952 Sep  9  2021 /usr/bin/kill
+  4457451     16 -rwxr-xr-x   1 root     root        14856 Feb 24  2020 /usr/bin/sg_reset
+  4457354     24 -rwxr-xr-x   1 root     root        21535 Mar 15 12:22 /usr/bin/pygettext3.8
+  4457611     40 -rwxr-xr-x   1 root     root        39256 Sep  5  2019 /usr/bin/users
+  4468183      4 -rwxr-xr-x   1 root     root         1689 Nov 20  2021 /usr/bin/start-pulseaudio-x11
+  4457406     52 -rwxr-xr-x   1 root     root        51544 Sep  5  2019 /usr/bin/seq
+  4457333     76 -rwxr-xr-x   1 root     root        76216 Sep  5  2019 /usr/bin/pr
+  4457649     56 -rwxr-xr-x   1 root     root        56288 Aug 25  2019 /usr/bin/xauth
+  4461950    208 -rwxr-xr-x   1 root     root       210904 Oct 12  2021 /usr/bin/mksquashfs
+  4467736     68 -rwxr-xr-x   1 root     root        67816 Feb  7 13:33 /usr/bin/lsmem
+  4456978     44 -rwxr-xr-x   1 root     root        43416 Sep  5  2019 /usr/bin/cat
+  4465826      4 -rwxr-xr-x   1 root     root          274 Dec 14  2021 /usr/bin/Xorg
+  4457350     44 -rwxr-xr-x   1 root     root        43352 Sep  5  2019 /usr/bin/pwd
+  4457440     20 -rwxr-xr-x   1 root     root        18600 Feb 24  2020 /usr/bin/sg_rdac
+  4456977     36 -rwxr-xr-x   1 root     root        35464 Mar 30  2020 /usr/bin/calendar
+  4468560    496 -rwxr-xr-x   1 root     root       506384 Feb 14  2020 /usr/bin/atril
+  4471319     80 -rwxr-xr-x   1 root     root        80424 Apr 12  2020 /usr/bin/xfce4-settings-editor
+  4458014    188 -rwxr-xr-x   1 root     root       190704 May 20  2021 /usr/bin/lz4
+  4457067    108 -rwxr-xr-x   1 root     root       108920 Sep  5  2019 /usr/bin/du
+  4468574     24 -rwxr-xr-x   1 root     root        22768 Jul  6  2021 /usr/bin/avahi-resolve
+  4457145     36 -rwxr-xr-x   1 root     root        35072 Mar 30  2020 /usr/bin/hexdump
+  4456972      4 -rwxr-xr-x   1 root     root         3775 Sep  5  2019 /usr/bin/bzgrep
+  4456715     84 -rwxr-xr-x   1 root     root        85608 Dec 11  2018 /usr/bin/tree
+  4471111    136 -rwxr-xr-x   1 root     root       138088 Sep 17  2020 /usr/bin/sane-find-scanner
+  4457405      4 -rwxr-xr-x   1 root     root          452 Nov 17  2019 /usr/bin/sensible-pager
+  4470539     28 -rwxr-xr-x   1 root     root        26784 Sep  9  2019 /usr/bin/psicc
+  4457256    148 -rwxr-xr-x   1 root     root       149888 Sep  5  2019 /usr/bin/mv
+  4457312     12 -rwxr-xr-x   1 root     root         8357 Oct 19  2020 /usr/bin/piconv
+  4457045    104 -rwxr-xr-x   1 root     root       105232 Mar 15 14:11 /usr/bin/host
+  4471058     44 -rwxr-xr-x   1 root     root        44264 Jan 30  2020 /usr/bin/foo2hiperc
+  4457450     16 -rwxr-xr-x   1 root     root        14920 Feb 24  2020 /usr/bin/sg_requests
+  4471324      4 -rwxr-xr-x   1 root     root         3046 Mar 30  2020 /usr/bin/startxfce4
+  4471050     28 -rwxr-xr-x   1 root     root        25952 Jan 30  2020 /usr/bin/foo2zjs-wrapper
+  4467754     36 -rwxr-xr-x   1 root     root        35496 Feb  7 13:33 /usr/bin/whereis
+  4457659     40 -rwxr-xr-x   1 root     root        39256 Sep  5  2019 /usr/bin/yes
+  4457157    116 -rwxr-xr-x   1 root     root       118008 Oct 10  2019 /usr/bin/install-info
+  4458836     20 -rwxr-xr-x   1 root     root        17492 May 25 11:14 /usr/bin/dpkg-genchanges
+  4457035     24 -rwxr-xr-x   1 root     root        21328 Jun 21  2019 /usr/bin/deb-systemd-helper
+  4465856      4 -rwxr-xr-x   1 root     root         1362 Feb  8  2019 /usr/bin/pon
+  4469873     28 -rwxr-xr-x   1 root     root        26930 Jan 11  2021 /usr/bin/xdg-email
+  4457452     16 -rwxr-xr-x   1 root     root        14792 Feb 24  2020 /usr/bin/sg_reset_wp
+  4457025    108 -rwxr-xr-x   1 root     root       108920 Sep  5  2019 /usr/bin/date
+  4457024    128 -rwxr-xr-x   1 root     root       129816 Jul 18  2019 /usr/bin/dash
+  4470951    148 -rwxr-xr-x   1 root     root       149232 Feb 14  2020 /usr/bin/mate-calc-cmd
+  4471345     36 -rwxr-xr-x   1 root     root        34488 Oct 11  2019 /usr/bin/inputattach
+  4471361    216 -rwxr-xr-x   1 root     root       219936 Mar  3  2020 /usr/bin/brltty-ttb
+  4468357     28 -rwxr-xr-x   1 root     root        27064 Apr 14  2021 /usr/bin/aseqnet
+  4462657    164 -rwxr-xr-x   1 root     root       166488 May 25 11:14 /usr/bin/dpkg-query
+  4470424     12 -rwxr-xr-x   1 root     root         8626 Aug  6  2018 /usr/bin/mimeopen
+  4457343     16 -rwxr-xr-x   1 root     root        14488 Nov 12  2019 /usr/bin/pslog
+  4468220     16 -rwxr-xr-x   1 root     root        14568 Apr  6  2020 /usr/bin/fc-conflist
+  4469691      8 -rwxr-xr-x   1 root     root         6210 Feb 18  2020 /usr/bin/geteltorito
+  4457468     24 -rwxr-xr-x   1 root     root        23080 Feb 24  2020 /usr/bin/sg_stream_ctl
+  4457336     24 -rwxr-xr-x   1 root     root        22680 Mar 30  2020 /usr/bin/printerbanner
+  4470614     16 -rwxr-xr-x   1 root     root        14328 Jun 25  2019 /usr/bin/paperconf
+  4461823    784 -rwxr-xr-x   1 root     root       799104 Jan 11 15:09 /usr/bin/grub-file
+  4457380     12 -rwxr-xr-x   1 root     root        10481 Dec  7  2019 /usr/bin/savelog
+  4464346    244 -rwxr-xr-x   1 root     root       249032 Apr 29 12:03 /usr/bin/dbus-daemon
+  4471243     40 -rwxr-xr-x   1 root     root        39232 Feb 28  2020 /usr/bin/xwd
+  4457095     48 -rwxr-xr-x   1 root     root        47448 Sep  5  2019 /usr/bin/fmt
+  4456925     40 -rwxr-xr-x   1 root     root        39256 Sep  5  2019 /usr/bin/basename
+  4457104     20 -rwxr-xr-x   1 root     root        18808 Mar 19  2020 /usr/bin/gcr-viewer
+  4468407     28 -rwxr-xr-x   1 root     root        26776 Mar 30  2020 /usr/bin/whoopsie-preferences
+  4471275     36 -rwxr-xr-x   1 root     root        35160 Mar 18  2018 /usr/bin/xmodmap
+  4457570    100 -rwxr-xr-x   1 root     root       100728 Sep  5  2019 /usr/bin/touch
+  4456996    148 -rwxr-xr-x   1 root     root       149904 Mar 27  2020 /usr/bin/ckbcomp
+  4471287    148 -rwxr-xr-x   1 root     root       150040 Aug 15  2019 /usr/bin/xfce4-appfinder
+  4470903     16 -rwxr-xr-x   1 root     root        14568 Jan 23  2020 /usr/bin/unity-scope-loader
+  4473103     36 -rwxr-xr-x   1 root     root        35112 Apr  7 01:24 /usr/bin/getconf
+  4465831     32 -rwxr-xr-x   1 root     root        30896 Mar 11  2020 /usr/bin/isdv4-serial-inputattach
+  4457039      4 -rwxr-xr-x   1 root     root          608 Aug  3  2019 /usr/bin/debconf-communicate
+  4457407    976 -rwxr-xr-x   1 root     root       996584 Apr 21 12:54 /usr/bin/systemctl
+  4457172     16 -rwxr-xr-x   1 root     root        14408 May  9  2019 /usr/bin/kbd_mode
+  4467718     36 -rwxr-xr-x   1 root     root        35048 Feb  7 13:33 /usr/bin/fallocate
+  4457013     16 -rwxr-xr-x   1 root     root        15088 Oct 19  2020 /usr/bin/corelist
+  4462275     44 -rwxr-xr-x   1 root     root        43160 Feb  7 13:33 /usr/bin/more
+  4457497     44 -rwxr-xr-x   1 root     root        43312 Mar 10 13:48 /usr/bin/smbstatus
+  4457404      4 -rwxr-xr-x   1 root     root         1169 Nov 17  2019 /usr/bin/sensible-editor
+  4471074     16 -rwxr-xr-x   1 root     root        14656 Jan 30  2020 /usr/bin/usb_printerid
+  4457087     16 -rwxr-xr-x   1 root     root        14408 May  9  2019 /usr/bin/fgconsole
+  4469896     20 -rwxr-xr-x   1 root     root        18816 Mar 29  2020 /usr/bin/gimp-test-clipboard-2.0
+  4462523     32 -rwxr-xr-x   1 root     root        31416 May 25 11:14 /usr/bin/dpkg-shlibdeps
+  4470662     12 -rwxr-xr-x   1 root     root        10396 Feb 10  2020 /usr/bin/purple-url-handler
+  4468788     48 -rwxr-xr-x   1 root     root        47464 Mar 27  2020 /usr/bin/pdftotext
+  4457600     52 -rwxr-xr-x   1 root     root        51576 Sep  5  2019 /usr/bin/uniq
+  4456986     72 -rwxr-xr-x   1 root     root        72024 Sep  5  2019 /usr/bin/chcon
+  4471328      4 -rwxr-xr-x   1 root     root         1793 Mar 30  2020 /usr/bin/xflock4
+  4458054     16 -rwxr-xr-x   1 root     root        14656 Jun  2 00:59 /usr/bin/lsattr
+  4457393      4 -rwxr-xr-x   1 root     root         3602 Feb 24  2020 /usr/bin/scsi_mandat
+  4457155     64 -rwxr-xr-x   1 root     root        63880 Feb 26  2020 /usr/bin/infocmp
+  4470456     20 -rwxr-xr-x   1 root     root        18904 Feb 15 17:50 /usr/bin/gtk-launch
+  4462274      8 -rwxr-xr-x   1 root     root         6632 Apr  8 12:56 /usr/bin/xzdiff
+  4457296     24 -rwxr-xr-x   1 root     root        22968 May  9  2019 /usr/bin/openvt
+  4457269     44 -rwxr-xr-x   1 root     root        43352 Sep  5  2019 /usr/bin/nohup
+  4462680     84 -rwxr-xr-x   1 root     root        84472 May 25 11:14 /usr/bin/dpkg-trigger
+  4471286    268 -rwxr-xr-x   1 root     root       273448 Mar 15  2020 /usr/bin/xfburn
+  4468777     24 -rwxr-xr-x   1 root     root        22976 Mar 27  2020 /usr/bin/pdfattach
+  4457341     40 -rwxr-xr-x   1 root     root        39296 Mar 10 13:48 /usr/bin/sharesec
+  4456933     16 -rwxr-sr-x   1 root     tty         14488 Mar 30  2020 /usr/bin/bsd-write
+  4456953      4 -rwxr-xr-x   1 root     root         3329 Feb 17  2020 /usr/bin/byobu-launch
+  4471380     28 -rwxr-xr-x   1 root     root        26856 Dec  7  2019 /usr/bin/file2brl
+  4473194     48 -rwxr-xr-x   1 root     root        47328 Apr 21 12:54 /usr/bin/timedatectl
+  4457357      4 -rwxr-xr-x   1 root     root          372 Apr  5  2020 /usr/bin/pyjwt3
+  4462257     72 -rwxr-xr-x   1 root     root        73128 Feb  7 13:33 /usr/bin/findmnt
+  4469137      4 -rwxr-xr-x   1 root     root           40 Aug  9  2019 /usr/bin/7zr
+  4457639     56 -rwxr-xr-x   1 root     root        55824 Apr 21 12:54 /usr/bin/systemd-sysusers
+  4468778     24 -rwxr-xr-x   1 root     root        23464 Mar 27  2020 /usr/bin/pdfdetach
+  4459614    532 -rwxr-xr-x   1 root     root       544472 Nov 12  2021 /usr/bin/wget
+  4468353     84 -rwxr-xr-x   1 root     root        84408 Apr 14  2021 /usr/bin/aplay
+  4457322      8 -rwxr-xr-x   1 root     root         4533 Oct 19  2020 /usr/bin/pl2pm
+  4471339     24 -rwxr-xr-x   1 root     root        22864 Aug 24  2019 /usr/bin/xinit
+  4457351     60 -rwxr-xr-x   1 root     root        60176 Mar 10 13:48 /usr/bin/smbcontrol
+  4471150    208 -rwxr-xr-x   1 root     root       211256 Feb  2  2020 /usr/games/sgt-undead
+  4471137    188 -rwxr-xr-x   1 root     root       190776 Feb  2  2020 /usr/games/sgt-pegs
+  4471130    216 -rwxr-xr-x   1 root     root       219448 Feb  2  2020 /usr/games/sgt-map
+  4471118    224 -rwxr-xr-x   1 root     root       227640 Feb  2  2020 /usr/games/sgt-dominosa
+  4471133    204 -rwxr-xr-x   1 root     root       207160 Feb  2  2020 /usr/games/sgt-netslide
+  4471115    204 -rwxr-xr-x   1 root     root       207160 Feb  2  2020 /usr/games/sgt-blackbox
+  4471124    212 -rwxr-xr-x   1 root     root       215352 Feb  2  2020 /usr/games/sgt-guess
+  4471122    200 -rwxr-xr-x   1 root     root       203064 Feb  2  2020 /usr/games/sgt-flood
+  4471152    204 -rwxr-xr-x   1 root     root       207160 Feb  2  2020 /usr/games/sgt-unruly
+  4471119    200 -rwxr-xr-x   1 root     root       203064 Feb  2  2020 /usr/games/sgt-fifteen
+  4471146    212 -rwxr-xr-x   1 root     root       215352 Feb  2  2020 /usr/games/sgt-tents
+  4471149    208 -rwxr-xr-x   1 root     root       211256 Feb  2  2020 /usr/games/sgt-twiddle
+  4471142    232 -rwxr-xr-x   1 root     root       235832 Feb  2  2020 /usr/games/sgt-singles
+  4471117    204 -rwxr-xr-x   1 root     root       207160 Feb  2  2020 /usr/games/sgt-cube
+  4471134    188 -rwxr-xr-x   1 root     root       190904 Feb  2  2020 /usr/games/sgt-palisade
+  4471145    228 -rwxr-xr-x   1 root     root       231736 Feb  2  2020 /usr/games/sgt-solo
+  4471123    220 -rwxr-xr-x   1 root     root       223544 Feb  2  2020 /usr/games/sgt-galaxies
+  4471125    196 -rwxr-xr-x   1 root     root       198968 Feb  2  2020 /usr/games/sgt-inertia
+  4471121    212 -rwxr-xr-x   1 root     root       215352 Feb  2  2020 /usr/games/sgt-flip
+  4471127    200 -rwxr-xr-x   1 root     root       203064 Feb  2  2020 /usr/games/sgt-lightup
+  4471138    204 -rwxr-xr-x   1 root     root       207160 Feb  2  2020 /usr/games/sgt-range
+  4471154      4 -rwxr-xr-x   1 root     root         1496 Feb 20  2020 /usr/games/sgt-launcher
+  4471151    208 -rwxr-xr-x   1 root     root       211256 Feb  2  2020 /usr/games/sgt-unequal
+  4471120    180 -rwxr-xr-x   1 root     root       182648 Feb  2  2020 /usr/games/sgt-filling
+  4471128    276 -rwxr-xr-x   1 root     root       280888 Feb  2  2020 /usr/games/sgt-loopy
+  4471132    224 -rwxr-xr-x   1 root     root       227640 Feb  2  2020 /usr/games/sgt-net
+  4471116    228 -rwxr-xr-x   1 root     root       231736 Feb  2  2020 /usr/games/sgt-bridges
+  4471135    208 -rwxr-xr-x   1 root     root       211256 Feb  2  2020 /usr/games/sgt-pattern
+  4471144    216 -rwxr-xr-x   1 root     root       219448 Feb  2  2020 /usr/games/sgt-slant
+  4471141    192 -rwxr-xr-x   1 root     root       194872 Feb  2  2020 /usr/games/sgt-signpost
+  4471153    208 -rwxr-xr-x   1 root     root       211256 Feb  2  2020 /usr/games/sgt-untangle
+  4469993    124 -rwxr-xr-x   1 root     root       125304 Mar 29  2020 /usr/games/gnome-mines
+  4471143    200 -rwxr-xr-x   1 root     root       203064 Feb  2  2020 /usr/games/sgt-sixteen
+  4471147    216 -rwxr-xr-x   1 root     root       219448 Feb  2  2020 /usr/games/sgt-towers
+  4471140    204 -rwxr-xr-x   1 root     root       207160 Feb  2  2020 /usr/games/sgt-samegame
+  4471129    200 -rwxr-xr-x   1 root     root       203064 Feb  2  2020 /usr/games/sgt-magnets
+  4471139    216 -rwxr-xr-x   1 root     root       219448 Feb  2  2020 /usr/games/sgt-rect
+  4471126    212 -rwxr-xr-x   1 root     root       215352 Feb  2  2020 /usr/games/sgt-keen
+  4471136    272 -rwxr-xr-x   1 root     root       276792 Feb  2  2020 /usr/games/sgt-pearl
+  4470001    176 -rwxr-xr-x   1 root     root       178712 Mar 10  2020 /usr/games/gnome-sudoku
+  4471148    216 -rwxr-xr-x   1 root     root       219448 Feb  2  2020 /usr/games/sgt-tracks
+  4471131    224 -rwxr-xr-x   1 root     root       227640 Feb  2  2020 /usr/games/sgt-mines
