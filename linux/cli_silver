@@ -1,0 +1,229 @@
+
+где была использована вспышка. Требуется ImageMagick
+
+identify -format "%f F:%[EXIF:Flash]\n" *.jpg | egrep " F:(0|16|24|32)$"
+Показать в файле символы табуляции
+
+cat -T example.txt
+Показать процессы httpd исключив сам grep
+
+ps auxww | grep "[h]ttpd"
+Список 20 самых больших по объему файлов/каталогов в текущем каталоге
+
+du -ma | sort -nr | head -n 20
+
+Удалить все письма из очереди Postfix за 11 декабря
+
+mailq | awk '/^[0-9A-F]+ .+ Dec 11 /{print $1}' | xargs -n 1 postsuper -d
+
+Сканировать внутренню сеть на хочты с открытым 22 портом
+
+nmap --open -p T:22 192.168.1.0/24
+
+Автоматически установить публичный ключ на удаленный хост
+
+ssh-copy-id 'user@remotehost'
+
+Использование -w в diif позволит игнорировать разницу в табах и пробелах
+
+diff -w index.html bookexample/index.html
+
+Поиск по файловой системе без спуска в /sys и /proc
+
+find / \( -path /proc -o -path /sys \) -prune -o -print
+30/12/2016
+Раздел: Utilities
+Тэги: bash, cli, console, Linux
+_________________________________________________________________________
+Консольные полезности 6
+Переименовать файл короткой командой:
+
+mv foo.{old,new}
+Показать количество НЕуспешных запросов (не 2хх, 3хх HTTP коды ответа)
+
+awk '$9!~/^[23]/{print $4}' access_log | cut -c1-12 | uniq -c
+Создать каталог и сразу перейти в него
+
+mkdir dir && cd $_
+Запустить скрипт из крона только если он еще не работает
+
+*/3 * * * * if [[ -z $(pgrep offlineimap) ]]; then offlineimap -u quiet; fi
+Проверить как давно работает процесс
+
+ps -p PID -o pid,cmd,etime
+scp не несколько удаленных хостов
+
+parallel -j0 scp file.txt {}:/dstDir ::: user@srv1 user@srv2
+Вывод dmesg в режиме реального времени и в "человеческом" виде (цвет, даты и т.п.)
+
+dmesg -wH
+Ого файла
+
+sed '9417q;d' dbdump.sql
+Текущее время в UTC:
+
+date -u
+
+
+Отцензурировать все email в report.txt
+
+sed -r -i 's/\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[a-z]{2,30}\b/xxx@yyy.zzz/' report.txt
+wc имеет опции для подсчета символов, слов или строк:
+
+wc -c
+wc -w
+wc -l
+Объединить несколько pdf в один для печати
+
+convert 1.pdf 2.pdf 3.pdf all.pdf
+Суммировать числа из третьего столбца файла data.txt
+
+awk '{s+=$3} END {print s}' data.txt
+Вывести самую длинную строку из файла
+
+awk 'length > max { max=length;maxline=$0 } END { print maxline; }' quotes.txt
+Отсортировать вывод df, оставив заголовок вверху
+
+df -hP | awk 'NR==1;NR>1{print|"sort -k5rn"}'
+Разделить файл на несколько по 50 строк
+
+split --lines=50 foo.txt
+Проверить какая память установлена в компьютере не открывая его
+
+dmidecode -t 17
+lshw -short -C memory
+01/04/2016
+Раздел: Utilities
+Тэги: bash, cli, console, Linux, консольные полезности
+
+Консольные полезности 4
+Последние добавленные файлы логов
+
+ls -ltr /var/log | tail
+Скопировать права с одного файла на другой
+
+chmod --reference=foo.txt bar.txt
+Удалить дубли строк
+
+awk '!seen[$0]++' app.logfile
+Хак для cd (смена каталога)
+
+CDPATH=/etc:/usr/local/etc
+cd httpd # cd to /etc/httpd
+cd foo # cd /usr/local/etc/foo
+Игнорирование в истории комманд
+
+export HISTIGNORE="&:[ ]*:exit:ls:bg:fg:history:clear"
+Удалить предыдущую строку из истории и вызов этого алиаса
+
+alias hideprev='history -d $((HISTCMD-2)) && history -d $((HISTCMD-1))'
+Поиск заражлить миллионы файлов
+
+rsync -a -delete empty/ foo/
+Усыпить процесс и перенсти его в screen
+
+longcmd ; [Ctrl-Z] ; bg ; disown ; screen ; reptyr $( pidof longcmd )
+Посмотреть SELECT'ы и ответы MySQL (не работает с Unix соккетом)
+
+ngrep -d eth0 -i 'select' port 3306
+Удалить все сообщения за 20 января из почтовой очереди Postfix
+
+mailq |grep " Jan 20 " |awk {'print $1'} |xargs -n 1 postsuper -d
+Преобразовать все в нижний регистр
+
+tolower(){ echo ${@,,}; }
+Если игра вышла и не восстановила разрешение экрана, то попробуйте это
+
+xrandr -s 0
+Нет telnet, netcat? Не беда
+
+curl -v telnet://blt.evedder\.otv:4240
+Наблюдаем за несколькими командами одновременно. Все знаки (кавычки, точки с запятой, etc) имеют значение!
+
+watch -n 10 '{ uptime ; free ; df -h; }'
+Список файлов, сгруппированный по расширениям
+
+ls -X
+Детальная статистика по дисковому разделу
+
+vmstat -p /dev/sda6
+Отсортировать список IP адресов
+
+sort -V ipv4addrs.txt
+28/05/2015
+Раздел: Utilities
+Тэги: bash, cli, console, Linux, консольные полезности
+
+Консольные полезности 3
+Отправить первые 80 гигабайт диска на удаленный хост:
+
+dd if=/dev/sda bs=1G count=80 |pv -s80G |pbzip2 -c |ssh user@remote 'cat > /tmp/sda-80GB.bz2'
+Удалить слово перед курсором:
+
+<Ctrl+W>
+Как выйти из vim:
+
+<ESC>:q!
+Запустить htop на удаленном сервере с локальным отображением:
+
+ssh host -t htop
+Консольная утилита для чтения PDF:
+
+pdftohtml -stdout my.pdf > my.pdf.html; elinks my.pdf.html
+Архивирование множества лог файлов в параллельных потоках по количеству ядер сервера:
+
+ls *.log | parallel xz -v
+03/02/2015
+Раздел: Utilities
+Тэги: bash, cli, console, Linux, консольные полезности
+
+Консольные полезности 2
+В Линукс найти процесс dd и вывести прогресс его работы:
+
+kill -USR1 $( pidof dd )
+Найти к какому пакету относится файл. Перед этим необходимо установить apt-file.
+
+apt-file search /usr/bin/apxs2
+Найти строки с eval( в PHP файлах в пользовательский www каталогах:
+
+find /home/*/www -name "*.php" -exec grep --color -H -n 'eval(' {} +
+Скачать файлы в диапазоне от IMG_0001.JPG до IMG_1000.JPG:
+
+curl --remote-name http://www.example.com/images/IMG_[0001-0100].JPG
+[Ctrl+\] - более "жесткая" версия Ctrl+C, посылает SIGQUIT, который убивает большинство программ. Многие до сих пор это обрабатывают. "Сильнее" только kill -9.
+
+Найти все файлы больше 100М и вывести их с человеческими размерами:
+
+find / -size +100M -exec ls -sh {} \;
+Перейти в предыдущую ветку, где был до этого:
+
+git checkout -
+Команда mirror для использования камеры и mplayer в качестве зеркала:
+
+mirror(){ mplayer -vf mirror -v tv:// -tv device=/dev/video0:driver=v4l2; }
+01/10/2014
+Раздел: Utilities
+Тэги: bash, cli, console, Linux, консольные полезности
+
+Консольные полезности
+Функция-разделитель:
+
+separator(){ printf '%*s\n' $(tput cols) '' | tr ' ' -; }
+Перенести процесс в другую консоль:
+
+$ reptyr <pid>
+Перевести процесс в фон и уведомить, когда он завершится:
+
+<ctrl-z> bg ; wait %1 ; echo "done" | mail -s "done" you@example.com
+Сгенерить данные персонажа для тестов:
+
+rig
+Какие сервисы используют не обновленные библиотеки:
+
+$ sudo lsof -n | grep ssl | grep DEL
+Послать запрос в unix socket:
+
+printf "GET / HTTP/1.1\r\nHost: http://example.com\r\nConnection: close\r\n\r\n" | nc -U /tmp/unicorn.sock
+Послать запрос серверу с указанием протокола HTTPS:
+
+curl -v -H "X-FORWARDED-PROTO: https" http://localhost/
