@@ -1,0 +1,4 @@
+COMMAND     PID      USER   FD   TYPE DEVICE SIZE/OFF NODE NAME
+process.s 44213 ashykhmin    0u   CHR  136,0      0t0    3 /dev/pts/0
+process.s 44213 ashykhmin    1u   CHR  136,0      0t0    3 /dev/pts/0
+process.s 44213 ashykhmin    2u   CHR  136,0      0t0    3 /dev/pts/0
