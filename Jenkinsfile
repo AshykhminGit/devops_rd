@@ -15,5 +15,13 @@ pipeline {
                 sh './script.sh'
             }
         }
+        stage('Make dir') {
+            steps {
+                echo 'Making dir'
+                sh 'mkdir onlyDevops'
+                sh 'cd onlyDevops'
+                sh 'touch fuckingamazing.txt'
+            }
+        }
     }
 }
