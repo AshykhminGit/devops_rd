@@ -25,5 +25,13 @@ pipeline {
                 sh 'touch fuckingamazing.txt'
             }
         }
+        stage('Apache stoppping') {
+            steps {
+                echo 'Killin Kenny (Apache)'
+                
+                sh './killApache.sh'
+                echo 'They killed Kenny, Bastards!'
+            }
+        }
     }
 }
