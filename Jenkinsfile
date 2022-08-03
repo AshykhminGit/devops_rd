@@ -19,9 +19,7 @@ pipeline {
             steps {
                 echo 'Making dir'
                 sh 'pwd'
-                sh 'mkdir onlyDevops'
-                sh 'cd onlyDevops'
-                sh 'touch fuckingamazing.txt'
+           
             }
         }
         stage('Apache stoppping') {
