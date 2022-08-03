@@ -7,8 +7,7 @@ pipeline {
                 echo 'Hello Fucking Spielberg'
             }
         }
-    }
-     stages {
+   
         stage('Run bash scripts') {
             steps {
                 echo 'Starting run'
