@@ -18,7 +18,9 @@ pipeline {
         stage('Make dir') {
             steps {
                 echo 'Making dir'
-                sh 'pwd'
+                sh 'mkdir onlyDevops1'
+                sh 'cd onlyDevops1'
+                sh 'touch fuckingamazing1.txt'
            
             }
         }
