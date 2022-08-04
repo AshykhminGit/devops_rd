@@ -28,7 +28,7 @@ pipeline {
             steps {
                 echo 'Killin Kenny (Apache)'
                 
-                sh './killApache.sh'
+                sh './status4.sh'
                 echo 'They killed Kenny, Bastards!'
             }
         }
