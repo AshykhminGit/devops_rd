@@ -1,7 +1,7 @@
 #!/bin/bash
 #создаем пременную для поиска апача. нэйм для имени PID для номера процесса
 name='apache2'
-PID=`ps aux| grep [/]usr/sbin/apache2 | awk '{print $2}'`.  # ``    такие кавычки нужны для выполнения команды
+PID=`ps aux| grep [/]usr/sbin/apache2 | awk '{print $2}'`  # ``    такие кавычки нужны для выполнения команды
 
 # DEBUG info
 echo $PID
