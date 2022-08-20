@@ -1,0 +1,66 @@
+#/subscriptions/dd25f821-3fb5-41e9-ad6e-f60ce87835ac/resourcegroups/Ash_groupe/providers/Microsoft.Compute/virtualMachines/ashmicro
+
+{
+    "name": "ashmicro",
+    "id": "/subscriptions/dd25f821-3fb5-41e9-ad6e-f60ce87835ac/resourceGroups/Ash_groupe/providers/Microsoft.Compute/virtualMachines/ashmicro",
+    "type": "Microsoft.Compute/virtualMachines",
+    "location": "francecentral",
+    "properties": {
+        "vmId": "18101907-a12d-471e-8acf-70014ae327f0",
+        "hardwareProfile": {
+            "vmSize": "Standard_B1s"
+        },
+        "storageProfile": {
+            "imageReference": {
+                "publisher": "canonical",
+                "offer": "0001-com-ubuntu-server-focal",
+                "sku": "20_04-lts-gen2",
+                "version": "latest"
+            },
+            "osDisk": {
+                "osType": "Linux",
+                "name": "ashmicro_OsDisk_1_c46ddd5c0eb04f75bb102eade6e6a08b",
+                "createOption": "FromImage",
+                "caching": "ReadWrite",
+                "managedDisk": {
+                    "storageAccountType": "Standard_LRS",
+                    "id": "/subscriptions/dd25f821-3fb5-41e9-ad6e-f60ce87835ac/resourceGroups/Ash_groupe/providers/Microsoft.Compute/disks/ashmicro_OsDisk_1_c46ddd5c0eb04f75bb102eade6e6a08b"
+                },
+                "diskSizeGB": 30
+            },
+            "dataDisks": []
+        },
+        "osProfile": {
+            "computerName": "ashmicro",
+            "adminUsername": "ash",
+            "linuxConfiguration": {
+                "disablePasswordAuthentication": true,
+                "ssh": {
+                    "publicKeys": [
+                        {
+                            "path": "/home/ash/.ssh/authorized_keys",
+                            "keyData": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC/fBii8er5pAfEoFAYfCHgPA9fLnpJlsa8FdBHQu//ZTSlyDDwV9ILWanlUH80wf+kFfH2NKs0K9Z7h54u2DhBymPJwPhL2yeuHKIh/w2ZKT0Q4VS8D6LiM5NbZD3TRFx3nrosfEA3cOdxYzclJ6RapXJRPnC9bizoylEWMshSXOFEuZliPB5Yyl+MRm0sZLvimmU/PrU83IlhpcbvHoyp+yX/8oQdxdEJvqHybPVLbCBb9bp3coNSORULMXeePkwT3tTxI6EbpydJpy6oJtjbiQouBRxTV68zMsMPzTwqJAygYOBTM98yb0ZUsCKk9TA7FTaCBJHMm6cO9ofIx6hOJOO+xurrbAUqbZEtAlgKa6mRSqzycBsUAVldagEq+bPLMIfXEPaDnMoSIuEZ8czbrV8gZXwh/jovnOjijL/Q1dljJNlXAOAeQ/brAYm2znYpgnVfbejXHpZRf5ARauGucf3Htk/Aawbf+Whx2b6Hyz0Llfx1yErffhXfSarYGH0= generated-by-azure"
+                        }
+                    ]
+                }
+            },
+            "secrets": []
+        },
+        "networkProfile": {
+            "networkInterfaces": [
+                {
+                    "id": "/subscriptions/dd25f821-3fb5-41e9-ad6e-f60ce87835ac/resourceGroups/Ash_groupe/providers/Microsoft.Network/networkInterfaces/ashmicro922",
+                    "properties": {
+                        "deleteOption": "Delete"
+                    }
+                }
+            ]
+        },
+        "diagnosticsProfile": {
+            "bootDiagnostics": {
+                "enabled": true
+            }
+        },
+        "provisioningState": "Succeeded"
+    }
+}
