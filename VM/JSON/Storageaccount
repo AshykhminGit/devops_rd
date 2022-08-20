@@ -1,0 +1,51 @@
+{
+    "sku": {
+        "name": "Standard_LRS",
+        "tier": "Standard"
+    },
+    "kind": "StorageV2",
+    "id": "/subscriptions/dd25f821-3fb5-41e9-ad6e-f60ce87835ac/resourceGroups/devops_test_rg/providers/Microsoft.Storage/storageAccounts/storagefordevopsgroup",
+    "name": "storagefordevopsgroup",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "westeurope",
+    "tags": {},
+    "properties": {
+        "minimumTlsVersion": "TLS1_1",
+        "allowBlobPublicAccess": true,
+        "allowSharedKeyAccess": true,
+        "isHnsEnabled": true,
+        "networkAcls": {
+            "bypass": "AzureServices",
+            "virtualNetworkRules": [],
+            "ipRules": [],
+            "defaultAction": "Allow"
+        },
+        "supportsHttpsTrafficOnly": true,
+        "encryption": {
+            "services": {
+                "file": {
+                    "enabled": true,
+                    "lastEnabledTime": "2022-08-20T12:06:37.9405165Z"
+                },
+                "blob": {
+                    "enabled": true,
+                    "lastEnabledTime": "2022-08-20T12:06:37.9405165Z"
+                }
+            },
+            "keySource": "Microsoft.Storage"
+        },
+        "accessTier": "Hot",
+        "provisioningState": "Succeeded",
+        "creationTime": "2022-08-20T12:06:37.4717589Z",
+        "primaryEndpoints": {
+            "dfs": "https://storagefordevopsgroup.dfs.core.windows.net/",
+            "web": "https://storagefordevopsgroup.z6.web.core.windows.net/",
+            "blob": "https://storagefordevopsgroup.blob.core.windows.net/",
+            "queue": "https://storagefordevopsgroup.queue.core.windows.net/",
+            "table": "https://storagefordevopsgroup.table.core.windows.net/",
+            "file": "https://storagefordevopsgroup.file.core.windows.net/"
+        },
+        "primaryLocation": "westeurope",
+        "statusOfPrimary": "available"
+    }
+}
