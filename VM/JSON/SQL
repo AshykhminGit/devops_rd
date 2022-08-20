@@ -1,0 +1,17 @@
+{
+    "id": "/subscriptions/dd25f821-3fb5-41e9-ad6e-f60ce87835ac/resourceGroups/ash_groupe/providers/Microsoft.Network/privateDnsZones/azuredbforpostsql.private.postgres.database.azure.com",
+    "name": "azuredbforpostsql.private.postgres.database.azure.com",
+    "type": "Microsoft.Network/privateDnsZones",
+    "etag": "441b8d17-6361-4d8d-8b09-61073d634c2d",
+    "location": "global",
+    "tags": {},
+    "properties": {
+        "maxNumberOfRecordSets": 25000,
+        "maxNumberOfVirtualNetworkLinks": 1000,
+        "maxNumberOfVirtualNetworkLinksWithRegistration": 100,
+        "numberOfRecordSets": 2,
+        "numberOfVirtualNetworkLinks": 1,
+        "numberOfVirtualNetworkLinksWithRegistration": 0,
+        "provisioningState": "Succeeded"
+    }
+}
