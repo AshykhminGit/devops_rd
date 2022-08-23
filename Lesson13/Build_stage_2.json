@@ -1,0 +1,49 @@
+package _Self.buildTypes
+
+import jetbrains.buildServer.configs.kotlin.*
+import jetbrains.buildServer.configs.kotlin.buildSteps.exec
+import jetbrains.buildServer.configs.kotlin.triggers.vcs
+
+object BuildStage2 : BuildType({
+    name = "Build_Stage_2"
+
+    artifactRules = "Lesson_6 => release_ver_{%teamcity.build.id%}.zip"
+    publishArtifacts = PublishMode.SUCCESSFUL
+
+    vcs {
+        root(HttpsGithubComAshykhminGitDevopsRefsHeadsRelease)
+    }
+
+    steps {
+        exec {
+            name = "step1"
+            workingDir = "Lesson_6"
+            path = "Lesson_6/script1.sh"
+        }
+        exec {
+            name = "step2"
+            workingDir = "Lesson_6"
+            path = "Lesson_6/script2.sh"
+        }
+        exec {
+            name = "step3"
+            path = "Lesson_6/script3.sh"
+        }
+        exec {
+            name = "step4"
+            workingDir = "Lesson_6"
+            path = "Lesson_6/script4.sh"
+        }
+    }
+
+    triggers {
+        vcs {
+        }
+    }
+
+    dependencies {
+        snapshot(Build) {
+            onDependencyFailure = FailureAction.FAIL_TO_START
+        }
+    }
+})
